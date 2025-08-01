@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Gender,Size_Available,Color,Texture,Material_Quality,Trend_Tag,Price,Discount_Percent,Accessories_Match,Brand_Ambassador,Season,Launch_Year,In_Stock,Ratings
+MTR10000,Basic Jeans,Footwear,Sneakers,Allen Solly,Unisex,"M, L, XL",Black,Smooth,Recycled,Minimalist,4714,15%,Cap,Virat Kohli,All Season,2024,Yes,3.6
+MTR10001,Slim Fit Hoodies,Winterwear,Shirts,Levi’s,Women,"S, M, L, XL",Black,Matte,Premium,Y2K,585,30%,Sunglasses,Ranveer Singh,Summer,2024,Yes,4.0
+MTR10002,Basic Jeans,Winterwear,Sneakers,Puma,Men,Free Size,Black,Textured,Standard,Retro,1961,15%,Leather Belt,Deepika Padukone,Winter,2025,Yes,3.7
+MTR10003,Sporty Kurtis,Accessories,Scarves,Zara,Unisex,Free Size,White,Glossy,Premium,Retro,549,25%,Leather Belt,Deepika Padukone,Summer,2025,Yes,4.5
+MTR10004,Basic Kurtis,Bottomwear,Shirts,Adidas,Men,Free Size,Beige,Matte,Standard,Athleisure,3536,20%,Cap,Virat Kohli,All Season,2025,No,4.4
+MTR10005,Basic Sandals,Ethnic,Scarves,Nike,Men,UK 6–11,Yellow,Ribbed,Standard,Minimalist,5801,25%,Watch,Ranveer Singh,Winter,2023,No,3.6
+MTR10006,Casual Jeans,Winterwear,T-Shirt,Allen Solly,Men,UK 6–11,Beige,Matte,Eco-Friendly,Boho,1058,15%,Statement Brooch,Virat Kohli,All Season,2023,No,4.6
+MTR10007,Floral Kurtis,Footwear,T-Shirt,H&M,Women,UK 6–11,Navy Blue,Glossy,Recycled,Y2K,920,30%,Silver Jhumkas,Virat Kohli,Winter,2023,No,3.7
+MTR10008,Slim Fit Scarves,Footwear,Shirts,Zara,Men,"XS, S, M, L",Grey,Ribbed,Standard,Y2K,1279,30%,Statement Brooch,None,Winter,2023,Yes,4.6
+MTR10009,Formal Sneakers,Winterwear,Shirts,Roadster,Unisex,UK 6–11,Black,Matte,Eco-Friendly,Retro,4543,20%,Sunglasses,Deepika Padukone,Summer,2023,No,3.6
+MTR10010,Basic Sandals,Accessories,Shirts,Nike,Men,UK 6–11,Grey,Textured,Recycled,Retro,3405,25%,Sunglasses,Kiara Advani,Summer,2024,No,3.6
+MTR10011,Printed Shirts,Bottomwear,Sneakers,Zara,Women,Free Size,Pastel Green,Smooth,Recycled,Streetwear,865,10%,Leather Belt,Kiara Advani,Summer,2025,No,4.9
+MTR10012,Floral Jeans,Winterwear,Kurtis,Allen Solly,Women,"M, L, XL",Grey,Smooth,Eco-Friendly,Minimalist,5794,25%,Statement Brooch,Kiara Advani,All Season,2024,No,3.6
+MTR10013,Casual Kurtis,Ethnic,Blazers,Nike,Women,"XS, S, M, L",Beige,Textured,Premium,Minimalist,2051,20%,Silver Jhumkas,Kiara Advani,Summer,2023,Yes,4.0
+MTR10014,Basic T-Shirt,Footwear,T-Shirt,Biba,Women,"XS, S, M, L",White,Soft,Eco-Friendly,Boho,4162,30%,Sports Socks,Kareena Kapoor,Winter,2024,Yes,4.4
+MTR10015,Floral Sneakers,Ethnic,T-Shirt,Allen Solly,Men,"XS, S, M, L",Yellow,Smooth,Standard,Athleisure,5534,20%,Watch,Virat Kohli,Winter,2023,Yes,4.2
+MTR10016,Graphic Sandals,Winterwear,Blazers,U.S. Polo Assn.,Women,"M, L, XL",Black,Ribbed,Recycled,Streetwear,2613,30%,Leather Belt,Virat Kohli,Summer,2025,No,4.6
+MTR10017,Slim Fit Kurtis,Accessories,Shirts,Zara,Men,UK 6–11,Beige,Rough,Eco-Friendly,Athleisure,2607,25%,Cap,None,Summer,2024,Yes,3.6
+MTR10018,Formal Hoodies,Winterwear,Jeans,Allen Solly,Unisex,UK 6–11,Olive,Textured,Eco-Friendly,Minimalist,990,20%,Statement Brooch,Ranveer Singh,Summer,2024,No,4.6
+MTR10019,Graphic Tracks,Accessories,Sandals,Roadster,Men,"XS, S, M, L",Red,Smooth,Premium,Y2K,3801,15%,Sunglasses,Ranveer Singh,Winter,2025,No,5.0
+MTR10020,Basic Tracks,Topwear,Jeans,H&M,Men,"S, M, L, XL",Pastel Green,Textured,Recycled,Y2K,943,30%,Leather Belt,Virat Kohli,Winter,2023,Yes,4.4
+MTR10021,Floral Jeans,Topwear,T-Shirt,H&M,Men,UK 6–11,Black,Textured,Standard,Streetwear,3535,10%,Statement Brooch,Kareena Kapoor,Summer,2025,Yes,4.7
+MTR10022,Slim Fit Shirts,Winterwear,Shirts,Roadster,Unisex,"XS, S, M, L",White,Textured,Premium,Y2K,4681,25%,Cap,Deepika Padukone,All Season,2023,No,4.2
+MTR10023,Graphic Kurtis,Topwear,T-Shirt,Biba,Women,"S, M, L, XL",Pink,Rough,Premium,Minimalist,5080,25%,Sports Socks,Ranveer Singh,Winter,2023,No,4.9
+MTR10024,Slim Fit Jeans,Footwear,Tracks,Zara,Unisex,"S, M, L, XL",Black,Soft,Eco-Friendly,Boho,2003,25%,Sunglasses,Virat Kohli,Summer,2024,Yes,3.6
+MTR10025,Graphic Kurtis,Footwear,Shirts,U.S. Polo Assn.,Unisex,"XS, S, M, L",Red,Matte,Standard,Retro,4497,15%,Statement Brooch,None,Winter,2025,Yes,4.5
+MTR10026,Printed Sandals,Topwear,Kurtis,Roadster,Women,"M, L, XL",Black,Glossy,Eco-Friendly,Streetwear,2715,10%,Silver Jhumkas,Kiara Advani,All Season,2024,Yes,4.5
+MTR10027,Slim Fit Kurtis,Accessories,Jeans,H&M,Unisex,"XS, S, M, L",Black,Glossy,Recycled,Minimalist,3811,10%,Sunglasses,None,All Season,2023,No,4.5
+MTR10028,Floral Shirts,Accessories,T-Shirt,U.S. Polo Assn.,Unisex,Free Size,White,Textured,Eco-Friendly,Athleisure,3020,10%,Watch,Virat Kohli,Winter,2023,Yes,3.8
+MTR10029,Floral Jeans,Topwear,Hoodies,Zara,Women,Free Size,Red,Smooth,Standard,Boho,3775,10%,Sunglasses,Kiara Advani,Summer,2025,No,3.9
+MTR10030,Basic Blazers,Ethnic,Scarves,H&M,Unisex,"XS, S, M, L",Yellow,Matte,Premium,Minimalist,2408,25%,Statement Brooch,Kareena Kapoor,All Season,2023,No,3.8
+MTR10031,Formal Jeans,Winterwear,Jeans,Nike,Women,"XS, S, M, L",Yellow,Matte,Standard,Boho,1000,20%,Silver Jhumkas,Kareena Kapoor,Summer,2024,Yes,3.7
+MTR10032,Floral Sneakers,Accessories,Shirts,Nike,Women,"S, M, L, XL",Navy Blue,Textured,Premium,Y2K,4567,25%,Sports Socks,Kiara Advani,Winter,2023,Yes,3.7
+MTR10033,Graphic Scarves,Accessories,Sneakers,H&M,Men,"S, M, L, XL",Pastel Green,Glossy,Premium,Minimalist,2795,25%,Silver Jhumkas,Kiara Advani,Summer,2024,Yes,3.9
+MTR10034,Slim Fit Shirts,Ethnic,Shirts,Roadster,Men,UK 6–11,Pastel Green,Ribbed,Recycled,Retro,5353,10%,Watch,None,Winter,2024,No,3.7
+MTR10035,Printed Hoodies,Ethnic,Scarves,Levi’s,Men,"M, L, XL",Olive,Smooth,Standard,Streetwear,2650,15%,Cap,Deepika Padukone,All Season,2024,No,3.9
+MTR10036,Formal Sandals,Winterwear,Jeans,Biba,Women,UK 6–11,Pink,Glossy,Standard,Retro,5988,20%,Statement Brooch,Kareena Kapoor,All Season,2025,No,3.6
+MTR10037,Floral Kurtis,Ethnic,Hoodies,Nike,Women,UK 6–11,Grey,Textured,Recycled,Athleisure,5340,10%,Sports Socks,Kareena Kapoor,All Season,2024,Yes,4.9
+MTR10038,Casual T-Shirt,Footwear,Blazers,Levi’s,Unisex,"S, M, L, XL",Yellow,Soft,Recycled,Retro,4546,30%,Cap,Deepika Padukone,Summer,2024,Yes,4.4
+MTR10039,Casual Tracks,Accessories,Hoodies,Puma,Men,"M, L, XL",Navy Blue,Soft,Recycled,Y2K,2630,25%,Sports Socks,Ranveer Singh,Winter,2023,Yes,5.0
+MTR10040,Basic Tracks,Footwear,Tracks,Zara,Unisex,UK 6–11,Beige,Matte,Recycled,Athleisure,3540,10%,Cap,Ranveer Singh,Summer,2025,No,4.1
+MTR10041,Slim Fit Tracks,Ethnic,Hoodies,Adidas,Women,UK 6–11,White,Ribbed,Eco-Friendly,Boho,4944,20%,Sports Socks,Virat Kohli,Winter,2025,Yes,4.4
+MTR10042,Sporty Sneakers,Accessories,Scarves,Allen Solly,Men,"M, L, XL",Pink,Soft,Recycled,Retro,2476,25%,Statement Brooch,None,All Season,2025,Yes,3.9
+MTR10043,Graphic Scarves,Footwear,Blazers,Levi’s,Unisex,"M, L, XL",Beige,Ribbed,Standard,Streetwear,1932,30%,Sunglasses,Ranveer Singh,Winter,2024,No,4.2
+MTR10044,Printed Sneakers,Bottomwear,Hoodies,Levi’s,Unisex,Free Size,Olive,Soft,Standard,Athleisure,4713,20%,Watch,Ranveer Singh,Summer,2023,Yes,3.5
+MTR10045,Printed Sneakers,Ethnic,Blazers,Puma,Women,"S, M, L, XL",Grey,Glossy,Eco-Friendly,Y2K,5826,20%,Silver Jhumkas,Virat Kohli,Summer,2024,No,4.0
+MTR10046,Floral Sandals,Bottomwear,Tracks,Biba,Unisex,"S, M, L, XL",Pink,Textured,Eco-Friendly,Boho,5912,20%,Leather Belt,Ranveer Singh,Summer,2025,Yes,5.0
+MTR10047,Slim Fit Blazers,Accessories,Sandals,H&M,Women,"S, M, L, XL",White,Smooth,Standard,Minimalist,1179,25%,Watch,Ranveer Singh,Winter,2024,No,4.7
+MTR10048,Sporty Jeans,Footwear,Kurtis,Roadster,Men,"XS, S, M, L",Pink,Matte,Eco-Friendly,Y2K,2289,25%,Leather Belt,None,Summer,2025,Yes,4.8
+MTR10049,Casual Sandals,Footwear,Sneakers,Roadster,Unisex,"XS, S, M, L",Grey,Smooth,Recycled,Streetwear,5520,25%,Leather Belt,Ranveer Singh,Winter,2024,Yes,4.6
+MTR10050,Printed Jeans,Topwear,Jeans,Adidas,Men,"XS, S, M, L",Beige,Glossy,Eco-Friendly,Streetwear,1405,20%,Watch,Kareena Kapoor,All Season,2024,No,4.6
+MTR10051,Formal Kurtis,Accessories,Sandals,H&M,Unisex,"XS, S, M, L",Yellow,Glossy,Recycled,Minimalist,5018,20%,Watch,Deepika Padukone,Summer,2025,No,3.7
+MTR10052,Sporty Hoodies,Topwear,Scarves,Roadster,Men,UK 6–11,Red,Soft,Recycled,Streetwear,4171,15%,Statement Brooch,Deepika Padukone,Winter,2024,No,3.9
+MTR10053,Floral Scarves,Bottomwear,Scarves,Allen Solly,Women,"XS, S, M, L",Olive,Matte,Recycled,Streetwear,5584,20%,Cap,None,All Season,2023,Yes,4.0
+MTR10054,Slim Fit Jeans,Footwear,Jeans,Puma,Women,"XS, S, M, L",Black,Soft,Standard,Boho,999,20%,Cap,None,All Season,2024,Yes,4.8
+MTR10055,Sporty Hoodies,Accessories,Jeans,Puma,Women,Free Size,Pastel Green,Ribbed,Standard,Y2K,3798,30%,Leather Belt,Ranveer Singh,Summer,2023,Yes,4.0
+MTR10056,Sporty Tracks,Winterwear,Scarves,Zara,Unisex,"M, L, XL",Navy Blue,Smooth,Premium,Athleisure,2805,15%,Leather Belt,Ranveer Singh,Summer,2024,Yes,3.7
+MTR10057,Casual T-Shirt,Accessories,Jeans,U.S. Polo Assn.,Men,"M, L, XL",Red,Matte,Eco-Friendly,Minimalist,1691,30%,Sunglasses,Kiara Advani,All Season,2025,No,4.4
+MTR10058,Floral Scarves,Winterwear,Kurtis,Roadster,Men,Free Size,Pink,Ribbed,Standard,Retro,4262,10%,Sunglasses,Kiara Advani,All Season,2024,Yes,4.9
+MTR10059,Sporty Jeans,Footwear,Shirts,Biba,Men,UK 6–11,Beige,Matte,Premium,Streetwear,4070,15%,Sports Socks,Kareena Kapoor,Winter,2023,Yes,5.0
+MTR10060,Casual Sandals,Ethnic,Blazers,Roadster,Women,Free Size,Navy Blue,Textured,Premium,Y2K,2152,30%,Statement Brooch,None,Summer,2024,No,4.6
+MTR10061,Formal Blazers,Ethnic,Scarves,Puma,Unisex,"S, M, L, XL",Navy Blue,Smooth,Standard,Minimalist,2739,25%,Statement Brooch,Kiara Advani,Winter,2024,No,4.6
+MTR10062,Floral Scarves,Ethnic,Sandals,Allen Solly,Men,"M, L, XL",Grey,Textured,Premium,Athleisure,3721,15%,Sports Socks,Ranveer Singh,Winter,2025,Yes,5.0
+MTR10063,Printed Jeans,Accessories,Hoodies,Allen Solly,Women,UK 6–11,Pink,Smooth,Premium,Boho,5913,10%,Silver Jhumkas,None,Summer,2024,Yes,4.9
+MTR10064,Printed Sneakers,Topwear,Sandals,Adidas,Women,"XS, S, M, L",White,Ribbed,Recycled,Retro,2793,15%,Watch,Virat Kohli,All Season,2024,Yes,4.6
+MTR10065,Slim Fit Sandals,Ethnic,Sandals,Biba,Men,"M, L, XL",Olive,Rough,Premium,Athleisure,5092,30%,Watch,Virat Kohli,Winter,2024,Yes,4.9
+MTR10066,Sporty Tracks,Accessories,Kurtis,Biba,Women,"M, L, XL",White,Ribbed,Premium,Boho,728,20%,Cap,Ranveer Singh,Summer,2024,No,4.4
+MTR10067,Basic Kurtis,Topwear,Blazers,U.S. Polo Assn.,Men,Free Size,Navy Blue,Rough,Premium,Retro,4465,15%,Cap,Kareena Kapoor,Winter,2024,No,4.5
+MTR10068,Casual Blazers,Footwear,Jeans,Levi’s,Unisex,"S, M, L, XL",White,Soft,Standard,Minimalist,5378,30%,Sunglasses,Virat Kohli,All Season,2025,Yes,4.0
+MTR10069,Slim Fit Kurtis,Ethnic,T-Shirt,Biba,Unisex,"XS, S, M, L",Olive,Rough,Eco-Friendly,Minimalist,5022,25%,Sunglasses,Virat Kohli,Winter,2024,No,4.0
+MTR10070,Formal T-Shirt,Topwear,Hoodies,Levi’s,Women,Free Size,Pink,Textured,Standard,Boho,2044,25%,Leather Belt,Deepika Padukone,Winter,2023,Yes,4.7
+MTR10071,Sporty Shirts,Topwear,Shirts,Nike,Women,"S, M, L, XL",Pastel Green,Smooth,Eco-Friendly,Athleisure,1293,10%,Cap,Kareena Kapoor,Winter,2025,No,4.2
+MTR10072,Slim Fit Tracks,Accessories,Blazers,Nike,Women,"XS, S, M, L",Black,Ribbed,Standard,Boho,4435,15%,Sports Socks,Kareena Kapoor,Winter,2025,Yes,4.1
+MTR10073,Floral Blazers,Bottomwear,Shirts,H&M,Women,Free Size,Yellow,Matte,Premium,Boho,4934,20%,Statement Brooch,None,All Season,2025,Yes,3.9
+MTR10074,Slim Fit T-Shirt,Winterwear,Hoodies,Puma,Unisex,"M, L, XL",Olive,Matte,Eco-Friendly,Streetwear,5598,10%,Statement Brooch,Kareena Kapoor,Summer,2024,Yes,3.5
+MTR10075,Basic Scarves,Topwear,Sneakers,Biba,Men,UK 6–11,Grey,Smooth,Recycled,Y2K,1988,15%,Leather Belt,Virat Kohli,Winter,2023,No,4.2
+MTR10076,Slim Fit Jeans,Bottomwear,Sneakers,Roadster,Unisex,UK 6–11,Black,Soft,Eco-Friendly,Y2K,2114,30%,Silver Jhumkas,Ranveer Singh,All Season,2023,No,4.3
+MTR10077,Floral Scarves,Winterwear,Jeans,Nike,Unisex,"S, M, L, XL",Yellow,Rough,Eco-Friendly,Athleisure,4751,20%,Cap,Ranveer Singh,Winter,2023,Yes,3.9
+MTR10078,Printed Kurtis,Ethnic,Scarves,Levi’s,Men,"M, L, XL",Pastel Green,Soft,Recycled,Boho,3470,15%,Sunglasses,Deepika Padukone,Winter,2024,Yes,4.3
+MTR10079,Basic Sandals,Topwear,Hoodies,Zara,Women,Free Size,Black,Rough,Premium,Boho,1863,10%,Sunglasses,Kareena Kapoor,Winter,2023,No,4.0
+MTR10080,Graphic Jeans,Topwear,Tracks,U.S. Polo Assn.,Men,UK 6–11,Yellow,Ribbed,Recycled,Boho,5923,20%,Leather Belt,Ranveer Singh,All Season,2024,No,4.8
+MTR10081,Printed Hoodies,Ethnic,Hoodies,Puma,Men,UK 6–11,Grey,Ribbed,Recycled,Streetwear,3872,10%,Sunglasses,Virat Kohli,Summer,2024,Yes,3.7
+MTR10082,Slim Fit Sneakers,Bottomwear,Kurtis,Biba,Unisex,"M, L, XL",Red,Ribbed,Standard,Streetwear,2904,30%,Silver Jhumkas,Virat Kohli,Summer,2023,No,4.4
+MTR10083,Printed Blazers,Accessories,T-Shirt,H&M,Women,"XS, S, M, L",Pink,Smooth,Eco-Friendly,Boho,2852,20%,Watch,Deepika Padukone,All Season,2025,No,5.0
+MTR10084,Casual T-Shirt,Accessories,Sneakers,H&M,Men,Free Size,Red,Glossy,Recycled,Athleisure,1732,25%,Sunglasses,Deepika Padukone,Summer,2023,Yes,4.0
+MTR10085,Sporty Scarves,Ethnic,Jeans,Zara,Men,UK 6–11,Pastel Green,Textured,Eco-Friendly,Y2K,3049,20%,Silver Jhumkas,Deepika Padukone,All Season,2025,Yes,3.7
+MTR10086,Graphic Hoodies,Ethnic,Kurtis,H&M,Men,"M, L, XL",Pastel Green,Ribbed,Recycled,Athleisure,1445,15%,Cap,Ranveer Singh,All Season,2024,No,4.4
+MTR10087,Slim Fit Tracks,Accessories,Scarves,H&M,Women,UK 6–11,Navy Blue,Matte,Standard,Y2K,3551,15%,Leather Belt,Kiara Advani,All Season,2023,No,4.9
+MTR10088,Basic Scarves,Topwear,Shirts,Roadster,Women,UK 6–11,Black,Matte,Premium,Y2K,2899,15%,Watch,None,All Season,2025,No,4.6
+MTR10089,Sporty Tracks,Winterwear,Hoodies,Levi’s,Men,"S, M, L, XL",Pink,Ribbed,Recycled,Retro,1170,15%,Sunglasses,Virat Kohli,Winter,2024,Yes,4.9
+MTR10090,Graphic T-Shirt,Bottomwear,Tracks,Roadster,Unisex,Free Size,Grey,Matte,Eco-Friendly,Retro,1705,15%,Statement Brooch,Deepika Padukone,Winter,2024,No,4.7
+MTR10091,Floral Hoodies,Bottomwear,T-Shirt,Zara,Men,UK 6–11,Pink,Glossy,Premium,Athleisure,3317,15%,Sports Socks,None,All Season,2023,No,3.6
+MTR10092,Floral Scarves,Winterwear,Blazers,H&M,Men,UK 6–11,Pink,Glossy,Recycled,Minimalist,3317,15%,Leather Belt,Kareena Kapoor,All Season,2023,No,4.2
+MTR10093,Slim Fit Blazers,Bottomwear,Hoodies,Puma,Women,UK 6–11,Beige,Soft,Premium,Retro,4126,15%,Leather Belt,Ranveer Singh,All Season,2024,No,4.9
+MTR10094,Printed Blazers,Ethnic,Shirts,Levi’s,Unisex,UK 6–11,Beige,Ribbed,Recycled,Boho,2040,25%,Watch,Kiara Advani,Summer,2024,No,4.5
+MTR10095,Printed Kurtis,Bottomwear,Sneakers,U.S. Polo Assn.,Women,"M, L, XL",Yellow,Matte,Premium,Y2K,4981,15%,Cap,Deepika Padukone,Winter,2023,No,4.2
+MTR10096,Floral Scarves,Accessories,Jeans,Nike,Unisex,"XS, S, M, L",Yellow,Soft,Premium,Athleisure,1416,10%,Statement Brooch,Kiara Advani,Winter,2023,No,4.1
+MTR10097,Sporty T-Shirt,Winterwear,Jeans,Nike,Men,"M, L, XL",Grey,Ribbed,Standard,Boho,4252,10%,Leather Belt,Kiara Advani,Winter,2023,No,4.2
+MTR10098,Basic Kurtis,Ethnic,Hoodies,Biba,Women,Free Size,White,Glossy,Recycled,Minimalist,972,20%,Silver Jhumkas,Ranveer Singh,Winter,2024,No,4.2
+MTR10099,Basic Jeans,Winterwear,Hoodies,H&M,Unisex,UK 6–11,Yellow,Smooth,Recycled,Retro,4808,15%,Statement Brooch,Kiara Advani,All Season,2025,No,4.9
+MTR10100,Sporty Kurtis,Bottomwear,Kurtis,U.S. Polo Assn.,Women,Free Size,Navy Blue,Glossy,Standard,Athleisure,5534,20%,Sports Socks,Virat Kohli,Summer,2025,Yes,3.8
+MTR10101,Casual T-Shirt,Winterwear,Hoodies,Levi’s,Women,"XS, S, M, L",Olive,Glossy,Eco-Friendly,Y2K,1407,30%,Sports Socks,Kiara Advani,Winter,2023,No,4.0
+MTR10102,Printed Tracks,Topwear,Kurtis,Roadster,Unisex,UK 6–11,Navy Blue,Smooth,Eco-Friendly,Y2K,577,20%,Cap,None,All Season,2023,Yes,4.4
+MTR10103,Printed Hoodies,Accessories,Kurtis,U.S. Polo Assn.,Unisex,"S, M, L, XL",Pink,Textured,Recycled,Y2K,2517,20%,Sports Socks,Deepika Padukone,All Season,2023,No,4.3
+MTR10104,Formal Jeans,Ethnic,Hoodies,Nike,Women,UK 6–11,Olive,Glossy,Eco-Friendly,Streetwear,1405,15%,Watch,Kiara Advani,All Season,2025,Yes,4.8
+MTR10105,Casual Sandals,Topwear,Sneakers,Puma,Women,UK 6–11,Navy Blue,Glossy,Eco-Friendly,Minimalist,5876,20%,Sunglasses,Virat Kohli,Winter,2024,Yes,4.1
+MTR10106,Printed Shirts,Ethnic,Tracks,Levi’s,Women,UK 6–11,Yellow,Glossy,Premium,Y2K,2911,20%,Sports Socks,Deepika Padukone,Winter,2025,No,4.9
+MTR10107,Slim Fit Scarves,Winterwear,T-Shirt,H&M,Men,"S, M, L, XL",Beige,Glossy,Premium,Minimalist,1671,25%,Statement Brooch,Kiara Advani,Winter,2025,Yes,4.4
+MTR10108,Formal Shirts,Accessories,Jeans,Biba,Men,"S, M, L, XL",Pink,Soft,Standard,Minimalist,2247,30%,Leather Belt,None,Summer,2024,No,4.8
+MTR10109,Printed Blazers,Accessories,T-Shirt,U.S. Polo Assn.,Women,Free Size,Navy Blue,Soft,Recycled,Y2K,3869,30%,Leather Belt,Virat Kohli,All Season,2024,No,3.7
+MTR10110,Floral T-Shirt,Accessories,Kurtis,Levi’s,Men,Free Size,Beige,Rough,Eco-Friendly,Retro,5319,30%,Statement Brooch,Ranveer Singh,Summer,2023,Yes,4.5
+MTR10111,Graphic Jeans,Winterwear,Sneakers,Allen Solly,Unisex,"M, L, XL",Yellow,Textured,Recycled,Streetwear,4331,10%,Sports Socks,Kareena Kapoor,Winter,2024,Yes,3.6
+MTR10112,Basic Scarves,Accessories,Blazers,U.S. Polo Assn.,Unisex,"XS, S, M, L",Red,Matte,Eco-Friendly,Minimalist,2249,20%,Sunglasses,Kareena Kapoor,Summer,2024,No,4.0
+MTR10113,Sporty Sneakers,Topwear,Blazers,U.S. Polo Assn.,Unisex,Free Size,Pastel Green,Soft,Standard,Y2K,3444,15%,Sunglasses,Deepika Padukone,Winter,2025,Yes,3.6
+MTR10114,Formal Shirts,Footwear,Sandals,Allen Solly,Women,UK 6–11,Black,Glossy,Standard,Boho,2008,20%,Silver Jhumkas,Kiara Advani,All Season,2024,Yes,3.7
+MTR10115,Sporty Tracks,Topwear,Hoodies,U.S. Polo Assn.,Men,Free Size,Red,Soft,Recycled,Retro,4989,30%,Watch,None,All Season,2025,Yes,4.1
+MTR10116,Graphic Sneakers,Bottomwear,Sandals,Allen Solly,Women,UK 6–11,Yellow,Glossy,Standard,Minimalist,4774,15%,Sunglasses,Deepika Padukone,Summer,2025,Yes,3.8
+MTR10117,Slim Fit Blazers,Winterwear,Sandals,U.S. Polo Assn.,Women,UK 6–11,Navy Blue,Smooth,Standard,Y2K,906,30%,Sunglasses,Virat Kohli,Summer,2024,Yes,4.6
+MTR10118,Basic Jeans,Accessories,Shirts,U.S. Polo Assn.,Women,"XS, S, M, L",Navy Blue,Ribbed,Premium,Athleisure,3144,30%,Silver Jhumkas,Kiara Advani,All Season,2024,No,4.9
+MTR10119,Graphic Blazers,Winterwear,Blazers,Levi’s,Men,Free Size,Grey,Glossy,Eco-Friendly,Streetwear,5018,10%,Silver Jhumkas,None,All Season,2024,No,4.5
+MTR10120,Slim Fit Kurtis,Footwear,Jeans,Roadster,Unisex,"S, M, L, XL",Navy Blue,Soft,Standard,Athleisure,4038,20%,Cap,Kiara Advani,Winter,2023,No,4.0
+MTR10121,Graphic T-Shirt,Winterwear,Sneakers,U.S. Polo Assn.,Unisex,Free Size,Pink,Ribbed,Recycled,Retro,2171,10%,Cap,Kareena Kapoor,All Season,2024,No,3.9
+MTR10122,Sporty Sandals,Footwear,Tracks,Zara,Men,UK 6–11,Yellow,Textured,Recycled,Streetwear,3015,10%,Leather Belt,Kareena Kapoor,Winter,2024,No,4.0
+MTR10123,Sporty Hoodies,Winterwear,Blazers,Roadster,Women,Free Size,Navy Blue,Ribbed,Standard,Boho,5256,10%,Leather Belt,Virat Kohli,All Season,2024,Yes,4.3
+MTR10124,Casual Sandals,Footwear,Jeans,Biba,Women,UK 6–11,Olive,Rough,Premium,Streetwear,4342,25%,Sunglasses,None,All Season,2024,Yes,4.2
+MTR10125,Slim Fit Shirts,Accessories,Sandals,U.S. Polo Assn.,Unisex,Free Size,Beige,Smooth,Eco-Friendly,Athleisure,5349,30%,Statement Brooch,Deepika Padukone,Summer,2023,Yes,3.9
+MTR10126,Graphic Kurtis,Winterwear,Jeans,Roadster,Unisex,Free Size,Red,Rough,Premium,Streetwear,5485,30%,Watch,None,All Season,2024,No,3.7
+MTR10127,Floral Kurtis,Topwear,Sandals,Adidas,Women,"S, M, L, XL",Grey,Rough,Standard,Streetwear,2140,20%,Statement Brooch,Virat Kohli,Summer,2023,Yes,4.6
+MTR10128,Floral Sneakers,Ethnic,Tracks,U.S. Polo Assn.,Women,"XS, S, M, L",White,Smooth,Standard,Boho,5701,20%,Silver Jhumkas,Virat Kohli,All Season,2024,No,3.7
+MTR10129,Slim Fit Shirts,Accessories,T-Shirt,Puma,Unisex,Free Size,Grey,Textured,Recycled,Streetwear,2979,10%,Leather Belt,Virat Kohli,All Season,2025,Yes,4.5
+MTR10130,Basic Blazers,Accessories,Hoodies,Adidas,Men,UK 6–11,Pink,Glossy,Eco-Friendly,Boho,3323,25%,Watch,Kiara Advani,All Season,2025,No,4.5
+MTR10131,Sporty Sneakers,Footwear,Jeans,H&M,Men,Free Size,Black,Ribbed,Premium,Retro,5251,10%,Watch,Kareena Kapoor,All Season,2024,Yes,4.6
+MTR10132,Slim Fit Hoodies,Footwear,Jeans,Biba,Unisex,"M, L, XL",White,Matte,Recycled,Retro,3477,20%,Leather Belt,Ranveer Singh,All Season,2024,No,4.4
+MTR10133,Slim Fit Sandals,Footwear,Scarves,Allen Solly,Women,"S, M, L, XL",Yellow,Smooth,Recycled,Minimalist,1949,25%,Leather Belt,Virat Kohli,Winter,2025,No,4.3
+MTR10134,Formal Hoodies,Ethnic,Sandals,Biba,Unisex,Free Size,Navy Blue,Textured,Standard,Athleisure,4698,15%,Statement Brooch,Kareena Kapoor,Winter,2023,No,3.9
+MTR10135,Floral Tracks,Bottomwear,Blazers,Zara,Men,"S, M, L, XL",Navy Blue,Glossy,Eco-Friendly,Y2K,2602,15%,Leather Belt,Ranveer Singh,All Season,2024,Yes,3.7
+MTR10136,Printed Blazers,Bottomwear,Scarves,Puma,Women,"M, L, XL",Red,Soft,Eco-Friendly,Y2K,5499,10%,Leather Belt,None,Summer,2023,Yes,3.8
+MTR10137,Printed Scarves,Bottomwear,Blazers,Adidas,Women,UK 6–11,Black,Matte,Eco-Friendly,Retro,4780,20%,Sports Socks,Deepika Padukone,Summer,2023,No,3.6
+MTR10138,Formal T-Shirt,Winterwear,Sneakers,U.S. Polo Assn.,Women,"M, L, XL",Beige,Ribbed,Eco-Friendly,Athleisure,3046,10%,Cap,None,Summer,2023,No,4.3
+MTR10139,Sporty Tracks,Footwear,Sneakers,Roadster,Men,"S, M, L, XL",Red,Smooth,Standard,Boho,3134,25%,Watch,Deepika Padukone,Winter,2024,No,4.3
+MTR10140,Printed Shirts,Topwear,Sandals,U.S. Polo Assn.,Men,"S, M, L, XL",White,Soft,Standard,Retro,906,15%,Sunglasses,Ranveer Singh,Winter,2023,No,4.3
+MTR10141,Basic Sandals,Winterwear,Scarves,Biba,Unisex,"S, M, L, XL",Yellow,Soft,Standard,Boho,5504,10%,Watch,Ranveer Singh,All Season,2024,Yes,3.8
+MTR10142,Formal Hoodies,Footwear,T-Shirt,Levi’s,Unisex,UK 6–11,Yellow,Matte,Eco-Friendly,Athleisure,2516,15%,Silver Jhumkas,Virat Kohli,Summer,2025,Yes,3.9
+MTR10143,Graphic Kurtis,Footwear,Tracks,Roadster,Unisex,"M, L, XL",Navy Blue,Glossy,Standard,Minimalist,2973,30%,Watch,Kareena Kapoor,All Season,2024,No,3.7
+MTR10144,Sporty Blazers,Footwear,Blazers,Adidas,Men,"S, M, L, XL",Pastel Green,Soft,Eco-Friendly,Athleisure,771,25%,Watch,Kareena Kapoor,Winter,2024,Yes,5.0
+MTR10145,Formal Tracks,Accessories,Scarves,Levi’s,Unisex,"XS, S, M, L",Beige,Rough,Recycled,Y2K,3258,10%,Sunglasses,Ranveer Singh,Summer,2024,No,4.3
+MTR10146,Formal Jeans,Ethnic,Shirts,Puma,Men,"S, M, L, XL",Olive,Ribbed,Standard,Retro,4079,15%,Silver Jhumkas,Kiara Advani,All Season,2024,Yes,4.8
+MTR10147,Graphic Tracks,Topwear,Tracks,Roadster,Unisex,Free Size,Beige,Matte,Premium,Y2K,4843,20%,Sports Socks,Virat Kohli,All Season,2024,Yes,4.4
+MTR10148,Sporty Sandals,Bottomwear,Tracks,Levi’s,Unisex,"M, L, XL",Grey,Textured,Recycled,Retro,4516,20%,Leather Belt,Kareena Kapoor,Winter,2024,Yes,4.9
+MTR10149,Floral Scarves,Footwear,Tracks,Allen Solly,Women,"M, L, XL",Black,Matte,Premium,Y2K,2560,30%,Watch,Ranveer Singh,Summer,2025,No,4.6
+MTR10150,Formal Hoodies,Topwear,Kurtis,Allen Solly,Men,Free Size,Beige,Textured,Eco-Friendly,Boho,2510,15%,Leather Belt,Kiara Advani,Winter,2024,Yes,4.6
+MTR10151,Casual Jeans,Ethnic,Shirts,Puma,Women,"M, L, XL",Pastel Green,Ribbed,Premium,Athleisure,4211,10%,Sports Socks,Kiara Advani,Winter,2025,Yes,4.7
+MTR10152,Basic Shirts,Winterwear,Kurtis,Levi’s,Unisex,"M, L, XL",Red,Textured,Eco-Friendly,Athleisure,5170,15%,Silver Jhumkas,Kareena Kapoor,Summer,2023,No,4.5
+MTR10153,Printed Blazers,Topwear,Jeans,U.S. Polo Assn.,Women,Free Size,Yellow,Textured,Recycled,Athleisure,1997,25%,Sports Socks,Kareena Kapoor,All Season,2023,Yes,4.0
+MTR10154,Casual Scarves,Accessories,Sandals,U.S. Polo Assn.,Men,"M, L, XL",Grey,Glossy,Standard,Y2K,5157,10%,Sports Socks,Kareena Kapoor,All Season,2023,No,4.4
+MTR10155,Printed T-Shirt,Bottomwear,Jeans,Allen Solly,Women,"M, L, XL",Pink,Smooth,Eco-Friendly,Retro,4387,30%,Cap,Deepika Padukone,All Season,2024,No,4.3
+MTR10156,Printed Jeans,Bottomwear,Tracks,Roadster,Unisex,"XS, S, M, L",Black,Textured,Eco-Friendly,Y2K,2094,30%,Sports Socks,Kareena Kapoor,All Season,2025,Yes,3.8
+MTR10157,Formal Blazers,Bottomwear,Shirts,Nike,Women,UK 6–11,Red,Textured,Premium,Boho,2077,20%,Cap,Virat Kohli,All Season,2024,No,3.8
+MTR10158,Formal Blazers,Winterwear,Sneakers,Roadster,Unisex,"S, M, L, XL",Yellow,Soft,Recycled,Retro,5042,10%,Cap,Kareena Kapoor,Winter,2024,No,4.2
+MTR10159,Sporty T-Shirt,Winterwear,Shirts,Biba,Women,Free Size,Pink,Rough,Standard,Athleisure,3366,25%,Sports Socks,None,Summer,2024,Yes,4.9
+MTR10160,Formal Scarves,Winterwear,Sneakers,Zara,Women,UK 6–11,Black,Glossy,Standard,Retro,2699,25%,Silver Jhumkas,Kiara Advani,Winter,2025,Yes,3.7
+MTR10161,Slim Fit Hoodies,Bottomwear,Shirts,Roadster,Women,UK 6–11,Pastel Green,Soft,Premium,Minimalist,5515,25%,Watch,Virat Kohli,All Season,2024,Yes,3.6
+MTR10162,Basic Sneakers,Ethnic,Jeans,Biba,Women,"XS, S, M, L",Red,Glossy,Premium,Minimalist,3457,10%,Silver Jhumkas,Deepika Padukone,All Season,2024,Yes,4.3
+MTR10163,Slim Fit Jeans,Bottomwear,Shirts,U.S. Polo Assn.,Unisex,"S, M, L, XL",Red,Textured,Eco-Friendly,Y2K,5914,25%,Silver Jhumkas,Deepika Padukone,Summer,2025,Yes,3.7
+MTR10164,Slim Fit Blazers,Topwear,Sneakers,Allen Solly,Unisex,Free Size,Beige,Textured,Premium,Retro,553,30%,Statement Brooch,Kiara Advani,Summer,2023,Yes,4.2
+MTR10165,Slim Fit Sandals,Bottomwear,Tracks,Zara,Unisex,Free Size,Navy Blue,Glossy,Eco-Friendly,Retro,3425,30%,Sunglasses,Deepika Padukone,All Season,2023,No,4.9
+MTR10166,Graphic Hoodies,Ethnic,Hoodies,H&M,Men,"M, L, XL",White,Rough,Premium,Boho,1465,20%,Sunglasses,Virat Kohli,Winter,2024,Yes,4.9
+MTR10167,Casual Hoodies,Topwear,Scarves,Zara,Men,UK 6–11,Pastel Green,Ribbed,Eco-Friendly,Minimalist,5021,20%,Statement Brooch,Virat Kohli,All Season,2023,Yes,4.5
+MTR10168,Floral Sneakers,Winterwear,Tracks,H&M,Women,"S, M, L, XL",Yellow,Ribbed,Eco-Friendly,Streetwear,1951,25%,Statement Brooch,Kiara Advani,Winter,2024,No,4.8
+MTR10169,Formal Kurtis,Accessories,Scarves,Puma,Men,UK 6–11,Black,Ribbed,Standard,Athleisure,3966,20%,Silver Jhumkas,Virat Kohli,Winter,2025,No,4.8
+MTR10170,Floral Hoodies,Ethnic,Blazers,H&M,Unisex,"XS, S, M, L",Olive,Soft,Recycled,Retro,1619,25%,Sunglasses,Deepika Padukone,Winter,2023,Yes,4.9
+MTR10171,Sporty Sandals,Footwear,Scarves,Puma,Women,UK 6–11,Beige,Matte,Standard,Athleisure,2826,20%,Cap,None,Winter,2023,No,4.6
+MTR10172,Casual Hoodies,Bottomwear,Sandals,Zara,Unisex,"XS, S, M, L",Navy Blue,Textured,Recycled,Athleisure,3096,20%,Cap,Kareena Kapoor,Winter,2023,No,3.7
+MTR10173,Graphic T-Shirt,Bottomwear,Hoodies,Biba,Men,UK 6–11,Navy Blue,Soft,Recycled,Y2K,5015,15%,Watch,Ranveer Singh,All Season,2023,No,4.2
+MTR10174,Slim Fit T-Shirt,Topwear,Tracks,Zara,Men,"XS, S, M, L",Yellow,Soft,Recycled,Boho,5497,20%,Sports Socks,None,All Season,2023,Yes,3.7
+MTR10175,Slim Fit Hoodies,Topwear,T-Shirt,Nike,Unisex,UK 6–11,Grey,Glossy,Standard,Minimalist,2860,10%,Leather Belt,Ranveer Singh,All Season,2024,No,3.6
+MTR10176,Slim Fit Kurtis,Accessories,Kurtis,Biba,Men,"XS, S, M, L",White,Textured,Eco-Friendly,Athleisure,1958,20%,Leather Belt,Deepika Padukone,Winter,2023,Yes,4.4
+MTR10177,Floral Kurtis,Bottomwear,Tracks,Zara,Men,UK 6–11,Yellow,Glossy,Eco-Friendly,Boho,661,15%,Sports Socks,Virat Kohli,Winter,2023,Yes,4.9
+MTR10178,Sporty Shirts,Footwear,Sneakers,U.S. Polo Assn.,Men,"XS, S, M, L",Black,Textured,Premium,Streetwear,2901,15%,Silver Jhumkas,Ranveer Singh,All Season,2025,Yes,4.0
+MTR10179,Basic T-Shirt,Ethnic,Sandals,Adidas,Men,UK 6–11,Beige,Smooth,Standard,Boho,1113,30%,Leather Belt,Kareena Kapoor,Summer,2025,No,4.7
+MTR10180,Slim Fit Sneakers,Bottomwear,Sneakers,Biba,Men,"M, L, XL",White,Ribbed,Premium,Retro,5422,10%,Statement Brooch,Virat Kohli,Summer,2023,Yes,4.1
+MTR10181,Printed Sandals,Ethnic,Jeans,Zara,Women,Free Size,Olive,Soft,Standard,Retro,977,25%,Sunglasses,Ranveer Singh,Winter,2023,Yes,4.9
+MTR10182,Slim Fit Tracks,Footwear,Sneakers,Nike,Unisex,"S, M, L, XL",Olive,Matte,Eco-Friendly,Streetwear,4899,10%,Sports Socks,Ranveer Singh,Summer,2024,Yes,4.5
+MTR10183,Graphic Kurtis,Accessories,Jeans,Biba,Unisex,"XS, S, M, L",Red,Rough,Premium,Retro,2056,20%,Statement Brooch,Virat Kohli,All Season,2024,No,3.6
+MTR10184,Formal Shirts,Footwear,Kurtis,Puma,Men,Free Size,Navy Blue,Matte,Premium,Minimalist,5481,30%,Statement Brooch,Virat Kohli,Winter,2025,No,4.6
+MTR10185,Sporty Hoodies,Bottomwear,T-Shirt,Biba,Unisex,"XS, S, M, L",Beige,Textured,Recycled,Minimalist,5624,10%,Sports Socks,Ranveer Singh,All Season,2023,No,4.4
+MTR10186,Formal Hoodies,Ethnic,Scarves,Adidas,Men,"S, M, L, XL",Pastel Green,Textured,Eco-Friendly,Streetwear,825,30%,Sports Socks,None,Winter,2025,Yes,4.9
+MTR10187,Basic Sneakers,Topwear,Shirts,Biba,Women,UK 6–11,Pink,Smooth,Premium,Streetwear,2014,30%,Watch,Virat Kohli,All Season,2023,No,4.0
+MTR10188,Slim Fit Hoodies,Footwear,Scarves,Nike,Unisex,UK 6–11,Beige,Rough,Standard,Minimalist,4506,10%,Statement Brooch,Virat Kohli,Summer,2023,No,4.3
+MTR10189,Graphic Tracks,Accessories,T-Shirt,Nike,Women,"S, M, L, XL",Red,Rough,Eco-Friendly,Streetwear,4166,10%,Sports Socks,Deepika Padukone,All Season,2025,Yes,3.8
+MTR10190,Basic Hoodies,Bottomwear,Kurtis,Zara,Women,"S, M, L, XL",Red,Soft,Recycled,Y2K,2474,30%,Sunglasses,Virat Kohli,Winter,2023,Yes,3.7
+MTR10191,Graphic Sneakers,Topwear,Blazers,U.S. Polo Assn.,Unisex,"S, M, L, XL",White,Ribbed,Premium,Y2K,3500,25%,Watch,None,Summer,2025,Yes,4.2
+MTR10192,Formal T-Shirt,Winterwear,Sandals,H&M,Men,"XS, S, M, L",Black,Smooth,Eco-Friendly,Athleisure,5730,25%,Silver Jhumkas,Kareena Kapoor,Summer,2025,No,4.8
+MTR10193,Floral Sneakers,Bottomwear,Shirts,Roadster,Women,"S, M, L, XL",Navy Blue,Glossy,Recycled,Retro,591,25%,Silver Jhumkas,Virat Kohli,Winter,2024,Yes,4.6
+MTR10194,Basic Scarves,Accessories,Kurtis,Nike,Women,UK 6–11,Yellow,Ribbed,Standard,Minimalist,572,20%,Statement Brooch,None,Winter,2023,Yes,4.9
+MTR10195,Sporty Blazers,Accessories,Sneakers,U.S. Polo Assn.,Men,UK 6–11,Beige,Textured,Standard,Y2K,5145,10%,Watch,None,Summer,2025,No,5.0
+MTR10196,Graphic Sandals,Bottomwear,Blazers,U.S. Polo Assn.,Women,"XS, S, M, L",Yellow,Textured,Eco-Friendly,Y2K,2439,15%,Sports Socks,Kiara Advani,All Season,2024,Yes,3.7
+MTR10197,Basic Scarves,Bottomwear,Sandals,H&M,Women,"M, L, XL",Navy Blue,Matte,Premium,Y2K,5345,25%,Statement Brooch,Ranveer Singh,Summer,2024,No,4.6
+MTR10198,Sporty Scarves,Topwear,Shirts,Allen Solly,Men,Free Size,Pink,Smooth,Eco-Friendly,Y2K,3150,30%,Watch,Virat Kohli,Winter,2024,Yes,3.9
+MTR10199,Formal Scarves,Topwear,Hoodies,Levi’s,Men,Free Size,Grey,Glossy,Standard,Streetwear,2941,10%,Cap,Virat Kohli,Summer,2024,No,4.5
+MTR10200,Graphic Hoodies,Bottomwear,Tracks,Roadster,Women,"XS, S, M, L",White,Matte,Eco-Friendly,Retro,2740,15%,Sunglasses,Kiara Advani,Summer,2025,No,4.3
+MTR10201,Basic Shirts,Bottomwear,Sandals,Roadster,Men,"M, L, XL",Navy Blue,Rough,Standard,Y2K,2662,20%,Watch,Ranveer Singh,All Season,2024,No,4.2
+MTR10202,Casual Blazers,Topwear,Scarves,Roadster,Men,"XS, S, M, L",Black,Rough,Standard,Streetwear,5197,25%,Cap,Virat Kohli,Summer,2023,No,4.0
+MTR10203,Floral Hoodies,Winterwear,Scarves,Biba,Women,Free Size,Pink,Soft,Recycled,Athleisure,5468,15%,Statement Brooch,Ranveer Singh,Summer,2025,Yes,3.5
+MTR10204,Slim Fit Sandals,Ethnic,Kurtis,Biba,Women,"XS, S, M, L",Navy Blue,Matte,Standard,Streetwear,3859,10%,Watch,Virat Kohli,All Season,2025,Yes,4.8
+MTR10205,Sporty Jeans,Winterwear,T-Shirt,Biba,Women,"M, L, XL",Pastel Green,Smooth,Standard,Minimalist,1100,30%,Watch,Kareena Kapoor,All Season,2025,No,3.8
+MTR10206,Floral Sneakers,Bottomwear,Hoodies,Biba,Women,"XS, S, M, L",Navy Blue,Glossy,Premium,Minimalist,2473,10%,Silver Jhumkas,Ranveer Singh,All Season,2025,Yes,4.2
+MTR10207,Formal Jeans,Ethnic,Kurtis,H&M,Women,Free Size,Red,Soft,Eco-Friendly,Athleisure,3170,20%,Watch,Virat Kohli,All Season,2025,No,4.1
+MTR10208,Formal T-Shirt,Winterwear,Blazers,H&M,Men,"XS, S, M, L",Grey,Soft,Eco-Friendly,Athleisure,1382,10%,Leather Belt,Ranveer Singh,All Season,2023,No,3.9
+MTR10209,Formal Scarves,Topwear,Sandals,Levi’s,Men,Free Size,Olive,Ribbed,Recycled,Minimalist,2194,30%,Sports Socks,Deepika Padukone,Summer,2023,Yes,4.8
+MTR10210,Floral Hoodies,Ethnic,Scarves,Levi’s,Women,"S, M, L, XL",White,Matte,Standard,Athleisure,2981,20%,Watch,Kiara Advani,Winter,2025,Yes,4.9
+MTR10211,Printed Scarves,Ethnic,T-Shirt,Zara,Unisex,"S, M, L, XL",White,Smooth,Recycled,Retro,2321,15%,Leather Belt,Ranveer Singh,Winter,2025,No,4.5
+MTR10212,Sporty Kurtis,Topwear,Shirts,Allen Solly,Men,"XS, S, M, L",White,Rough,Premium,Athleisure,1288,10%,Watch,Virat Kohli,All Season,2024,Yes,3.8
+MTR10213,Floral Shirts,Accessories,Tracks,Zara,Unisex,"XS, S, M, L",Black,Soft,Eco-Friendly,Streetwear,682,15%,Sunglasses,Deepika Padukone,Summer,2023,No,4.8
+MTR10214,Casual T-Shirt,Footwear,Kurtis,Roadster,Women,"M, L, XL",White,Rough,Standard,Y2K,4369,25%,Watch,Deepika Padukone,Summer,2023,Yes,4.2
+MTR10215,Floral Kurtis,Accessories,Scarves,Adidas,Women,"XS, S, M, L",Black,Matte,Eco-Friendly,Athleisure,1632,30%,Leather Belt,Ranveer Singh,Winter,2023,No,4.8
+MTR10216,Graphic Kurtis,Accessories,Scarves,Puma,Men,"M, L, XL",Olive,Ribbed,Eco-Friendly,Athleisure,5407,15%,Leather Belt,Virat Kohli,Summer,2023,No,4.6
+MTR10217,Basic Kurtis,Topwear,Blazers,Levi’s,Women,UK 6–11,White,Textured,Recycled,Y2K,4159,25%,Statement Brooch,None,Summer,2025,No,4.7
+MTR10218,Basic Kurtis,Winterwear,Sandals,U.S. Polo Assn.,Men,"S, M, L, XL",Beige,Ribbed,Eco-Friendly,Minimalist,962,10%,Cap,Kareena Kapoor,Summer,2023,Yes,3.9
+MTR10219,Slim Fit T-Shirt,Footwear,Jeans,Nike,Men,"S, M, L, XL",Black,Soft,Eco-Friendly,Y2K,2429,10%,Watch,Virat Kohli,Summer,2024,Yes,4.8
+MTR10220,Sporty Scarves,Accessories,Jeans,Roadster,Unisex,UK 6–11,Olive,Glossy,Premium,Minimalist,3089,15%,Leather Belt,Virat Kohli,Summer,2024,Yes,4.7
+MTR10221,Graphic Jeans,Bottomwear,Blazers,Roadster,Unisex,UK 6–11,Beige,Textured,Eco-Friendly,Streetwear,5636,25%,Cap,Kareena Kapoor,All Season,2023,No,4.9
+MTR10222,Floral Shirts,Accessories,T-Shirt,Biba,Unisex,UK 6–11,Pink,Matte,Eco-Friendly,Athleisure,2934,25%,Leather Belt,Virat Kohli,Winter,2025,Yes,3.9
+MTR10223,Printed Blazers,Footwear,Kurtis,Adidas,Women,UK 6–11,Pink,Rough,Premium,Retro,5306,10%,Sports Socks,Virat Kohli,All Season,2024,Yes,3.9
+MTR10224,Slim Fit Jeans,Ethnic,Tracks,Adidas,Women,"M, L, XL",Red,Textured,Recycled,Boho,771,25%,Sunglasses,Deepika Padukone,All Season,2025,Yes,4.0
+MTR10225,Formal Blazers,Footwear,Hoodies,Levi’s,Women,UK 6–11,Black,Rough,Recycled,Y2K,2481,20%,Silver Jhumkas,Ranveer Singh,Winter,2024,No,4.2
+MTR10226,Basic Kurtis,Topwear,Shirts,Levi’s,Men,UK 6–11,Grey,Rough,Recycled,Y2K,739,15%,Leather Belt,Ranveer Singh,Winter,2024,Yes,4.8
+MTR10227,Printed T-Shirt,Ethnic,Blazers,Allen Solly,Women,UK 6–11,Navy Blue,Smooth,Eco-Friendly,Y2K,1230,10%,Leather Belt,Deepika Padukone,Winter,2023,Yes,4.7
+MTR10228,Sporty T-Shirt,Topwear,Sandals,Nike,Men,Free Size,Pink,Smooth,Eco-Friendly,Boho,969,10%,Silver Jhumkas,Virat Kohli,Winter,2023,No,3.6
+MTR10229,Casual Sandals,Topwear,Kurtis,Nike,Women,UK 6–11,Pastel Green,Matte,Recycled,Athleisure,5268,10%,Watch,Virat Kohli,All Season,2025,Yes,4.1
+MTR10230,Printed Tracks,Bottomwear,Scarves,Levi’s,Unisex,"XS, S, M, L",Grey,Rough,Eco-Friendly,Minimalist,2494,15%,Statement Brooch,Kiara Advani,Winter,2025,No,4.8
+MTR10231,Slim Fit Sneakers,Bottomwear,Scarves,U.S. Polo Assn.,Unisex,"XS, S, M, L",Red,Rough,Standard,Boho,1530,20%,Leather Belt,None,Summer,2023,No,3.9
+MTR10232,Sporty T-Shirt,Topwear,T-Shirt,Puma,Unisex,"M, L, XL",Beige,Matte,Recycled,Athleisure,5679,20%,Sunglasses,Virat Kohli,Winter,2023,No,3.7
+MTR10233,Casual Jeans,Winterwear,Tracks,Puma,Unisex,"M, L, XL",Pink,Textured,Eco-Friendly,Streetwear,3205,25%,Leather Belt,Deepika Padukone,Winter,2024,Yes,4.4
+MTR10234,Sporty Blazers,Topwear,Sneakers,Allen Solly,Men,"XS, S, M, L",Pastel Green,Glossy,Eco-Friendly,Athleisure,1830,15%,Watch,Deepika Padukone,All Season,2023,No,4.8
+MTR10235,Basic Sandals,Winterwear,Sandals,Levi’s,Men,"S, M, L, XL",Navy Blue,Glossy,Standard,Athleisure,3300,10%,Leather Belt,None,Summer,2025,No,4.2
+MTR10236,Casual Blazers,Winterwear,Hoodies,Biba,Unisex,UK 6–11,Pastel Green,Soft,Premium,Minimalist,3338,10%,Statement Brooch,Ranveer Singh,All Season,2024,No,4.1
+MTR10237,Basic Tracks,Bottomwear,Blazers,U.S. Polo Assn.,Men,"S, M, L, XL",Pink,Smooth,Recycled,Athleisure,650,15%,Cap,Kiara Advani,Winter,2023,No,4.2
+MTR10238,Printed Hoodies,Winterwear,Jeans,U.S. Polo Assn.,Men,Free Size,Olive,Glossy,Premium,Athleisure,2636,15%,Leather Belt,None,Summer,2024,Yes,4.1
+MTR10239,Basic Tracks,Winterwear,Blazers,Roadster,Women,"M, L, XL",Pink,Soft,Recycled,Streetwear,583,30%,Sports Socks,None,Winter,2025,Yes,4.0
+MTR10240,Printed Blazers,Ethnic,Hoodies,Levi’s,Unisex,UK 6–11,Navy Blue,Textured,Recycled,Streetwear,1975,10%,Watch,Deepika Padukone,Summer,2025,Yes,4.4
+MTR10241,Graphic T-Shirt,Winterwear,Shirts,Levi’s,Men,Free Size,Navy Blue,Textured,Standard,Y2K,4789,10%,Sunglasses,Deepika Padukone,Winter,2024,No,3.9
+MTR10242,Sporty Hoodies,Ethnic,Sneakers,Puma,Unisex,UK 6–11,Pastel Green,Soft,Standard,Minimalist,1251,20%,Watch,Deepika Padukone,All Season,2024,Yes,4.1
+MTR10243,Graphic Sneakers,Winterwear,Jeans,Biba,Women,UK 6–11,White,Ribbed,Standard,Boho,4738,25%,Leather Belt,None,Summer,2024,Yes,4.5
+MTR10244,Slim Fit T-Shirt,Winterwear,Kurtis,Levi’s,Unisex,UK 6–11,Beige,Textured,Recycled,Athleisure,934,15%,Silver Jhumkas,Kareena Kapoor,Summer,2025,No,3.5
+MTR10245,Formal Blazers,Bottomwear,Jeans,H&M,Unisex,UK 6–11,Beige,Smooth,Recycled,Streetwear,4691,15%,Cap,Kiara Advani,All Season,2024,Yes,4.4
+MTR10246,Printed Kurtis,Footwear,Tracks,Levi’s,Men,UK 6–11,Yellow,Matte,Premium,Minimalist,856,10%,Watch,Kiara Advani,All Season,2023,Yes,4.9
+MTR10247,Slim Fit Blazers,Accessories,Shirts,Nike,Women,"M, L, XL",Black,Textured,Recycled,Retro,541,15%,Leather Belt,Ranveer Singh,Summer,2023,No,4.0
+MTR10248,Printed Scarves,Winterwear,T-Shirt,Adidas,Unisex,UK 6–11,Grey,Textured,Recycled,Boho,4529,25%,Statement Brooch,Kiara Advani,Winter,2023,Yes,3.8
+MTR10249,Floral Blazers,Winterwear,Jeans,Allen Solly,Unisex,UK 6–11,Grey,Textured,Eco-Friendly,Minimalist,2080,30%,Watch,Virat Kohli,Winter,2025,No,4.0
+MTR10250,Graphic Kurtis,Accessories,Hoodies,Allen Solly,Women,"XS, S, M, L",Navy Blue,Matte,Standard,Y2K,4626,30%,Silver Jhumkas,Deepika Padukone,All Season,2025,No,3.9
+MTR10251,Printed Hoodies,Ethnic,T-Shirt,U.S. Polo Assn.,Men,"XS, S, M, L",Pink,Rough,Eco-Friendly,Boho,1418,30%,Leather Belt,Deepika Padukone,All Season,2025,Yes,4.6
+MTR10252,Sporty Blazers,Ethnic,Hoodies,Puma,Unisex,"M, L, XL",Grey,Rough,Premium,Minimalist,2219,30%,Watch,Kiara Advani,Summer,2025,Yes,4.5
+MTR10253,Floral Sandals,Accessories,Kurtis,Allen Solly,Unisex,UK 6–11,White,Smooth,Eco-Friendly,Streetwear,891,25%,Watch,None,Summer,2023,No,4.2
+MTR10254,Graphic Scarves,Bottomwear,Jeans,Puma,Men,"M, L, XL",Red,Textured,Standard,Minimalist,5182,20%,Watch,Kareena Kapoor,All Season,2023,Yes,3.8
+MTR10255,Printed Scarves,Bottomwear,T-Shirt,H&M,Unisex,Free Size,Beige,Rough,Recycled,Retro,3398,15%,Sunglasses,Kareena Kapoor,Summer,2023,Yes,4.1
+MTR10256,Formal Tracks,Topwear,Kurtis,Biba,Unisex,Free Size,Black,Glossy,Standard,Boho,1427,10%,Silver Jhumkas,Ranveer Singh,Winter,2023,No,3.9
+MTR10257,Sporty Shirts,Ethnic,Kurtis,Biba,Women,"M, L, XL",Beige,Rough,Standard,Y2K,2847,20%,Statement Brooch,Kiara Advani,Winter,2024,No,4.6
+MTR10258,Formal Hoodies,Winterwear,Sneakers,Zara,Unisex,"M, L, XL",Olive,Soft,Premium,Minimalist,5132,20%,Cap,Virat Kohli,Winter,2023,No,3.6
+MTR10259,Slim Fit Scarves,Ethnic,Kurtis,Biba,Women,"M, L, XL",Navy Blue,Rough,Premium,Athleisure,2643,30%,Cap,Ranveer Singh,Summer,2023,No,4.4
+MTR10260,Printed Jeans,Winterwear,Blazers,Adidas,Men,"XS, S, M, L",Pastel Green,Soft,Eco-Friendly,Athleisure,2836,30%,Statement Brooch,None,Winter,2024,No,4.1
+MTR10261,Basic Scarves,Winterwear,Tracks,Roadster,Men,Free Size,Grey,Soft,Eco-Friendly,Y2K,5964,20%,Leather Belt,None,All Season,2024,No,4.7
+MTR10262,Graphic Blazers,Winterwear,Tracks,H&M,Men,Free Size,White,Textured,Premium,Athleisure,2474,20%,Silver Jhumkas,Ranveer Singh,Summer,2024,No,3.5
+MTR10263,Slim Fit Shirts,Accessories,Blazers,U.S. Polo Assn.,Women,"S, M, L, XL",Olive,Ribbed,Standard,Y2K,1691,25%,Cap,Kareena Kapoor,Winter,2025,Yes,4.6
+MTR10264,Casual Jeans,Accessories,Blazers,Puma,Unisex,UK 6–11,Olive,Smooth,Premium,Minimalist,4303,15%,Watch,None,Summer,2024,No,4.4
+MTR10265,Graphic Shirts,Winterwear,Sandals,Levi’s,Women,"M, L, XL",Olive,Rough,Eco-Friendly,Y2K,5025,20%,Leather Belt,Virat Kohli,Winter,2023,Yes,4.5
+MTR10266,Sporty Hoodies,Ethnic,Hoodies,Zara,Women,"XS, S, M, L",Yellow,Soft,Recycled,Boho,5998,15%,Statement Brooch,Ranveer Singh,All Season,2023,No,4.6
+MTR10267,Sporty T-Shirt,Bottomwear,Shirts,Biba,Women,"XS, S, M, L",Pink,Smooth,Premium,Athleisure,2646,20%,Leather Belt,Deepika Padukone,Summer,2025,No,4.7
+MTR10268,Casual Jeans,Footwear,Kurtis,Nike,Women,Free Size,Red,Smooth,Eco-Friendly,Y2K,1230,20%,Leather Belt,Virat Kohli,All Season,2024,Yes,4.3
+MTR10269,Graphic Sneakers,Accessories,Jeans,Levi’s,Women,"XS, S, M, L",Pink,Matte,Eco-Friendly,Y2K,4062,30%,Watch,Virat Kohli,All Season,2024,Yes,3.5
+MTR10270,Basic Scarves,Footwear,Sandals,Levi’s,Men,"XS, S, M, L",Olive,Rough,Eco-Friendly,Streetwear,3282,15%,Watch,Deepika Padukone,Winter,2024,No,3.9
+MTR10271,Basic Kurtis,Bottomwear,Tracks,Adidas,Unisex,"S, M, L, XL",Navy Blue,Textured,Eco-Friendly,Streetwear,2107,10%,Leather Belt,None,All Season,2023,Yes,3.6
+MTR10272,Casual T-Shirt,Footwear,Kurtis,Allen Solly,Men,"XS, S, M, L",Pink,Smooth,Premium,Athleisure,3195,25%,Leather Belt,Deepika Padukone,All Season,2025,Yes,3.8
+MTR10273,Formal Tracks,Ethnic,Jeans,Zara,Unisex,"S, M, L, XL",White,Glossy,Premium,Athleisure,3783,30%,Sports Socks,Kiara Advani,Winter,2023,Yes,4.8
+MTR10274,Casual Shirts,Footwear,Sneakers,Puma,Men,"M, L, XL",Pink,Rough,Eco-Friendly,Athleisure,2256,25%,Silver Jhumkas,Kareena Kapoor,All Season,2024,No,3.8
+MTR10275,Formal Shirts,Footwear,Kurtis,Levi’s,Men,"XS, S, M, L",Yellow,Ribbed,Standard,Minimalist,3296,15%,Sports Socks,Kiara Advani,Summer,2024,No,3.8
+MTR10276,Sporty Blazers,Ethnic,Sandals,Roadster,Women,"M, L, XL",Olive,Matte,Recycled,Streetwear,4156,20%,Sports Socks,Kareena Kapoor,All Season,2024,No,4.6
+MTR10277,Graphic Scarves,Accessories,Jeans,Allen Solly,Unisex,Free Size,Pink,Textured,Standard,Boho,4600,15%,Leather Belt,None,Winter,2023,Yes,4.0
+MTR10278,Floral Blazers,Bottomwear,Hoodies,H&M,Men,"S, M, L, XL",Black,Smooth,Recycled,Retro,3202,15%,Silver Jhumkas,Kareena Kapoor,Summer,2023,Yes,4.2
+MTR10279,Basic Tracks,Topwear,T-Shirt,H&M,Unisex,Free Size,Pastel Green,Soft,Eco-Friendly,Minimalist,3392,30%,Leather Belt,Virat Kohli,Winter,2024,Yes,4.5
+MTR10280,Slim Fit Sandals,Ethnic,Tracks,Puma,Women,"S, M, L, XL",Beige,Smooth,Recycled,Athleisure,4035,25%,Statement Brooch,Kiara Advani,All Season,2023,Yes,4.9
+MTR10281,Casual Kurtis,Accessories,Sandals,Roadster,Men,Free Size,Beige,Ribbed,Recycled,Streetwear,3167,10%,Silver Jhumkas,Deepika Padukone,Winter,2025,No,4.8
+MTR10282,Printed Hoodies,Footwear,Jeans,Puma,Unisex,Free Size,Red,Rough,Eco-Friendly,Athleisure,1908,25%,Silver Jhumkas,Deepika Padukone,Summer,2024,Yes,4.5
+MTR10283,Formal Blazers,Bottomwear,Shirts,Biba,Unisex,"M, L, XL",White,Rough,Recycled,Streetwear,739,15%,Cap,Ranveer Singh,All Season,2025,Yes,3.7
+MTR10284,Printed Kurtis,Accessories,Shirts,Zara,Unisex,"XS, S, M, L",Navy Blue,Smooth,Eco-Friendly,Minimalist,5558,20%,Watch,Virat Kohli,Summer,2023,No,3.8
+MTR10285,Floral Jeans,Winterwear,Shirts,U.S. Polo Assn.,Women,"M, L, XL",Pastel Green,Rough,Eco-Friendly,Y2K,4787,15%,Sunglasses,Deepika Padukone,Winter,2024,No,4.1
+MTR10286,Graphic Jeans,Ethnic,Blazers,Roadster,Men,"XS, S, M, L",White,Glossy,Premium,Minimalist,3808,20%,Sports Socks,None,All Season,2024,No,4.0
+MTR10287,Slim Fit Jeans,Accessories,T-Shirt,Puma,Women,"S, M, L, XL",Grey,Textured,Recycled,Streetwear,3487,10%,Sports Socks,Ranveer Singh,Summer,2024,No,5.0
+MTR10288,Floral Sneakers,Winterwear,Sneakers,Puma,Women,Free Size,Navy Blue,Ribbed,Eco-Friendly,Minimalist,5918,10%,Cap,Kareena Kapoor,Summer,2025,Yes,4.7
+MTR10289,Formal Scarves,Accessories,Jeans,Allen Solly,Women,"S, M, L, XL",Pink,Rough,Eco-Friendly,Athleisure,2503,25%,Silver Jhumkas,None,Summer,2025,Yes,4.5
+MTR10290,Casual Tracks,Ethnic,Shirts,H&M,Men,"M, L, XL",Pastel Green,Textured,Recycled,Minimalist,4711,30%,Sunglasses,Virat Kohli,Winter,2025,Yes,4.6
+MTR10291,Formal T-Shirt,Ethnic,Sneakers,Adidas,Unisex,"XS, S, M, L",White,Smooth,Premium,Retro,3575,20%,Statement Brooch,Virat Kohli,Winter,2023,Yes,4.7
+MTR10292,Sporty Sneakers,Ethnic,Hoodies,Levi’s,Women,"XS, S, M, L",Beige,Textured,Standard,Athleisure,1442,10%,Sunglasses,Virat Kohli,Summer,2023,Yes,3.7
+MTR10293,Slim Fit Sandals,Accessories,T-Shirt,U.S. Polo Assn.,Women,Free Size,Red,Ribbed,Recycled,Minimalist,2620,15%,Leather Belt,Ranveer Singh,Winter,2023,Yes,3.9
+MTR10294,Basic Hoodies,Accessories,Jeans,Zara,Women,"M, L, XL",Beige,Matte,Eco-Friendly,Boho,5894,30%,Sunglasses,Virat Kohli,Summer,2024,No,3.7
+MTR10295,Basic Scarves,Bottomwear,Blazers,Nike,Men,UK 6–11,Navy Blue,Rough,Premium,Minimalist,3976,20%,Silver Jhumkas,Kareena Kapoor,Summer,2025,Yes,3.9
+MTR10296,Formal Sandals,Topwear,Kurtis,Allen Solly,Women,Free Size,Black,Soft,Premium,Minimalist,2704,25%,Statement Brooch,Deepika Padukone,Winter,2023,Yes,4.0
+MTR10297,Formal Jeans,Winterwear,Tracks,Zara,Men,"M, L, XL",Olive,Matte,Standard,Minimalist,2666,15%,Sports Socks,None,Summer,2025,Yes,4.9
+MTR10298,Basic Sneakers,Winterwear,Tracks,Biba,Unisex,UK 6–11,Pink,Smooth,Eco-Friendly,Streetwear,4357,10%,Leather Belt,Deepika Padukone,Summer,2025,Yes,3.6
+MTR10299,Basic Hoodies,Accessories,Blazers,U.S. Polo Assn.,Unisex,"S, M, L, XL",White,Glossy,Eco-Friendly,Retro,5099,20%,Silver Jhumkas,Deepika Padukone,Winter,2024,No,4.2
+MTR10300,Formal Tracks,Bottomwear,Kurtis,Puma,Unisex,"S, M, L, XL",Yellow,Matte,Standard,Minimalist,5808,25%,Watch,Virat Kohli,All Season,2024,Yes,4.9
+MTR10301,Slim Fit Hoodies,Ethnic,Tracks,Biba,Men,Free Size,Navy Blue,Glossy,Premium,Athleisure,3609,20%,Watch,Ranveer Singh,Winter,2023,No,4.4
+MTR10302,Formal Scarves,Accessories,T-Shirt,Zara,Women,"M, L, XL",Pink,Textured,Premium,Minimalist,1574,15%,Statement Brooch,Kiara Advani,All Season,2024,No,3.9
+MTR10303,Sporty Blazers,Topwear,Kurtis,Nike,Women,"M, L, XL",Pastel Green,Ribbed,Recycled,Y2K,5328,10%,Leather Belt,None,All Season,2023,No,3.7
+MTR10304,Basic Jeans,Ethnic,Tracks,Allen Solly,Women,"S, M, L, XL",Navy Blue,Rough,Eco-Friendly,Retro,4320,15%,Sunglasses,None,Summer,2023,No,4.4
+MTR10305,Floral Jeans,Accessories,Kurtis,Roadster,Women,"M, L, XL",Beige,Soft,Standard,Y2K,1472,10%,Sports Socks,Ranveer Singh,Winter,2023,Yes,4.5
+MTR10306,Floral Hoodies,Footwear,T-Shirt,Adidas,Women,"XS, S, M, L",Grey,Textured,Recycled,Streetwear,4711,25%,Watch,Deepika Padukone,All Season,2023,Yes,4.3
+MTR10307,Sporty Blazers,Footwear,Scarves,Zara,Unisex,Free Size,Red,Ribbed,Premium,Retro,1989,15%,Leather Belt,Virat Kohli,All Season,2024,No,4.0
+MTR10308,Formal Scarves,Accessories,Sandals,Allen Solly,Men,"S, M, L, XL",Red,Matte,Standard,Retro,2090,20%,Leather Belt,None,All Season,2023,No,4.8
+MTR10309,Graphic Jeans,Bottomwear,Tracks,Roadster,Men,"M, L, XL",Grey,Textured,Recycled,Streetwear,3987,15%,Sunglasses,Deepika Padukone,Summer,2023,Yes,3.7
+MTR10310,Slim Fit Sneakers,Winterwear,T-Shirt,Puma,Women,UK 6–11,Yellow,Soft,Recycled,Minimalist,4155,30%,Leather Belt,Virat Kohli,Summer,2025,No,4.2
+MTR10311,Floral Jeans,Footwear,Jeans,Roadster,Men,UK 6–11,Red,Textured,Standard,Boho,1000,15%,Silver Jhumkas,Deepika Padukone,Summer,2024,Yes,4.4
+MTR10312,Graphic Shirts,Footwear,Shirts,Zara,Unisex,"S, M, L, XL",Pink,Textured,Standard,Boho,3667,10%,Cap,Deepika Padukone,All Season,2025,Yes,3.6
+MTR10313,Sporty Tracks,Ethnic,Tracks,Levi’s,Men,UK 6–11,Olive,Textured,Premium,Y2K,2126,15%,Statement Brooch,Kareena Kapoor,Summer,2025,Yes,4.4
+MTR10314,Graphic T-Shirt,Footwear,Tracks,Puma,Men,Free Size,White,Soft,Recycled,Retro,1816,20%,Watch,Kiara Advani,Winter,2023,No,4.4
+MTR10315,Sporty Hoodies,Ethnic,Hoodies,Adidas,Men,"XS, S, M, L",Pink,Soft,Premium,Streetwear,2019,10%,Silver Jhumkas,Ranveer Singh,Summer,2023,No,4.4
+MTR10316,Printed Hoodies,Ethnic,Tracks,Puma,Unisex,Free Size,Navy Blue,Ribbed,Standard,Y2K,742,25%,Cap,Deepika Padukone,Winter,2024,Yes,4.1
+MTR10317,Basic Sneakers,Bottomwear,Shirts,H&M,Women,"S, M, L, XL",Pastel Green,Ribbed,Eco-Friendly,Minimalist,2942,25%,Silver Jhumkas,Ranveer Singh,Winter,2023,No,3.8
+MTR10318,Basic Tracks,Ethnic,Sneakers,Nike,Unisex,"S, M, L, XL",Red,Soft,Eco-Friendly,Retro,4438,25%,Sports Socks,Kareena Kapoor,All Season,2025,Yes,4.1
+MTR10319,Formal Sandals,Winterwear,Scarves,Levi’s,Men,"M, L, XL",Yellow,Smooth,Eco-Friendly,Streetwear,5720,10%,Cap,None,All Season,2025,Yes,4.3
+MTR10320,Basic Jeans,Ethnic,Sneakers,U.S. Polo Assn.,Men,"S, M, L, XL",Olive,Ribbed,Standard,Streetwear,5596,25%,Cap,None,All Season,2023,No,4.4
+MTR10321,Casual Hoodies,Topwear,Sandals,Levi’s,Unisex,"S, M, L, XL",White,Matte,Recycled,Athleisure,1382,20%,Watch,Virat Kohli,Summer,2023,No,4.1
+MTR10322,Formal Shirts,Winterwear,Blazers,Roadster,Unisex,"XS, S, M, L",Grey,Ribbed,Premium,Boho,2992,20%,Watch,Virat Kohli,Summer,2024,Yes,5.0
+MTR10323,Printed Kurtis,Bottomwear,Sneakers,Nike,Unisex,Free Size,Beige,Textured,Recycled,Y2K,4781,15%,Silver Jhumkas,Virat Kohli,All Season,2024,No,4.7
+MTR10324,Graphic Jeans,Topwear,Jeans,U.S. Polo Assn.,Men,UK 6–11,Yellow,Ribbed,Standard,Streetwear,2170,20%,Sports Socks,None,Winter,2023,Yes,3.8
+MTR10325,Casual Blazers,Accessories,Shirts,Levi’s,Women,UK 6–11,Yellow,Ribbed,Premium,Athleisure,5862,25%,Sports Socks,Kareena Kapoor,Winter,2024,No,4.4
+MTR10326,Casual Sandals,Topwear,Scarves,Nike,Unisex,"M, L, XL",Pink,Smooth,Recycled,Athleisure,2280,25%,Sunglasses,Deepika Padukone,Summer,2025,No,4.6
+MTR10327,Floral T-Shirt,Ethnic,Tracks,U.S. Polo Assn.,Men,"XS, S, M, L",Grey,Rough,Standard,Athleisure,566,15%,Silver Jhumkas,None,Summer,2024,Yes,4.3
+MTR10328,Formal Shirts,Ethnic,Hoodies,Nike,Men,"S, M, L, XL",Black,Smooth,Premium,Y2K,5330,25%,Silver Jhumkas,Kiara Advani,Winter,2024,No,4.5
+MTR10329,Sporty Jeans,Topwear,Shirts,Roadster,Men,UK 6–11,Navy Blue,Smooth,Premium,Streetwear,1866,30%,Sports Socks,Virat Kohli,All Season,2025,No,4.3
+MTR10330,Printed Kurtis,Topwear,T-Shirt,Nike,Unisex,"XS, S, M, L",Beige,Soft,Eco-Friendly,Streetwear,967,20%,Cap,Ranveer Singh,All Season,2025,Yes,4.0
+MTR10331,Casual Kurtis,Footwear,Hoodies,Allen Solly,Men,"S, M, L, XL",Black,Rough,Premium,Athleisure,711,20%,Statement Brooch,Kareena Kapoor,All Season,2023,No,4.9
+MTR10332,Slim Fit Jeans,Topwear,Shirts,Zara,Women,UK 6–11,Yellow,Matte,Eco-Friendly,Athleisure,3269,15%,Sports Socks,Virat Kohli,All Season,2024,No,3.9
+MTR10333,Slim Fit Shirts,Winterwear,Sneakers,Roadster,Men,"S, M, L, XL",Red,Ribbed,Eco-Friendly,Athleisure,4271,15%,Sports Socks,Deepika Padukone,Winter,2024,No,4.1
+MTR10334,Floral Blazers,Footwear,Tracks,Adidas,Unisex,"XS, S, M, L",Grey,Glossy,Recycled,Athleisure,798,15%,Sports Socks,Kareena Kapoor,Summer,2025,Yes,3.6
+MTR10335,Floral Jeans,Winterwear,Sandals,Levi’s,Men,"XS, S, M, L",Grey,Textured,Recycled,Streetwear,2003,25%,Cap,Virat Kohli,All Season,2025,Yes,4.0
+MTR10336,Formal Blazers,Ethnic,Scarves,Nike,Women,"S, M, L, XL",White,Matte,Eco-Friendly,Athleisure,1451,10%,Sunglasses,Kiara Advani,All Season,2023,Yes,3.8
+MTR10337,Basic Sandals,Topwear,Tracks,Levi’s,Men,UK 6–11,Black,Soft,Eco-Friendly,Minimalist,5563,10%,Silver Jhumkas,Deepika Padukone,All Season,2023,No,4.0
+MTR10338,Formal Hoodies,Footwear,Shirts,Allen Solly,Women,UK 6–11,Pastel Green,Soft,Eco-Friendly,Y2K,3726,10%,Silver Jhumkas,None,All Season,2023,No,4.6
+MTR10339,Formal Jeans,Accessories,T-Shirt,Levi’s,Men,"XS, S, M, L",Red,Glossy,Premium,Boho,2449,10%,Silver Jhumkas,Virat Kohli,Summer,2024,Yes,4.0
+MTR10340,Sporty Sandals,Accessories,Jeans,Allen Solly,Men,Free Size,Pastel Green,Rough,Premium,Boho,877,25%,Cap,Deepika Padukone,Summer,2024,Yes,4.5
+MTR10341,Printed Sandals,Accessories,Blazers,Biba,Women,"S, M, L, XL",Olive,Ribbed,Recycled,Y2K,3520,15%,Silver Jhumkas,Ranveer Singh,Winter,2025,No,3.6
+MTR10342,Sporty T-Shirt,Footwear,Hoodies,Puma,Men,UK 6–11,Grey,Matte,Premium,Streetwear,1888,10%,Sports Socks,Virat Kohli,Summer,2025,No,4.5
+MTR10343,Basic Scarves,Ethnic,T-Shirt,Levi’s,Men,"M, L, XL",Red,Ribbed,Eco-Friendly,Minimalist,4905,10%,Leather Belt,Ranveer Singh,All Season,2025,Yes,4.3
+MTR10344,Graphic Tracks,Footwear,Blazers,H&M,Women,"XS, S, M, L",Beige,Soft,Eco-Friendly,Retro,757,25%,Cap,Kiara Advani,Winter,2023,Yes,4.3
+MTR10345,Basic Hoodies,Accessories,Hoodies,Zara,Men,Free Size,Yellow,Textured,Premium,Y2K,5117,25%,Sports Socks,Ranveer Singh,Winter,2024,No,3.6
+MTR10346,Formal Tracks,Accessories,Jeans,Allen Solly,Unisex,UK 6–11,Pastel Green,Textured,Premium,Boho,3665,20%,Sunglasses,Deepika Padukone,Summer,2023,No,3.6
+MTR10347,Casual Hoodies,Accessories,Kurtis,Puma,Unisex,"XS, S, M, L",Navy Blue,Smooth,Eco-Friendly,Boho,4933,15%,Cap,Deepika Padukone,All Season,2024,Yes,4.7
+MTR10348,Formal Tracks,Bottomwear,T-Shirt,Puma,Men,Free Size,Olive,Matte,Eco-Friendly,Retro,1549,10%,Sports Socks,Deepika Padukone,Winter,2023,No,4.7
+MTR10349,Floral Tracks,Accessories,Sandals,Adidas,Men,UK 6–11,Navy Blue,Textured,Premium,Retro,2622,10%,Statement Brooch,None,All Season,2024,Yes,4.6
+MTR10350,Slim Fit Shirts,Ethnic,Kurtis,Biba,Women,"S, M, L, XL",Beige,Rough,Premium,Retro,5340,20%,Cap,None,All Season,2024,No,4.2
+MTR10351,Floral Sneakers,Footwear,T-Shirt,Biba,Unisex,Free Size,Black,Matte,Recycled,Boho,5628,15%,Silver Jhumkas,Ranveer Singh,All Season,2025,Yes,4.5
+MTR10352,Slim Fit Hoodies,Winterwear,Jeans,Roadster,Unisex,Free Size,Navy Blue,Rough,Standard,Minimalist,815,30%,Silver Jhumkas,Kiara Advani,Winter,2025,Yes,4.9
+MTR10353,Sporty Sandals,Ethnic,Sneakers,Adidas,Women,"S, M, L, XL",Pink,Smooth,Standard,Retro,5325,10%,Sunglasses,Kiara Advani,Winter,2023,Yes,3.6
+MTR10354,Floral Sandals,Bottomwear,Sneakers,Puma,Unisex,UK 6–11,Pastel Green,Textured,Standard,Minimalist,3460,25%,Cap,Kareena Kapoor,Winter,2023,Yes,4.4
+MTR10355,Basic Hoodies,Footwear,Hoodies,Biba,Men,"M, L, XL",Olive,Textured,Premium,Streetwear,3006,15%,Silver Jhumkas,Deepika Padukone,Summer,2025,No,4.0
+MTR10356,Floral T-Shirt,Topwear,Kurtis,U.S. Polo Assn.,Women,"XS, S, M, L",Beige,Smooth,Standard,Minimalist,4768,30%,Silver Jhumkas,Deepika Padukone,All Season,2024,Yes,3.5
+MTR10357,Basic Blazers,Accessories,Hoodies,Adidas,Women,"XS, S, M, L",Yellow,Rough,Premium,Streetwear,2767,30%,Watch,None,Winter,2025,Yes,4.9
+MTR10358,Sporty Jeans,Winterwear,Scarves,Allen Solly,Unisex,"XS, S, M, L",Grey,Soft,Premium,Streetwear,5427,20%,Sports Socks,Ranveer Singh,All Season,2023,No,4.3
+MTR10359,Sporty T-Shirt,Bottomwear,Scarves,Nike,Women,"XS, S, M, L",Beige,Matte,Recycled,Athleisure,5432,20%,Leather Belt,Kiara Advani,All Season,2025,Yes,4.8
+MTR10360,Floral T-Shirt,Winterwear,Shirts,Levi’s,Unisex,"XS, S, M, L",White,Ribbed,Premium,Retro,4995,15%,Watch,Ranveer Singh,Winter,2025,Yes,3.9
+MTR10361,Sporty Blazers,Accessories,Blazers,Levi’s,Unisex,"S, M, L, XL",Olive,Rough,Eco-Friendly,Minimalist,4940,30%,Watch,Virat Kohli,Summer,2023,Yes,3.8
+MTR10362,Printed Blazers,Ethnic,Blazers,Nike,Women,"M, L, XL",Black,Smooth,Premium,Athleisure,913,15%,Sunglasses,None,All Season,2024,No,4.4
+MTR10363,Graphic Kurtis,Accessories,Sandals,Levi’s,Women,"S, M, L, XL",Black,Soft,Standard,Athleisure,2192,25%,Watch,None,Summer,2023,No,3.7
+MTR10364,Printed Scarves,Accessories,Scarves,U.S. Polo Assn.,Women,"XS, S, M, L",Yellow,Rough,Premium,Streetwear,4258,20%,Statement Brooch,Kareena Kapoor,Winter,2023,Yes,4.1
+MTR10365,Floral Sneakers,Topwear,Sandals,Zara,Women,"S, M, L, XL",Black,Textured,Premium,Streetwear,1742,30%,Silver Jhumkas,Deepika Padukone,Summer,2025,Yes,4.7
+MTR10366,Formal Jeans,Accessories,Jeans,U.S. Polo Assn.,Women,Free Size,Yellow,Matte,Eco-Friendly,Athleisure,1360,15%,Sunglasses,Kareena Kapoor,Winter,2025,No,4.8
+MTR10367,Sporty Blazers,Topwear,Jeans,Zara,Women,Free Size,Pastel Green,Rough,Eco-Friendly,Retro,1543,25%,Cap,Virat Kohli,Summer,2023,No,4.3
+MTR10368,Basic Sandals,Accessories,Tracks,Biba,Unisex,"M, L, XL",Yellow,Smooth,Standard,Athleisure,1149,30%,Statement Brooch,Kiara Advani,All Season,2025,No,5.0
+MTR10369,Graphic Scarves,Winterwear,Kurtis,Puma,Women,"M, L, XL",Red,Textured,Standard,Streetwear,5184,15%,Cap,Kareena Kapoor,Winter,2024,No,4.0
+MTR10370,Floral Sandals,Winterwear,Sneakers,Roadster,Men,"XS, S, M, L",Pink,Soft,Premium,Minimalist,3561,20%,Sunglasses,Kiara Advani,All Season,2023,Yes,5.0
+MTR10371,Printed Blazers,Topwear,Scarves,Biba,Men,Free Size,Pink,Textured,Premium,Athleisure,3788,25%,Cap,Virat Kohli,All Season,2024,Yes,4.4
+MTR10372,Casual Shirts,Winterwear,Scarves,Zara,Women,"M, L, XL",Yellow,Matte,Premium,Y2K,5794,10%,Leather Belt,None,Summer,2024,Yes,4.6
+MTR10373,Printed Sandals,Accessories,Shirts,Adidas,Men,"S, M, L, XL",Red,Matte,Eco-Friendly,Streetwear,3819,15%,Sports Socks,None,Summer,2025,No,4.6
+MTR10374,Sporty Sneakers,Ethnic,Kurtis,Roadster,Women,"S, M, L, XL",Grey,Soft,Eco-Friendly,Retro,5573,30%,Sunglasses,Deepika Padukone,Winter,2024,No,3.6
+MTR10375,Graphic Tracks,Topwear,Hoodies,Nike,Unisex,Free Size,Black,Soft,Standard,Retro,4261,30%,Leather Belt,Ranveer Singh,Summer,2025,No,4.8
+MTR10376,Basic Scarves,Accessories,Sneakers,Allen Solly,Men,Free Size,Navy Blue,Ribbed,Recycled,Streetwear,1841,25%,Cap,Kareena Kapoor,Summer,2025,No,3.8
+MTR10377,Graphic Sandals,Footwear,Tracks,Nike,Men,"S, M, L, XL",Red,Textured,Eco-Friendly,Minimalist,803,15%,Statement Brooch,Virat Kohli,All Season,2024,Yes,4.0
+MTR10378,Graphic T-Shirt,Bottomwear,T-Shirt,Biba,Unisex,UK 6–11,Pink,Rough,Premium,Boho,4366,30%,Watch,None,Summer,2023,No,3.8
+MTR10379,Casual T-Shirt,Winterwear,Jeans,Roadster,Women,"XS, S, M, L",Pink,Soft,Eco-Friendly,Boho,1353,25%,Cap,Deepika Padukone,Winter,2024,No,4.2
+MTR10380,Basic Kurtis,Bottomwear,Scarves,Roadster,Women,UK 6–11,Pink,Soft,Recycled,Retro,5803,15%,Sports Socks,None,All Season,2025,Yes,4.6
+MTR10381,Casual Shirts,Ethnic,Tracks,Allen Solly,Men,UK 6–11,Pink,Textured,Standard,Retro,3172,30%,Silver Jhumkas,Ranveer Singh,Summer,2025,No,4.7
+MTR10382,Formal Hoodies,Topwear,Hoodies,U.S. Polo Assn.,Unisex,"XS, S, M, L",Olive,Soft,Recycled,Y2K,4853,20%,Cap,Kiara Advani,All Season,2025,No,4.0
+MTR10383,Floral Sneakers,Accessories,Sandals,U.S. Polo Assn.,Women,Free Size,White,Textured,Eco-Friendly,Streetwear,864,25%,Silver Jhumkas,Kiara Advani,Winter,2024,No,3.6
+MTR10384,Sporty Sandals,Winterwear,Tracks,U.S. Polo Assn.,Women,"S, M, L, XL",Beige,Smooth,Recycled,Boho,3193,10%,Sports Socks,Virat Kohli,All Season,2023,Yes,4.0
+MTR10385,Basic Jeans,Footwear,Blazers,Puma,Men,"S, M, L, XL",Black,Textured,Recycled,Streetwear,2675,15%,Watch,Ranveer Singh,Winter,2025,Yes,4.2
+MTR10386,Formal Blazers,Bottomwear,Blazers,Puma,Unisex,"S, M, L, XL",Navy Blue,Soft,Recycled,Y2K,1504,20%,Silver Jhumkas,Virat Kohli,Winter,2023,No,3.9
+MTR10387,Casual Scarves,Accessories,Sneakers,Biba,Unisex,Free Size,Black,Smooth,Eco-Friendly,Retro,4132,15%,Silver Jhumkas,Virat Kohli,Summer,2023,No,4.8
+MTR10388,Slim Fit Sneakers,Winterwear,Sneakers,Allen Solly,Unisex,"XS, S, M, L",White,Soft,Recycled,Athleisure,3410,25%,Sunglasses,Ranveer Singh,Summer,2024,Yes,4.5
+MTR10389,Formal Jeans,Topwear,Shirts,U.S. Polo Assn.,Women,UK 6–11,White,Textured,Standard,Retro,2806,30%,Statement Brooch,Kareena Kapoor,Summer,2025,No,4.3
+MTR10390,Slim Fit Kurtis,Winterwear,T-Shirt,Zara,Unisex,Free Size,Olive,Glossy,Premium,Streetwear,1989,25%,Leather Belt,Kareena Kapoor,Winter,2024,No,4.7
+MTR10391,Graphic Scarves,Ethnic,Tracks,Zara,Women,"S, M, L, XL",Olive,Smooth,Premium,Minimalist,3828,20%,Statement Brooch,Virat Kohli,All Season,2024,Yes,4.1
+MTR10392,Formal Shirts,Footwear,Tracks,Biba,Women,"XS, S, M, L",Pink,Soft,Recycled,Y2K,4906,10%,Sunglasses,Kiara Advani,Summer,2024,No,4.0
+MTR10393,Basic Hoodies,Footwear,Shirts,Roadster,Unisex,Free Size,Black,Matte,Premium,Streetwear,824,15%,Silver Jhumkas,Ranveer Singh,Summer,2024,Yes,4.1
+MTR10394,Sporty Tracks,Footwear,Scarves,U.S. Polo Assn.,Unisex,UK 6–11,Red,Rough,Recycled,Retro,2893,20%,Statement Brooch,Ranveer Singh,Winter,2025,No,4.3
+MTR10395,Formal Sandals,Bottomwear,Tracks,Zara,Women,"M, L, XL",White,Ribbed,Eco-Friendly,Streetwear,3863,15%,Watch,Deepika Padukone,Winter,2025,No,4.3
+MTR10396,Basic Sandals,Winterwear,Kurtis,Levi’s,Women,UK 6–11,Yellow,Glossy,Recycled,Streetwear,4152,15%,Leather Belt,Ranveer Singh,All Season,2024,No,4.4
+MTR10397,Floral Jeans,Accessories,Jeans,Zara,Women,"M, L, XL",White,Matte,Standard,Athleisure,1690,10%,Leather Belt,Deepika Padukone,All Season,2024,Yes,4.5
+MTR10398,Printed Tracks,Bottomwear,Hoodies,Puma,Men,Free Size,Navy Blue,Ribbed,Premium,Minimalist,3271,15%,Statement Brooch,Kareena Kapoor,Summer,2023,Yes,4.4
+MTR10399,Floral Tracks,Bottomwear,Scarves,Roadster,Unisex,"XS, S, M, L",Pink,Textured,Standard,Retro,5310,10%,Sunglasses,Kareena Kapoor,Summer,2024,Yes,5.0
+MTR10400,Floral Kurtis,Accessories,Shirts,Adidas,Women,"XS, S, M, L",Red,Smooth,Recycled,Minimalist,5257,15%,Sports Socks,Kareena Kapoor,Summer,2023,No,4.5
+MTR10401,Printed Blazers,Winterwear,Kurtis,Levi’s,Women,UK 6–11,Beige,Matte,Eco-Friendly,Streetwear,4968,30%,Leather Belt,Virat Kohli,Winter,2023,No,3.6
+MTR10402,Floral T-Shirt,Accessories,T-Shirt,Allen Solly,Men,"M, L, XL",Black,Smooth,Eco-Friendly,Y2K,583,25%,Watch,None,Summer,2023,Yes,5.0
+MTR10403,Slim Fit Hoodies,Bottomwear,Tracks,Roadster,Women,"XS, S, M, L",Olive,Smooth,Eco-Friendly,Boho,1290,20%,Cap,Kareena Kapoor,Winter,2025,No,3.5
+MTR10404,Slim Fit Blazers,Winterwear,Jeans,U.S. Polo Assn.,Women,"S, M, L, XL",Pastel Green,Soft,Standard,Y2K,2996,20%,Statement Brooch,Ranveer Singh,Winter,2025,Yes,4.7
+MTR10405,Graphic Sneakers,Bottomwear,Tracks,U.S. Polo Assn.,Men,"M, L, XL",Pink,Matte,Eco-Friendly,Minimalist,2089,25%,Leather Belt,Kiara Advani,Summer,2024,Yes,4.2
+MTR10406,Basic Tracks,Ethnic,Shirts,Allen Solly,Unisex,"XS, S, M, L",Pastel Green,Glossy,Recycled,Boho,5088,20%,Leather Belt,Kiara Advani,Winter,2025,No,4.0
+MTR10407,Formal Jeans,Topwear,Blazers,U.S. Polo Assn.,Men,"XS, S, M, L",Red,Rough,Premium,Boho,4206,30%,Leather Belt,Ranveer Singh,Summer,2025,Yes,4.8
+MTR10408,Formal Sandals,Winterwear,T-Shirt,Adidas,Men,"S, M, L, XL",Beige,Glossy,Eco-Friendly,Streetwear,2521,25%,Sunglasses,Ranveer Singh,All Season,2023,No,3.8
+MTR10409,Printed T-Shirt,Ethnic,Hoodies,Zara,Unisex,Free Size,Grey,Smooth,Recycled,Streetwear,4664,25%,Silver Jhumkas,Kiara Advani,All Season,2024,Yes,3.9
+MTR10410,Printed T-Shirt,Winterwear,Jeans,U.S. Polo Assn.,Women,"S, M, L, XL",Beige,Rough,Standard,Streetwear,2882,25%,Watch,Ranveer Singh,All Season,2024,Yes,4.9
+MTR10411,Floral Scarves,Topwear,Shirts,Adidas,Men,"S, M, L, XL",Navy Blue,Glossy,Premium,Athleisure,3675,10%,Sports Socks,None,Winter,2025,No,4.4
+MTR10412,Formal T-Shirt,Topwear,Hoodies,Nike,Men,"XS, S, M, L",White,Textured,Recycled,Athleisure,882,30%,Silver Jhumkas,Virat Kohli,Summer,2024,No,3.7
+MTR10413,Casual Shirts,Topwear,Kurtis,Nike,Women,Free Size,Beige,Soft,Standard,Streetwear,729,15%,Cap,Kareena Kapoor,Summer,2024,Yes,3.9
+MTR10414,Basic Blazers,Accessories,Hoodies,Biba,Men,UK 6–11,Yellow,Glossy,Recycled,Boho,4453,15%,Cap,None,All Season,2025,No,4.2
+MTR10415,Floral Tracks,Accessories,Shirts,Biba,Unisex,"M, L, XL",White,Matte,Eco-Friendly,Boho,4558,10%,Cap,None,Summer,2024,Yes,4.1
+MTR10416,Printed T-Shirt,Accessories,Shirts,H&M,Unisex,"S, M, L, XL",Pastel Green,Textured,Eco-Friendly,Y2K,2846,10%,Statement Brooch,Virat Kohli,All Season,2025,No,4.2
+MTR10417,Printed Kurtis,Topwear,Jeans,Nike,Men,"S, M, L, XL",White,Matte,Recycled,Streetwear,1390,25%,Cap,Kareena Kapoor,Summer,2023,Yes,4.4
+MTR10418,Basic Hoodies,Topwear,Shirts,Zara,Women,"M, L, XL",Yellow,Matte,Standard,Streetwear,5256,15%,Cap,Virat Kohli,Summer,2024,Yes,4.9
+MTR10419,Sporty Sneakers,Winterwear,Blazers,U.S. Polo Assn.,Women,UK 6–11,Navy Blue,Textured,Eco-Friendly,Y2K,1250,30%,Cap,Virat Kohli,All Season,2024,Yes,4.5
+MTR10420,Slim Fit T-Shirt,Bottomwear,Scarves,Levi’s,Women,Free Size,Yellow,Ribbed,Premium,Boho,2569,30%,Leather Belt,Virat Kohli,All Season,2024,No,4.2
+MTR10421,Floral T-Shirt,Winterwear,Blazers,Roadster,Men,Free Size,Pink,Textured,Premium,Minimalist,2421,20%,Statement Brooch,Deepika Padukone,Summer,2025,No,3.7
+MTR10422,Slim Fit Scarves,Topwear,Jeans,Allen Solly,Women,"XS, S, M, L",Red,Matte,Recycled,Boho,3755,30%,Cap,Kareena Kapoor,All Season,2023,No,3.9
+MTR10423,Basic Shirts,Ethnic,T-Shirt,Allen Solly,Men,"M, L, XL",Grey,Rough,Recycled,Athleisure,3909,30%,Sunglasses,Kiara Advani,All Season,2025,Yes,4.8
+MTR10424,Printed Hoodies,Accessories,Hoodies,Zara,Men,"M, L, XL",White,Soft,Eco-Friendly,Retro,4338,25%,Leather Belt,Kiara Advani,Summer,2024,No,4.8
+MTR10425,Casual Shirts,Footwear,Kurtis,Allen Solly,Men,Free Size,Yellow,Smooth,Recycled,Y2K,4604,30%,Watch,Kareena Kapoor,Winter,2023,Yes,3.8
+MTR10426,Floral Blazers,Accessories,Kurtis,Zara,Unisex,UK 6–11,Navy Blue,Rough,Recycled,Streetwear,513,10%,Watch,Kareena Kapoor,All Season,2025,Yes,3.9
+MTR10427,Slim Fit Tracks,Winterwear,Hoodies,Zara,Men,"M, L, XL",Navy Blue,Glossy,Recycled,Athleisure,1440,30%,Cap,Virat Kohli,All Season,2024,No,4.3
+MTR10428,Graphic Blazers,Topwear,Kurtis,Biba,Unisex,"S, M, L, XL",Pastel Green,Smooth,Standard,Streetwear,5085,10%,Statement Brooch,Kareena Kapoor,Summer,2025,No,4.9
+MTR10429,Basic Kurtis,Accessories,Kurtis,Zara,Women,Free Size,Black,Glossy,Recycled,Y2K,4835,10%,Statement Brooch,Kareena Kapoor,All Season,2024,Yes,3.6
+MTR10430,Sporty Jeans,Accessories,Hoodies,Biba,Women,Free Size,Yellow,Soft,Premium,Minimalist,3448,30%,Statement Brooch,Kareena Kapoor,Winter,2025,No,4.7
+MTR10431,Sporty Hoodies,Accessories,Jeans,Biba,Men,"M, L, XL",Beige,Rough,Standard,Streetwear,5058,25%,Leather Belt,None,All Season,2024,Yes,3.9
+MTR10432,Printed Scarves,Bottomwear,Tracks,Allen Solly,Men,Free Size,Yellow,Soft,Eco-Friendly,Streetwear,3496,25%,Leather Belt,Ranveer Singh,All Season,2025,No,4.7
+MTR10433,Formal Sneakers,Bottomwear,Blazers,Nike,Women,"M, L, XL",Black,Rough,Standard,Y2K,1211,30%,Leather Belt,Deepika Padukone,All Season,2025,No,4.6
+MTR10434,Printed Kurtis,Winterwear,Hoodies,H&M,Men,Free Size,Grey,Soft,Recycled,Boho,4411,15%,Leather Belt,Kiara Advani,All Season,2023,No,3.8
+MTR10435,Formal Scarves,Winterwear,Tracks,Biba,Unisex,"M, L, XL",White,Ribbed,Standard,Boho,2613,30%,Leather Belt,Ranveer Singh,Summer,2023,No,4.7
+MTR10436,Floral T-Shirt,Footwear,Jeans,U.S. Polo Assn.,Unisex,"XS, S, M, L",White,Soft,Premium,Streetwear,5612,30%,Watch,Kareena Kapoor,All Season,2023,No,5.0
+MTR10437,Sporty Shirts,Ethnic,Kurtis,Roadster,Women,Free Size,Grey,Matte,Eco-Friendly,Retro,4516,25%,Statement Brooch,None,All Season,2025,No,3.9
+MTR10438,Sporty Shirts,Topwear,Sandals,Levi’s,Unisex,"XS, S, M, L",Navy Blue,Ribbed,Standard,Athleisure,3595,20%,Watch,Deepika Padukone,All Season,2024,Yes,4.8
+MTR10439,Formal Tracks,Ethnic,Jeans,Allen Solly,Unisex,"XS, S, M, L",Olive,Glossy,Eco-Friendly,Minimalist,676,25%,Statement Brooch,Kiara Advani,Winter,2023,No,3.8
+MTR10440,Formal Hoodies,Winterwear,T-Shirt,Allen Solly,Men,UK 6–11,White,Smooth,Eco-Friendly,Minimalist,4995,25%,Silver Jhumkas,None,Winter,2024,No,4.7
+MTR10441,Formal Shirts,Topwear,Kurtis,Allen Solly,Women,UK 6–11,White,Smooth,Eco-Friendly,Y2K,3909,10%,Leather Belt,Kareena Kapoor,Summer,2025,No,4.4
+MTR10442,Printed Sneakers,Accessories,Kurtis,Zara,Men,Free Size,Pink,Glossy,Eco-Friendly,Athleisure,3670,15%,Sports Socks,None,Summer,2024,Yes,4.9
+MTR10443,Basic Sandals,Footwear,Blazers,Zara,Unisex,"S, M, L, XL",Olive,Textured,Recycled,Streetwear,2652,10%,Sports Socks,Kareena Kapoor,All Season,2025,Yes,4.2
+MTR10444,Graphic T-Shirt,Winterwear,Tracks,H&M,Men,"S, M, L, XL",Red,Textured,Premium,Athleisure,5837,15%,Statement Brooch,None,Winter,2023,No,4.6
+MTR10445,Graphic Jeans,Bottomwear,T-Shirt,Puma,Women,"M, L, XL",Pink,Ribbed,Standard,Y2K,5768,10%,Sports Socks,Kareena Kapoor,Summer,2023,Yes,3.7
+MTR10446,Printed Hoodies,Bottomwear,Hoodies,Allen Solly,Unisex,"XS, S, M, L",Red,Ribbed,Recycled,Athleisure,3347,30%,Leather Belt,None,Summer,2025,No,4.5
+MTR10447,Basic T-Shirt,Footwear,Scarves,Allen Solly,Women,"M, L, XL",Pink,Glossy,Recycled,Streetwear,2583,30%,Statement Brooch,Ranveer Singh,Summer,2025,No,3.8
+MTR10448,Graphic Jeans,Bottomwear,Kurtis,H&M,Unisex,"M, L, XL",Red,Glossy,Standard,Retro,4050,25%,Silver Jhumkas,Virat Kohli,Winter,2024,Yes,4.9
+MTR10449,Formal Kurtis,Bottomwear,Tracks,Puma,Men,UK 6–11,Navy Blue,Ribbed,Recycled,Retro,1909,20%,Silver Jhumkas,Kiara Advani,All Season,2023,No,4.8
+MTR10450,Sporty Scarves,Bottomwear,Scarves,Nike,Unisex,"S, M, L, XL",Black,Textured,Recycled,Boho,3361,30%,Statement Brooch,Ranveer Singh,Winter,2024,Yes,3.8
+MTR10451,Basic Kurtis,Footwear,Shirts,Puma,Unisex,"M, L, XL",Beige,Ribbed,Eco-Friendly,Athleisure,2447,10%,Cap,Kiara Advani,Summer,2023,No,3.5
+MTR10452,Formal Kurtis,Ethnic,Hoodies,Allen Solly,Unisex,Free Size,Navy Blue,Smooth,Premium,Y2K,2430,25%,Statement Brooch,Virat Kohli,Summer,2024,No,4.9
+MTR10453,Formal T-Shirt,Topwear,Sandals,Allen Solly,Men,"S, M, L, XL",Red,Soft,Recycled,Streetwear,2477,25%,Cap,Kareena Kapoor,All Season,2025,No,4.4
+MTR10454,Floral Shirts,Ethnic,T-Shirt,Nike,Unisex,"M, L, XL",Pink,Ribbed,Standard,Athleisure,3915,30%,Sports Socks,Kareena Kapoor,All Season,2025,No,4.9
+MTR10455,Graphic Scarves,Winterwear,Sneakers,Roadster,Unisex,"M, L, XL",Grey,Textured,Standard,Streetwear,1320,15%,Silver Jhumkas,Ranveer Singh,Summer,2025,Yes,4.7
+MTR10456,Floral Blazers,Topwear,Sneakers,Nike,Unisex,Free Size,Navy Blue,Ribbed,Standard,Boho,2801,25%,Cap,Kiara Advani,Winter,2025,Yes,4.5
+MTR10457,Sporty Sandals,Topwear,Scarves,Puma,Men,UK 6–11,Black,Rough,Premium,Streetwear,4434,30%,Sports Socks,None,Winter,2023,No,4.7
+MTR10458,Printed Scarves,Footwear,Kurtis,Nike,Men,Free Size,Navy Blue,Smooth,Standard,Athleisure,3748,10%,Sunglasses,Deepika Padukone,Summer,2025,Yes,4.4
+MTR10459,Slim Fit Blazers,Topwear,Blazers,U.S. Polo Assn.,Unisex,"XS, S, M, L",Black,Soft,Eco-Friendly,Athleisure,2026,15%,Sports Socks,Virat Kohli,Winter,2024,Yes,4.4
+MTR10460,Basic Scarves,Ethnic,Sneakers,Biba,Women,Free Size,Navy Blue,Glossy,Standard,Streetwear,5429,30%,Leather Belt,Kareena Kapoor,All Season,2023,No,5.0
+MTR10461,Floral Jeans,Ethnic,Sandals,Puma,Women,"M, L, XL",Pink,Ribbed,Premium,Y2K,5310,10%,Silver Jhumkas,Deepika Padukone,Winter,2024,Yes,4.9
+MTR10462,Floral Tracks,Footwear,Scarves,Adidas,Women,UK 6–11,Black,Soft,Recycled,Boho,2814,25%,Watch,Kiara Advani,All Season,2023,Yes,3.6
+MTR10463,Slim Fit T-Shirt,Footwear,Scarves,U.S. Polo Assn.,Women,"XS, S, M, L",Red,Textured,Premium,Boho,4110,15%,Cap,Kiara Advani,All Season,2024,Yes,4.7
+MTR10464,Printed Kurtis,Footwear,Blazers,Puma,Unisex,UK 6–11,White,Rough,Premium,Streetwear,630,30%,Leather Belt,Kiara Advani,All Season,2025,No,3.5
+MTR10465,Graphic Jeans,Footwear,Hoodies,Nike,Men,"XS, S, M, L",Pink,Smooth,Standard,Minimalist,1032,20%,Sunglasses,Deepika Padukone,Winter,2024,Yes,3.6
+MTR10466,Formal T-Shirt,Topwear,T-Shirt,Zara,Unisex,"S, M, L, XL",Red,Textured,Premium,Athleisure,1258,30%,Sunglasses,Deepika Padukone,All Season,2025,No,4.5
+MTR10467,Floral Tracks,Accessories,Shirts,H&M,Unisex,"XS, S, M, L",Yellow,Glossy,Recycled,Streetwear,1402,20%,Silver Jhumkas,Kareena Kapoor,Summer,2023,No,4.5
+MTR10468,Formal Sneakers,Winterwear,Hoodies,Biba,Men,Free Size,Black,Ribbed,Recycled,Minimalist,1576,30%,Sports Socks,Ranveer Singh,Winter,2023,No,4.8
+MTR10469,Printed Hoodies,Winterwear,Tracks,H&M,Women,UK 6–11,Black,Rough,Standard,Y2K,3340,30%,Sports Socks,Virat Kohli,Winter,2025,Yes,3.7
+MTR10470,Sporty Scarves,Ethnic,Shirts,Zara,Men,"M, L, XL",Navy Blue,Glossy,Eco-Friendly,Boho,3653,25%,Leather Belt,Kiara Advani,Winter,2024,Yes,4.3
+MTR10471,Basic Blazers,Accessories,Scarves,Nike,Women,"S, M, L, XL",White,Rough,Recycled,Athleisure,1287,25%,Watch,None,Winter,2025,Yes,3.9
+MTR10472,Formal Sandals,Topwear,Scarves,Roadster,Men,"S, M, L, XL",Olive,Matte,Premium,Streetwear,1524,25%,Cap,Ranveer Singh,Summer,2024,No,3.8
+MTR10473,Formal Jeans,Bottomwear,Blazers,Roadster,Unisex,"XS, S, M, L",Pastel Green,Ribbed,Eco-Friendly,Retro,555,25%,Sunglasses,Kareena Kapoor,Summer,2023,No,4.2
+MTR10474,Formal Blazers,Accessories,Scarves,U.S. Polo Assn.,Unisex,"S, M, L, XL",Yellow,Textured,Premium,Streetwear,4373,15%,Cap,Kareena Kapoor,Summer,2024,No,4.2
+MTR10475,Casual Jeans,Ethnic,Kurtis,Adidas,Men,"M, L, XL",Yellow,Glossy,Eco-Friendly,Boho,5505,30%,Sports Socks,Kareena Kapoor,Summer,2023,Yes,5.0
+MTR10476,Sporty Scarves,Topwear,Kurtis,Allen Solly,Men,"S, M, L, XL",Black,Textured,Recycled,Streetwear,552,10%,Sunglasses,Kiara Advani,Winter,2023,Yes,4.3
+MTR10477,Graphic Sneakers,Topwear,Hoodies,Biba,Unisex,"M, L, XL",Pink,Ribbed,Premium,Retro,5973,30%,Leather Belt,Deepika Padukone,Summer,2024,Yes,4.0
+MTR10478,Casual Kurtis,Ethnic,Tracks,Nike,Unisex,"XS, S, M, L",Beige,Soft,Eco-Friendly,Boho,2330,20%,Cap,Deepika Padukone,All Season,2025,No,4.2
+MTR10479,Sporty Blazers,Winterwear,Shirts,Biba,Men,Free Size,Navy Blue,Textured,Eco-Friendly,Y2K,3661,20%,Statement Brooch,None,Summer,2023,Yes,4.4
+MTR10480,Basic Scarves,Topwear,T-Shirt,Levi’s,Women,"M, L, XL",Olive,Ribbed,Premium,Minimalist,1902,30%,Statement Brooch,None,Summer,2025,Yes,4.3
+MTR10481,Slim Fit Jeans,Footwear,Tracks,Biba,Unisex,"M, L, XL",Pastel Green,Rough,Recycled,Y2K,1418,10%,Sunglasses,Deepika Padukone,All Season,2023,Yes,3.9
+MTR10482,Printed Blazers,Accessories,Kurtis,Adidas,Men,UK 6–11,Grey,Smooth,Premium,Athleisure,3952,25%,Leather Belt,Deepika Padukone,All Season,2023,Yes,3.6
+MTR10483,Sporty Shirts,Ethnic,Tracks,H&M,Women,Free Size,Beige,Soft,Standard,Y2K,1480,25%,Sports Socks,Ranveer Singh,All Season,2023,Yes,3.9
+MTR10484,Graphic Blazers,Topwear,Blazers,Zara,Men,Free Size,Pastel Green,Smooth,Premium,Y2K,1685,25%,Sunglasses,None,All Season,2024,Yes,4.1
+MTR10485,Printed Jeans,Accessories,Sneakers,H&M,Women,"M, L, XL",Pink,Ribbed,Recycled,Boho,1969,10%,Cap,Deepika Padukone,Winter,2023,No,3.7
+MTR10486,Casual Kurtis,Winterwear,Sneakers,H&M,Unisex,Free Size,Pink,Textured,Standard,Minimalist,4961,10%,Watch,Kiara Advani,Winter,2024,Yes,4.9
+MTR10487,Basic Hoodies,Accessories,Sandals,H&M,Women,UK 6–11,Grey,Textured,Standard,Y2K,4972,30%,Watch,Kiara Advani,All Season,2025,No,3.9
+MTR10488,Sporty Sneakers,Footwear,Sandals,Zara,Men,"M, L, XL",Olive,Textured,Standard,Athleisure,4269,25%,Silver Jhumkas,Kareena Kapoor,Summer,2024,Yes,3.8
+MTR10489,Formal Sandals,Winterwear,Jeans,Puma,Men,UK 6–11,Beige,Soft,Recycled,Y2K,3692,10%,Silver Jhumkas,Ranveer Singh,Summer,2023,No,4.1
+MTR10490,Basic Sneakers,Ethnic,Scarves,Roadster,Men,UK 6–11,Navy Blue,Soft,Eco-Friendly,Retro,5240,25%,Sunglasses,Kiara Advani,Summer,2024,No,4.4
+MTR10491,Casual Shirts,Topwear,Jeans,Nike,Unisex,"XS, S, M, L",Grey,Rough,Standard,Streetwear,4481,30%,Statement Brooch,Ranveer Singh,Winter,2025,Yes,3.6
+MTR10492,Basic Shirts,Bottomwear,Shirts,Allen Solly,Unisex,UK 6–11,Yellow,Soft,Premium,Retro,3063,30%,Silver Jhumkas,None,All Season,2024,Yes,4.6
+MTR10493,Casual Kurtis,Ethnic,Kurtis,Biba,Men,"XS, S, M, L",Navy Blue,Glossy,Eco-Friendly,Minimalist,5771,20%,Sports Socks,Deepika Padukone,Winter,2023,No,3.9
+MTR10494,Slim Fit Blazers,Topwear,Hoodies,Levi’s,Men,Free Size,Olive,Matte,Recycled,Y2K,4453,30%,Watch,Virat Kohli,Winter,2024,Yes,4.2
+MTR10495,Casual Shirts,Bottomwear,Kurtis,Zara,Unisex,"S, M, L, XL",Red,Rough,Standard,Streetwear,4989,20%,Statement Brooch,Deepika Padukone,All Season,2023,Yes,4.7
+MTR10496,Basic Blazers,Ethnic,Tracks,Nike,Unisex,Free Size,Yellow,Soft,Recycled,Y2K,561,25%,Silver Jhumkas,Kareena Kapoor,Summer,2023,Yes,5.0
+MTR10497,Basic Sandals,Accessories,Tracks,U.S. Polo Assn.,Unisex,"XS, S, M, L",Red,Textured,Premium,Athleisure,845,25%,Watch,Virat Kohli,All Season,2023,Yes,4.3
+MTR10498,Graphic Kurtis,Ethnic,Sandals,Adidas,Men,"XS, S, M, L",Pastel Green,Rough,Recycled,Retro,3987,25%,Statement Brooch,Kareena Kapoor,Summer,2025,Yes,4.0
+MTR10499,Basic Jeans,Ethnic,T-Shirt,Adidas,Women,"S, M, L, XL",Olive,Soft,Premium,Streetwear,5583,15%,Cap,Deepika Padukone,Summer,2025,No,4.4
+MTR10500,Floral Sandals,Accessories,Hoodies,Zara,Unisex,"XS, S, M, L",Pastel Green,Ribbed,Premium,Retro,515,20%,Cap,Deepika Padukone,Summer,2023,No,3.9
+MTR10501,Sporty Jeans,Winterwear,Sandals,Allen Solly,Unisex,"S, M, L, XL",Black,Textured,Standard,Retro,2308,25%,Leather Belt,Deepika Padukone,All Season,2025,Yes,4.6
+MTR10502,Floral T-Shirt,Accessories,Sneakers,Nike,Women,"M, L, XL",Beige,Rough,Standard,Boho,2491,20%,Sunglasses,None,All Season,2023,No,4.5
+MTR10503,Slim Fit Hoodies,Footwear,Scarves,Roadster,Women,"S, M, L, XL",Red,Soft,Eco-Friendly,Retro,4142,30%,Statement Brooch,Kareena Kapoor,Winter,2023,No,4.9
+MTR10504,Floral Hoodies,Winterwear,Shirts,Roadster,Women,"XS, S, M, L",Pink,Glossy,Standard,Minimalist,1352,25%,Sunglasses,Virat Kohli,All Season,2025,No,4.9
+MTR10505,Floral Sneakers,Topwear,Kurtis,Allen Solly,Unisex,"S, M, L, XL",Yellow,Rough,Eco-Friendly,Boho,3569,20%,Sunglasses,Deepika Padukone,Winter,2025,Yes,5.0
+MTR10506,Printed Sneakers,Ethnic,Sandals,Nike,Women,Free Size,Pastel Green,Rough,Eco-Friendly,Streetwear,942,20%,Watch,Kiara Advani,Summer,2025,No,3.8
+MTR10507,Slim Fit Sandals,Footwear,Sneakers,U.S. Polo Assn.,Women,Free Size,White,Matte,Recycled,Retro,2183,25%,Cap,Kiara Advani,Winter,2024,No,4.1
+MTR10508,Printed T-Shirt,Bottomwear,Sandals,Levi’s,Men,"XS, S, M, L",Red,Smooth,Eco-Friendly,Boho,772,15%,Leather Belt,Virat Kohli,Summer,2024,Yes,4.8
+MTR10509,Sporty Tracks,Winterwear,Blazers,Roadster,Women,UK 6–11,Yellow,Soft,Recycled,Y2K,2059,25%,Silver Jhumkas,Kareena Kapoor,Winter,2025,Yes,4.9
+MTR10510,Basic Sandals,Topwear,T-Shirt,Zara,Men,"M, L, XL",Olive,Smooth,Recycled,Streetwear,5389,25%,Leather Belt,None,All Season,2024,No,4.6
+MTR10511,Slim Fit Blazers,Bottomwear,Blazers,Adidas,Men,"M, L, XL",Pink,Textured,Recycled,Minimalist,4652,25%,Sports Socks,Kiara Advani,Winter,2025,No,3.6
+MTR10512,Floral Tracks,Topwear,Scarves,H&M,Women,Free Size,Red,Soft,Premium,Retro,1641,10%,Leather Belt,Kiara Advani,Summer,2025,Yes,4.8
+MTR10513,Casual Blazers,Ethnic,Blazers,Adidas,Unisex,Free Size,Pink,Textured,Recycled,Minimalist,2054,10%,Silver Jhumkas,Kiara Advani,Winter,2025,No,4.9
+MTR10514,Casual Sneakers,Footwear,Kurtis,Roadster,Men,"XS, S, M, L",Pink,Ribbed,Premium,Minimalist,2975,30%,Sunglasses,None,Winter,2024,Yes,4.9
+MTR10515,Casual Hoodies,Topwear,Shirts,Biba,Women,UK 6–11,Red,Textured,Eco-Friendly,Streetwear,4098,30%,Leather Belt,Kiara Advani,Summer,2023,Yes,4.0
+MTR10516,Casual Hoodies,Topwear,Hoodies,Nike,Women,"M, L, XL",Yellow,Rough,Recycled,Minimalist,4150,30%,Silver Jhumkas,None,Winter,2025,No,4.0
+MTR10517,Formal Sneakers,Topwear,Kurtis,Allen Solly,Women,"XS, S, M, L",Pink,Rough,Eco-Friendly,Minimalist,500,15%,Silver Jhumkas,Virat Kohli,All Season,2023,No,4.5
+MTR10518,Formal Kurtis,Accessories,T-Shirt,U.S. Polo Assn.,Men,"XS, S, M, L",White,Rough,Premium,Streetwear,5817,25%,Leather Belt,Deepika Padukone,Winter,2024,No,3.5
+MTR10519,Slim Fit Blazers,Footwear,Shirts,Puma,Unisex,"S, M, L, XL",Olive,Textured,Premium,Minimalist,3862,30%,Watch,Deepika Padukone,Winter,2025,Yes,3.7
+MTR10520,Formal Sneakers,Footwear,Shirts,Nike,Unisex,Free Size,Pastel Green,Ribbed,Premium,Boho,5451,20%,Cap,None,Winter,2023,No,4.9
+MTR10521,Printed Hoodies,Accessories,Blazers,Puma,Unisex,UK 6–11,Grey,Ribbed,Eco-Friendly,Y2K,1676,25%,Cap,None,All Season,2024,Yes,3.8
+MTR10522,Graphic Sandals,Winterwear,Sandals,Puma,Unisex,UK 6–11,Grey,Glossy,Premium,Minimalist,4824,20%,Silver Jhumkas,Deepika Padukone,Summer,2024,Yes,3.7
+MTR10523,Floral T-Shirt,Footwear,Scarves,Zara,Men,"S, M, L, XL",Navy Blue,Smooth,Standard,Athleisure,4701,25%,Sunglasses,Ranveer Singh,Summer,2023,No,4.2
+MTR10524,Floral Tracks,Ethnic,Sandals,H&M,Men,"M, L, XL",Navy Blue,Ribbed,Eco-Friendly,Minimalist,2112,10%,Sports Socks,Kiara Advani,Winter,2023,Yes,3.9
+MTR10525,Basic Sneakers,Accessories,Sneakers,Biba,Women,Free Size,Red,Soft,Standard,Streetwear,4676,10%,Watch,Kiara Advani,All Season,2023,No,4.5
+MTR10526,Basic Kurtis,Accessories,Sneakers,H&M,Unisex,Free Size,Grey,Rough,Eco-Friendly,Boho,4456,15%,Leather Belt,Kareena Kapoor,All Season,2025,No,3.8
+MTR10527,Floral Shirts,Ethnic,T-Shirt,Allen Solly,Men,"S, M, L, XL",White,Glossy,Eco-Friendly,Retro,4409,20%,Watch,Virat Kohli,Winter,2025,Yes,4.4
+MTR10528,Slim Fit Shirts,Bottomwear,Sneakers,H&M,Unisex,"XS, S, M, L",Black,Soft,Premium,Boho,2253,30%,Silver Jhumkas,Deepika Padukone,Summer,2023,Yes,4.3
+MTR10529,Basic Tracks,Bottomwear,T-Shirt,Allen Solly,Unisex,Free Size,Pink,Textured,Standard,Retro,3003,25%,Statement Brooch,Kiara Advani,All Season,2024,Yes,4.8
+MTR10530,Slim Fit Jeans,Ethnic,T-Shirt,Puma,Men,Free Size,Pink,Glossy,Standard,Retro,5393,30%,Leather Belt,Kareena Kapoor,Winter,2025,No,4.2
+MTR10531,Printed Shirts,Accessories,Blazers,Adidas,Unisex,UK 6–11,Red,Textured,Standard,Retro,1902,30%,Sunglasses,Kiara Advani,All Season,2023,No,3.9
+MTR10532,Slim Fit Sandals,Topwear,Blazers,Allen Solly,Men,"M, L, XL",Black,Soft,Recycled,Athleisure,5401,25%,Cap,None,Summer,2025,No,4.0
+MTR10533,Printed Scarves,Bottomwear,Hoodies,Adidas,Men,Free Size,Pink,Ribbed,Eco-Friendly,Boho,2158,15%,Leather Belt,Virat Kohli,All Season,2025,Yes,3.7
+MTR10534,Casual Tracks,Accessories,Shirts,Levi’s,Women,UK 6–11,Pastel Green,Smooth,Premium,Retro,1660,30%,Sports Socks,Kiara Advani,Summer,2023,Yes,4.0
+MTR10535,Graphic Tracks,Ethnic,T-Shirt,H&M,Men,Free Size,Yellow,Smooth,Eco-Friendly,Streetwear,4937,10%,Cap,Kiara Advani,Winter,2024,Yes,4.7
+MTR10536,Graphic Scarves,Bottomwear,Tracks,Puma,Women,Free Size,Beige,Rough,Recycled,Streetwear,4409,10%,Statement Brooch,None,All Season,2023,Yes,4.9
+MTR10537,Casual Sandals,Bottomwear,Sandals,Puma,Men,"S, M, L, XL",Beige,Soft,Eco-Friendly,Athleisure,5229,15%,Statement Brooch,Ranveer Singh,Summer,2023,No,3.8
+MTR10538,Sporty Scarves,Topwear,Shirts,Adidas,Unisex,UK 6–11,Navy Blue,Glossy,Eco-Friendly,Retro,3646,20%,Statement Brooch,Ranveer Singh,All Season,2025,No,4.7
+MTR10539,Slim Fit Jeans,Winterwear,Jeans,Zara,Unisex,"XS, S, M, L",Red,Ribbed,Recycled,Retro,5670,10%,Silver Jhumkas,None,All Season,2024,Yes,4.5
+MTR10540,Basic Hoodies,Footwear,Sneakers,Puma,Men,"XS, S, M, L",Pink,Ribbed,Standard,Athleisure,2493,20%,Cap,Kiara Advani,Winter,2024,No,4.3
+MTR10541,Graphic Sandals,Accessories,Tracks,Biba,Men,"XS, S, M, L",Beige,Textured,Premium,Boho,523,10%,Statement Brooch,Virat Kohli,Winter,2024,Yes,4.4
+MTR10542,Slim Fit Hoodies,Ethnic,Kurtis,Biba,Men,Free Size,Beige,Ribbed,Standard,Streetwear,1314,15%,Silver Jhumkas,Virat Kohli,Winter,2023,No,3.6
+MTR10543,Floral Kurtis,Footwear,Sneakers,Zara,Unisex,"S, M, L, XL",Pastel Green,Soft,Eco-Friendly,Y2K,2212,30%,Statement Brooch,Deepika Padukone,All Season,2025,Yes,3.8
+MTR10544,Formal Scarves,Winterwear,Blazers,Puma,Men,"M, L, XL",Olive,Smooth,Premium,Minimalist,5409,25%,Watch,Virat Kohli,All Season,2025,No,3.9
+MTR10545,Sporty T-Shirt,Bottomwear,T-Shirt,U.S. Polo Assn.,Women,UK 6–11,Yellow,Textured,Recycled,Streetwear,4460,30%,Watch,None,Summer,2023,No,4.5
+MTR10546,Casual Blazers,Footwear,Jeans,Zara,Unisex,UK 6–11,Navy Blue,Rough,Recycled,Retro,5883,20%,Statement Brooch,Ranveer Singh,Winter,2025,No,4.4
+MTR10547,Sporty Kurtis,Ethnic,Blazers,U.S. Polo Assn.,Women,"S, M, L, XL",Red,Ribbed,Eco-Friendly,Y2K,4956,15%,Silver Jhumkas,Ranveer Singh,Winter,2024,Yes,4.8
+MTR10548,Basic Tracks,Topwear,Jeans,Zara,Men,UK 6–11,Beige,Textured,Standard,Y2K,1907,15%,Sunglasses,Deepika Padukone,Winter,2025,Yes,3.5
+MTR10549,Casual Sandals,Bottomwear,Sandals,Adidas,Unisex,"M, L, XL",Pink,Smooth,Eco-Friendly,Retro,709,30%,Sports Socks,Ranveer Singh,Winter,2024,No,3.7
+MTR10550,Slim Fit Sandals,Topwear,Scarves,Roadster,Unisex,"XS, S, M, L",Black,Textured,Recycled,Minimalist,3143,10%,Leather Belt,Kareena Kapoor,Summer,2024,Yes,3.9
+MTR10551,Printed Sandals,Footwear,Kurtis,Allen Solly,Women,"XS, S, M, L",Navy Blue,Ribbed,Premium,Athleisure,4364,20%,Sports Socks,Ranveer Singh,Winter,2024,No,3.5
+MTR10552,Printed Sneakers,Ethnic,Tracks,H&M,Women,UK 6–11,Pastel Green,Glossy,Standard,Streetwear,3710,20%,Silver Jhumkas,Kiara Advani,All Season,2023,No,4.3
+MTR10553,Casual Sandals,Topwear,Sneakers,Levi’s,Women,"M, L, XL",Beige,Textured,Eco-Friendly,Boho,5155,10%,Watch,None,Winter,2025,No,4.8
+MTR10554,Graphic Kurtis,Accessories,Kurtis,Puma,Women,"XS, S, M, L",Yellow,Glossy,Eco-Friendly,Y2K,2865,15%,Statement Brooch,Ranveer Singh,All Season,2023,No,4.6
+MTR10555,Printed Blazers,Ethnic,Tracks,Zara,Unisex,"S, M, L, XL",Pink,Matte,Recycled,Athleisure,4925,30%,Sports Socks,Deepika Padukone,Summer,2023,Yes,3.9
+MTR10556,Slim Fit Shirts,Ethnic,Scarves,Allen Solly,Men,"XS, S, M, L",Beige,Glossy,Recycled,Streetwear,839,25%,Leather Belt,None,Winter,2024,No,4.1
+MTR10557,Formal Jeans,Topwear,Blazers,H&M,Men,Free Size,Red,Ribbed,Standard,Streetwear,4013,10%,Watch,Kareena Kapoor,Winter,2024,Yes,3.7
+MTR10558,Floral T-Shirt,Bottomwear,Tracks,H&M,Men,"S, M, L, XL",Pastel Green,Soft,Eco-Friendly,Minimalist,1104,20%,Silver Jhumkas,Deepika Padukone,Winter,2024,No,3.9
+MTR10559,Slim Fit Sneakers,Winterwear,Kurtis,Biba,Unisex,"S, M, L, XL",Red,Matte,Eco-Friendly,Minimalist,711,15%,Silver Jhumkas,Deepika Padukone,Winter,2025,No,4.3
+MTR10560,Casual Kurtis,Footwear,Sandals,Adidas,Women,"M, L, XL",Pink,Glossy,Recycled,Streetwear,5743,15%,Sports Socks,Deepika Padukone,Winter,2023,No,4.0
+MTR10561,Printed Tracks,Bottomwear,Jeans,H&M,Men,"XS, S, M, L",Black,Rough,Premium,Athleisure,4935,10%,Silver Jhumkas,None,Summer,2024,No,3.9
+MTR10562,Sporty Sandals,Topwear,Hoodies,Adidas,Unisex,"S, M, L, XL",Yellow,Ribbed,Recycled,Streetwear,4589,10%,Silver Jhumkas,Kiara Advani,Summer,2025,No,4.1
+MTR10563,Casual Sneakers,Topwear,Sandals,Allen Solly,Men,"M, L, XL",Olive,Matte,Eco-Friendly,Retro,2862,10%,Cap,Virat Kohli,Winter,2024,No,3.6
+MTR10564,Sporty Jeans,Topwear,Jeans,Biba,Unisex,"M, L, XL",Yellow,Textured,Recycled,Boho,5134,15%,Leather Belt,Virat Kohli,Summer,2023,Yes,4.8
+MTR10565,Sporty Tracks,Topwear,Tracks,H&M,Women,"S, M, L, XL",Pastel Green,Ribbed,Recycled,Boho,4372,15%,Silver Jhumkas,Kareena Kapoor,Winter,2025,Yes,4.9
+MTR10566,Formal Sandals,Topwear,Sneakers,U.S. Polo Assn.,Women,Free Size,Beige,Soft,Eco-Friendly,Boho,3943,30%,Watch,Virat Kohli,Summer,2023,No,3.5
+MTR10567,Casual Hoodies,Winterwear,Shirts,Biba,Men,"S, M, L, XL",Pastel Green,Glossy,Premium,Streetwear,2290,15%,Watch,None,Winter,2024,Yes,4.6
+MTR10568,Formal Sandals,Ethnic,Tracks,Levi’s,Unisex,"M, L, XL",Yellow,Matte,Premium,Minimalist,4297,10%,Silver Jhumkas,None,Winter,2025,Yes,4.2
+MTR10569,Sporty T-Shirt,Ethnic,Scarves,H&M,Unisex,UK 6–11,Red,Glossy,Premium,Athleisure,3737,30%,Cap,Kareena Kapoor,Winter,2025,Yes,5.0
+MTR10570,Casual Sneakers,Bottomwear,Blazers,H&M,Men,Free Size,Olive,Soft,Recycled,Boho,1472,20%,Silver Jhumkas,None,All Season,2025,Yes,4.5
+MTR10571,Graphic Sandals,Bottomwear,Jeans,Nike,Women,"XS, S, M, L",Pink,Ribbed,Premium,Retro,4792,10%,Silver Jhumkas,Ranveer Singh,All Season,2025,No,4.9
+MTR10572,Slim Fit Jeans,Bottomwear,Jeans,Puma,Unisex,"S, M, L, XL",White,Glossy,Premium,Streetwear,1998,30%,Leather Belt,None,Winter,2023,No,4.5
+MTR10573,Formal Kurtis,Ethnic,T-Shirt,Allen Solly,Women,"M, L, XL",Beige,Ribbed,Standard,Athleisure,4649,25%,Watch,Virat Kohli,Winter,2023,No,4.2
+MTR10574,Formal Shirts,Accessories,Sneakers,U.S. Polo Assn.,Women,"S, M, L, XL",Olive,Soft,Premium,Streetwear,1549,30%,Statement Brooch,Virat Kohli,Summer,2024,Yes,3.7
+MTR10575,Floral Hoodies,Ethnic,T-Shirt,Nike,Men,"M, L, XL",Pink,Soft,Premium,Y2K,1441,15%,Statement Brooch,Kiara Advani,Winter,2025,Yes,3.9
+MTR10576,Printed Kurtis,Winterwear,Blazers,Allen Solly,Unisex,UK 6–11,White,Rough,Eco-Friendly,Streetwear,3258,20%,Statement Brooch,None,Winter,2023,No,4.6
+MTR10577,Floral Sandals,Ethnic,Hoodies,Puma,Men,UK 6–11,Navy Blue,Glossy,Recycled,Athleisure,4796,20%,Sports Socks,Kiara Advani,Summer,2024,No,5.0
+MTR10578,Floral T-Shirt,Footwear,Jeans,Levi’s,Women,UK 6–11,Navy Blue,Smooth,Recycled,Minimalist,5761,30%,Watch,Ranveer Singh,All Season,2023,Yes,3.6
+MTR10579,Floral Shirts,Footwear,Jeans,Roadster,Unisex,UK 6–11,Navy Blue,Textured,Eco-Friendly,Minimalist,1670,25%,Sunglasses,Virat Kohli,Summer,2024,No,4.0
+MTR10580,Casual Scarves,Ethnic,T-Shirt,Levi’s,Women,Free Size,Pink,Soft,Standard,Retro,5294,15%,Watch,Ranveer Singh,Summer,2023,Yes,4.2
+MTR10581,Floral Shirts,Bottomwear,Scarves,Puma,Women,UK 6–11,White,Matte,Eco-Friendly,Boho,735,15%,Cap,Kiara Advani,All Season,2023,Yes,5.0
+MTR10582,Casual Tracks,Accessories,Sandals,Nike,Unisex,Free Size,Red,Ribbed,Premium,Streetwear,5808,10%,Cap,Kareena Kapoor,All Season,2023,Yes,4.2
+MTR10583,Formal Hoodies,Bottomwear,Sandals,U.S. Polo Assn.,Men,Free Size,Pastel Green,Smooth,Eco-Friendly,Retro,4235,15%,Sunglasses,None,Summer,2025,No,4.8
+MTR10584,Casual Hoodies,Topwear,Shirts,Nike,Women,"XS, S, M, L",White,Soft,Recycled,Boho,4888,10%,Sports Socks,Virat Kohli,All Season,2025,No,3.7
+MTR10585,Sporty T-Shirt,Topwear,Blazers,Roadster,Men,"M, L, XL",White,Textured,Standard,Minimalist,1091,30%,Leather Belt,Ranveer Singh,All Season,2024,No,4.0
+MTR10586,Casual Sandals,Topwear,Scarves,Biba,Men,"S, M, L, XL",Pastel Green,Matte,Premium,Athleisure,4037,30%,Cap,Kareena Kapoor,Winter,2024,Yes,4.7
+MTR10587,Formal Sneakers,Bottomwear,Shirts,Biba,Men,"S, M, L, XL",Olive,Matte,Recycled,Athleisure,4895,30%,Watch,Kareena Kapoor,Winter,2025,Yes,4.1
+MTR10588,Printed Shirts,Topwear,Scarves,Puma,Men,"M, L, XL",Red,Rough,Recycled,Retro,3984,15%,Sports Socks,None,Summer,2024,No,3.8
+MTR10589,Formal Hoodies,Accessories,Hoodies,Roadster,Women,"XS, S, M, L",Olive,Glossy,Standard,Athleisure,1017,30%,Sports Socks,None,Summer,2025,Yes,4.5
+MTR10590,Basic Hoodies,Topwear,Shirts,U.S. Polo Assn.,Men,UK 6–11,Black,Ribbed,Eco-Friendly,Retro,2798,15%,Leather Belt,Kiara Advani,Winter,2025,No,4.8
+MTR10591,Graphic Shirts,Winterwear,Sneakers,U.S. Polo Assn.,Men,UK 6–11,Red,Rough,Eco-Friendly,Boho,2823,25%,Watch,Kareena Kapoor,Summer,2024,Yes,4.3
+MTR10592,Graphic Kurtis,Topwear,T-Shirt,Allen Solly,Unisex,UK 6–11,Grey,Rough,Recycled,Athleisure,5707,30%,Watch,Virat Kohli,All Season,2023,No,4.8
+MTR10593,Casual Kurtis,Ethnic,Shirts,Adidas,Unisex,"XS, S, M, L",Beige,Textured,Premium,Streetwear,3889,30%,Leather Belt,None,Summer,2025,Yes,4.0
+MTR10594,Basic Scarves,Topwear,Hoodies,U.S. Polo Assn.,Men,UK 6–11,Navy Blue,Rough,Eco-Friendly,Retro,5333,30%,Sunglasses,Deepika Padukone,Summer,2023,No,3.8
+MTR10595,Printed T-Shirt,Accessories,Scarves,Biba,Men,"XS, S, M, L",Navy Blue,Ribbed,Standard,Y2K,3184,15%,Statement Brooch,None,All Season,2025,No,4.9
+MTR10596,Floral Blazers,Ethnic,Shirts,Puma,Men,Free Size,Yellow,Matte,Recycled,Minimalist,1272,15%,Leather Belt,Virat Kohli,Summer,2025,No,4.5
+MTR10597,Printed Jeans,Topwear,Sneakers,Biba,Men,"M, L, XL",Pink,Matte,Premium,Retro,4163,30%,Silver Jhumkas,Virat Kohli,All Season,2024,Yes,3.7
+MTR10598,Basic Shirts,Footwear,Hoodies,U.S. Polo Assn.,Women,"M, L, XL",Grey,Glossy,Recycled,Athleisure,1378,30%,Leather Belt,None,Summer,2024,Yes,3.8
+MTR10599,Basic Shirts,Footwear,Sandals,Biba,Women,"M, L, XL",White,Rough,Standard,Retro,4292,15%,Sports Socks,Kareena Kapoor,Summer,2024,No,4.4
+MTR10600,Floral Sneakers,Winterwear,Tracks,Nike,Men,"S, M, L, XL",Pastel Green,Matte,Recycled,Minimalist,3459,10%,Statement Brooch,Ranveer Singh,Summer,2023,Yes,4.0
+MTR10601,Basic Jeans,Winterwear,Kurtis,Zara,Women,UK 6–11,Pastel Green,Rough,Standard,Streetwear,3842,15%,Leather Belt,Deepika Padukone,All Season,2024,No,3.6
+MTR10602,Sporty Jeans,Accessories,Shirts,H&M,Unisex,Free Size,White,Matte,Premium,Athleisure,4442,20%,Cap,Kiara Advani,Winter,2023,No,3.9
+MTR10603,Casual Blazers,Topwear,Sandals,Roadster,Unisex,Free Size,Yellow,Glossy,Eco-Friendly,Retro,4195,15%,Silver Jhumkas,Virat Kohli,Winter,2023,No,4.9
+MTR10604,Casual Sneakers,Accessories,Hoodies,Nike,Unisex,UK 6–11,Yellow,Smooth,Premium,Boho,2497,20%,Silver Jhumkas,None,Winter,2023,No,4.4
+MTR10605,Graphic T-Shirt,Topwear,Hoodies,Roadster,Men,Free Size,Pastel Green,Rough,Standard,Boho,2538,10%,Sports Socks,Kiara Advani,Winter,2025,No,4.9
+MTR10606,Floral Tracks,Winterwear,Blazers,U.S. Polo Assn.,Men,Free Size,Yellow,Textured,Recycled,Minimalist,1646,20%,Sports Socks,Virat Kohli,Winter,2024,No,4.2
+MTR10607,Casual Blazers,Accessories,Tracks,Levi’s,Women,Free Size,White,Smooth,Eco-Friendly,Boho,1196,30%,Watch,Virat Kohli,All Season,2024,No,4.3
+MTR10608,Floral Sneakers,Footwear,Hoodies,Nike,Women,"XS, S, M, L",Beige,Matte,Eco-Friendly,Retro,1891,25%,Sunglasses,Virat Kohli,Winter,2024,Yes,3.9
+MTR10609,Formal Tracks,Footwear,Kurtis,Adidas,Women,UK 6–11,Beige,Smooth,Eco-Friendly,Y2K,3882,25%,Sports Socks,Kareena Kapoor,All Season,2024,Yes,5.0
+MTR10610,Casual Sneakers,Topwear,Sneakers,Levi’s,Men,UK 6–11,Yellow,Soft,Eco-Friendly,Athleisure,5526,20%,Cap,Kareena Kapoor,Winter,2024,No,4.4
+MTR10611,Formal T-Shirt,Bottomwear,T-Shirt,Allen Solly,Men,Free Size,Pastel Green,Smooth,Premium,Retro,1685,15%,Silver Jhumkas,None,All Season,2025,Yes,4.9
+MTR10612,Formal Blazers,Winterwear,Shirts,Adidas,Unisex,"M, L, XL",Red,Matte,Standard,Y2K,2564,10%,Leather Belt,Deepika Padukone,Summer,2025,No,4.3
+MTR10613,Floral Tracks,Bottomwear,Shirts,U.S. Polo Assn.,Unisex,"XS, S, M, L",Pink,Textured,Standard,Y2K,3470,10%,Leather Belt,Ranveer Singh,Winter,2024,No,3.7
+MTR10614,Casual Tracks,Ethnic,Jeans,Allen Solly,Men,UK 6–11,Grey,Glossy,Recycled,Athleisure,512,25%,Watch,Deepika Padukone,Winter,2025,No,4.4
+MTR10615,Floral Shirts,Winterwear,Scarves,Puma,Men,UK 6–11,Pink,Matte,Recycled,Retro,1976,30%,Watch,Ranveer Singh,All Season,2025,Yes,4.2
+MTR10616,Sporty Kurtis,Bottomwear,Scarves,Levi’s,Women,"XS, S, M, L",Beige,Textured,Recycled,Minimalist,4125,30%,Sunglasses,Ranveer Singh,Summer,2023,No,4.9
+MTR10617,Floral Blazers,Topwear,Kurtis,Adidas,Unisex,"S, M, L, XL",Yellow,Matte,Eco-Friendly,Y2K,3106,15%,Sunglasses,None,Winter,2024,No,3.6
+MTR10618,Floral Jeans,Ethnic,Hoodies,Roadster,Unisex,"XS, S, M, L",Navy Blue,Soft,Eco-Friendly,Minimalist,5933,10%,Statement Brooch,Kareena Kapoor,Winter,2025,No,4.5
+MTR10619,Slim Fit Hoodies,Bottomwear,Shirts,Biba,Men,"XS, S, M, L",Pink,Soft,Premium,Minimalist,2230,10%,Sunglasses,None,All Season,2024,Yes,4.0
+MTR10620,Slim Fit Kurtis,Ethnic,Kurtis,U.S. Polo Assn.,Men,"S, M, L, XL",Black,Glossy,Recycled,Athleisure,3628,30%,Cap,Ranveer Singh,Summer,2023,No,4.5
+MTR10621,Formal Scarves,Bottomwear,Blazers,Levi’s,Unisex,"XS, S, M, L",Beige,Soft,Standard,Athleisure,1733,25%,Sports Socks,Kiara Advani,All Season,2023,Yes,3.8
+MTR10622,Formal Hoodies,Footwear,Tracks,Allen Solly,Men,"M, L, XL",Navy Blue,Ribbed,Eco-Friendly,Streetwear,4028,25%,Statement Brooch,None,Summer,2023,No,4.5
+MTR10623,Slim Fit Hoodies,Bottomwear,Sandals,H&M,Men,"S, M, L, XL",Pastel Green,Soft,Premium,Retro,2565,10%,Sports Socks,Kareena Kapoor,Summer,2025,No,4.7
+MTR10624,Sporty Jeans,Accessories,T-Shirt,Allen Solly,Unisex,"M, L, XL",Pink,Smooth,Eco-Friendly,Boho,3981,30%,Sports Socks,Kareena Kapoor,All Season,2024,No,3.7
+MTR10625,Formal Jeans,Bottomwear,Kurtis,Biba,Men,"XS, S, M, L",Grey,Ribbed,Premium,Boho,604,20%,Cap,Kiara Advani,Winter,2023,Yes,4.5
+MTR10626,Printed Hoodies,Bottomwear,Hoodies,H&M,Men,Free Size,Yellow,Matte,Premium,Streetwear,3130,30%,Watch,Kiara Advani,All Season,2023,No,4.6
+MTR10627,Slim Fit T-Shirt,Topwear,Hoodies,Biba,Unisex,Free Size,Navy Blue,Textured,Recycled,Y2K,3190,30%,Cap,Ranveer Singh,Summer,2024,Yes,4.5
+MTR10628,Graphic Jeans,Ethnic,Scarves,H&M,Unisex,"XS, S, M, L",Beige,Glossy,Eco-Friendly,Athleisure,4970,30%,Watch,Deepika Padukone,Summer,2025,No,3.9
+MTR10629,Graphic Hoodies,Ethnic,Tracks,Allen Solly,Women,UK 6–11,Grey,Textured,Premium,Retro,5379,30%,Leather Belt,Kareena Kapoor,Winter,2023,No,5.0
+MTR10630,Printed Tracks,Footwear,Blazers,Levi’s,Unisex,"XS, S, M, L",Olive,Matte,Premium,Boho,5372,10%,Cap,Ranveer Singh,All Season,2024,No,3.6
+MTR10631,Sporty Shirts,Accessories,Jeans,Levi’s,Women,"XS, S, M, L",Navy Blue,Soft,Recycled,Retro,2361,20%,Watch,Ranveer Singh,Summer,2023,Yes,3.7
+MTR10632,Graphic Shirts,Footwear,Jeans,Puma,Unisex,"S, M, L, XL",Olive,Matte,Premium,Retro,5891,25%,Statement Brooch,Kareena Kapoor,All Season,2024,Yes,3.7
+MTR10633,Sporty Jeans,Topwear,Sandals,U.S. Polo Assn.,Men,"M, L, XL",Navy Blue,Smooth,Standard,Boho,2126,30%,Sports Socks,Ranveer Singh,All Season,2025,Yes,4.2
+MTR10634,Casual Tracks,Topwear,Jeans,Puma,Unisex,Free Size,Navy Blue,Glossy,Standard,Boho,3915,25%,Watch,Ranveer Singh,Summer,2023,Yes,4.3
+MTR10635,Printed Scarves,Bottomwear,Sneakers,Allen Solly,Unisex,"S, M, L, XL",Navy Blue,Smooth,Recycled,Streetwear,4505,15%,Watch,Kiara Advani,Summer,2025,No,4.0
+MTR10636,Casual Kurtis,Footwear,Scarves,Allen Solly,Unisex,"M, L, XL",Olive,Soft,Premium,Streetwear,736,15%,Silver Jhumkas,Deepika Padukone,Summer,2025,No,4.4
+MTR10637,Slim Fit Blazers,Ethnic,Jeans,Biba,Women,"S, M, L, XL",Navy Blue,Rough,Standard,Y2K,1803,20%,Statement Brooch,Kiara Advani,Winter,2023,No,4.9
+MTR10638,Formal Scarves,Winterwear,Hoodies,H&M,Men,"XS, S, M, L",Pink,Rough,Premium,Retro,4106,30%,Cap,Ranveer Singh,All Season,2025,Yes,4.3
+MTR10639,Sporty T-Shirt,Bottomwear,T-Shirt,Allen Solly,Men,"M, L, XL",Beige,Smooth,Recycled,Minimalist,1805,15%,Statement Brooch,Ranveer Singh,All Season,2023,Yes,4.0
+MTR10640,Formal Tracks,Accessories,Sneakers,Zara,Men,"M, L, XL",Grey,Textured,Eco-Friendly,Minimalist,1605,30%,Silver Jhumkas,Ranveer Singh,Winter,2023,Yes,4.7
+MTR10641,Formal Tracks,Topwear,Hoodies,U.S. Polo Assn.,Women,Free Size,White,Ribbed,Premium,Retro,4108,25%,Cap,Virat Kohli,All Season,2024,Yes,4.7
+MTR10642,Slim Fit Scarves,Footwear,Sandals,Nike,Men,UK 6–11,Olive,Smooth,Standard,Boho,3192,20%,Watch,Deepika Padukone,All Season,2025,Yes,4.2
+MTR10643,Basic Blazers,Ethnic,Tracks,U.S. Polo Assn.,Unisex,"S, M, L, XL",Yellow,Matte,Eco-Friendly,Boho,518,15%,Sunglasses,Ranveer Singh,Winter,2024,Yes,4.8
+MTR10644,Slim Fit Blazers,Ethnic,Sneakers,Allen Solly,Unisex,UK 6–11,Black,Glossy,Eco-Friendly,Streetwear,1124,20%,Statement Brooch,None,Winter,2024,No,3.5
+MTR10645,Graphic Hoodies,Footwear,Kurtis,Adidas,Men,"S, M, L, XL",Pink,Soft,Standard,Boho,4281,10%,Watch,None,Winter,2025,Yes,3.9
+MTR10646,Printed Blazers,Winterwear,Hoodies,Zara,Women,"S, M, L, XL",Navy Blue,Textured,Standard,Retro,3992,25%,Statement Brooch,Kiara Advani,Summer,2024,Yes,4.3
+MTR10647,Casual Scarves,Accessories,Jeans,Adidas,Women,Free Size,Olive,Smooth,Eco-Friendly,Retro,1025,15%,Sports Socks,Ranveer Singh,Summer,2024,Yes,3.6
+MTR10648,Basic Sandals,Accessories,Shirts,Nike,Men,"M, L, XL",Pastel Green,Glossy,Standard,Retro,4813,15%,Cap,Ranveer Singh,All Season,2025,No,4.3
+MTR10649,Sporty Hoodies,Accessories,Sneakers,Adidas,Men,"S, M, L, XL",Red,Soft,Eco-Friendly,Boho,1505,30%,Sports Socks,Virat Kohli,All Season,2023,Yes,4.1
+MTR10650,Casual Hoodies,Footwear,Sneakers,Puma,Unisex,Free Size,Pastel Green,Matte,Standard,Athleisure,5615,10%,Leather Belt,Kiara Advani,All Season,2024,Yes,4.0
+MTR10651,Sporty Tracks,Bottomwear,T-Shirt,H&M,Unisex,Free Size,Black,Glossy,Recycled,Retro,1364,15%,Sunglasses,Ranveer Singh,Winter,2023,Yes,4.9
+MTR10652,Graphic Hoodies,Winterwear,Kurtis,Adidas,Unisex,UK 6–11,White,Textured,Premium,Athleisure,3617,25%,Silver Jhumkas,Kareena Kapoor,Summer,2025,No,4.4
+MTR10653,Sporty Sandals,Bottomwear,Tracks,Adidas,Unisex,UK 6–11,Yellow,Matte,Standard,Athleisure,5542,10%,Sports Socks,Ranveer Singh,Winter,2025,Yes,4.0
+MTR10654,Formal Sandals,Footwear,Tracks,Zara,Women,"XS, S, M, L",Grey,Smooth,Premium,Boho,1665,20%,Statement Brooch,Deepika Padukone,Winter,2023,Yes,4.0
+MTR10655,Basic Tracks,Ethnic,Tracks,Allen Solly,Women,"M, L, XL",Black,Soft,Premium,Minimalist,5260,10%,Leather Belt,Deepika Padukone,Winter,2024,No,3.7
+MTR10656,Sporty Scarves,Winterwear,Blazers,Allen Solly,Men,UK 6–11,Grey,Soft,Premium,Minimalist,2596,15%,Sports Socks,Deepika Padukone,Summer,2025,Yes,4.9
+MTR10657,Printed T-Shirt,Footwear,Sandals,Adidas,Men,UK 6–11,Red,Ribbed,Premium,Streetwear,2050,20%,Silver Jhumkas,Virat Kohli,All Season,2025,No,4.8
+MTR10658,Floral Scarves,Footwear,Tracks,Nike,Men,Free Size,Yellow,Soft,Premium,Retro,3160,30%,Silver Jhumkas,Kiara Advani,All Season,2024,Yes,3.5
+MTR10659,Sporty Hoodies,Bottomwear,Jeans,Biba,Men,UK 6–11,Black,Ribbed,Recycled,Minimalist,4449,30%,Sports Socks,Kareena Kapoor,Winter,2024,No,3.6
+MTR10660,Printed Hoodies,Accessories,Kurtis,Puma,Men,UK 6–11,Black,Soft,Eco-Friendly,Retro,1233,30%,Statement Brooch,Kiara Advani,All Season,2023,No,4.9
+MTR10661,Basic Sandals,Footwear,Kurtis,Nike,Unisex,"S, M, L, XL",Yellow,Soft,Eco-Friendly,Boho,3578,20%,Leather Belt,Kareena Kapoor,Winter,2023,Yes,3.8
+MTR10662,Graphic Blazers,Bottomwear,Shirts,Puma,Men,"M, L, XL",Black,Soft,Eco-Friendly,Retro,5183,10%,Statement Brooch,Deepika Padukone,Winter,2024,Yes,3.6
+MTR10663,Printed Sandals,Footwear,Sneakers,Nike,Men,"S, M, L, XL",Navy Blue,Ribbed,Standard,Boho,3452,30%,Cap,Kareena Kapoor,Summer,2024,Yes,4.9
+MTR10664,Sporty Sandals,Topwear,Jeans,Puma,Unisex,"M, L, XL",Black,Glossy,Standard,Minimalist,1297,25%,Leather Belt,Virat Kohli,Summer,2025,No,4.2
+MTR10665,Graphic T-Shirt,Topwear,T-Shirt,Adidas,Women,"S, M, L, XL",White,Rough,Eco-Friendly,Retro,2804,10%,Cap,Virat Kohli,Summer,2024,No,4.0
+MTR10666,Printed Hoodies,Bottomwear,Scarves,Biba,Men,UK 6–11,Navy Blue,Ribbed,Premium,Retro,2663,30%,Leather Belt,Virat Kohli,Summer,2025,Yes,4.1
+MTR10667,Printed Tracks,Accessories,Blazers,Roadster,Unisex,"XS, S, M, L",Pink,Smooth,Standard,Y2K,5570,15%,Leather Belt,None,Summer,2024,No,4.6
+MTR10668,Formal Sandals,Ethnic,T-Shirt,Biba,Unisex,"XS, S, M, L",Beige,Matte,Eco-Friendly,Retro,2303,25%,Cap,Kareena Kapoor,All Season,2023,No,4.9
+MTR10669,Floral Sneakers,Bottomwear,Sneakers,Roadster,Unisex,"M, L, XL",White,Textured,Premium,Y2K,5120,10%,Sports Socks,None,Summer,2023,Yes,3.7
+MTR10670,Graphic Blazers,Topwear,Jeans,Adidas,Men,"M, L, XL",Yellow,Rough,Standard,Minimalist,5132,10%,Sunglasses,Ranveer Singh,All Season,2023,No,3.6
+MTR10671,Printed Hoodies,Winterwear,Sneakers,Allen Solly,Unisex,"S, M, L, XL",Pink,Soft,Premium,Athleisure,4029,25%,Leather Belt,None,Winter,2024,No,4.6
+MTR10672,Printed Blazers,Winterwear,Scarves,Puma,Men,"M, L, XL",Red,Glossy,Recycled,Streetwear,2589,10%,Sunglasses,None,All Season,2025,Yes,4.5
+MTR10673,Casual Kurtis,Ethnic,Jeans,Levi’s,Unisex,"M, L, XL",Pastel Green,Glossy,Standard,Athleisure,2876,30%,Cap,None,Winter,2023,No,3.6
+MTR10674,Printed Hoodies,Topwear,Tracks,Nike,Unisex,Free Size,Pastel Green,Matte,Eco-Friendly,Athleisure,3127,25%,Silver Jhumkas,Kiara Advani,Winter,2024,No,4.3
+MTR10675,Sporty T-Shirt,Ethnic,Hoodies,Nike,Men,"M, L, XL",Yellow,Ribbed,Eco-Friendly,Athleisure,1132,30%,Watch,Kareena Kapoor,Winter,2024,Yes,4.3
+MTR10676,Floral T-Shirt,Winterwear,Kurtis,Biba,Unisex,"S, M, L, XL",Red,Matte,Standard,Athleisure,1324,30%,Leather Belt,Deepika Padukone,All Season,2024,Yes,4.7
+MTR10677,Slim Fit Hoodies,Bottomwear,Kurtis,Biba,Unisex,"S, M, L, XL",White,Smooth,Eco-Friendly,Minimalist,5829,15%,Watch,Deepika Padukone,All Season,2024,No,4.9
+MTR10678,Basic Sandals,Winterwear,Sandals,Biba,Unisex,"M, L, XL",Pink,Ribbed,Recycled,Athleisure,4211,20%,Silver Jhumkas,None,All Season,2024,Yes,4.8
+MTR10679,Printed Shirts,Ethnic,T-Shirt,Levi’s,Unisex,"M, L, XL",Yellow,Smooth,Recycled,Boho,4858,15%,Silver Jhumkas,Kiara Advani,Summer,2023,No,3.6
+MTR10680,Slim Fit Blazers,Footwear,Hoodies,Roadster,Unisex,"S, M, L, XL",Olive,Soft,Standard,Minimalist,2471,15%,Sports Socks,Kareena Kapoor,Winter,2023,Yes,4.1
+MTR10681,Casual Hoodies,Bottomwear,Kurtis,U.S. Polo Assn.,Women,Free Size,Navy Blue,Matte,Recycled,Athleisure,3460,15%,Statement Brooch,Virat Kohli,Summer,2024,Yes,3.7
+MTR10682,Casual Hoodies,Footwear,Tracks,Puma,Men,"S, M, L, XL",Navy Blue,Ribbed,Recycled,Y2K,5077,10%,Sunglasses,Virat Kohli,All Season,2023,Yes,3.5
+MTR10683,Printed Scarves,Topwear,Sandals,Biba,Men,"XS, S, M, L",Pastel Green,Soft,Recycled,Minimalist,2715,10%,Sports Socks,Kiara Advani,Summer,2025,Yes,4.0
+MTR10684,Graphic Blazers,Topwear,Shirts,Roadster,Women,"XS, S, M, L",Red,Textured,Standard,Minimalist,4390,25%,Watch,None,All Season,2025,Yes,4.0
+MTR10685,Graphic Sandals,Accessories,Scarves,H&M,Women,UK 6–11,Black,Glossy,Eco-Friendly,Retro,4439,20%,Watch,Kiara Advani,Summer,2023,No,3.7
+MTR10686,Floral Jeans,Winterwear,Shirts,Puma,Women,"XS, S, M, L",White,Matte,Premium,Boho,3582,25%,Sports Socks,Deepika Padukone,All Season,2023,No,4.4
+MTR10687,Basic Jeans,Bottomwear,Shirts,Allen Solly,Women,UK 6–11,Pink,Smooth,Premium,Minimalist,2680,30%,Silver Jhumkas,Kareena Kapoor,All Season,2025,No,3.9
+MTR10688,Slim Fit Blazers,Winterwear,T-Shirt,Puma,Unisex,"XS, S, M, L",Red,Rough,Eco-Friendly,Minimalist,5621,10%,Cap,Deepika Padukone,Winter,2023,Yes,3.6
+MTR10689,Casual Blazers,Accessories,Sneakers,H&M,Women,UK 6–11,Navy Blue,Rough,Standard,Streetwear,4302,10%,Leather Belt,Kareena Kapoor,Winter,2025,No,4.6
+MTR10690,Casual Hoodies,Footwear,Tracks,Puma,Men,"S, M, L, XL",Yellow,Ribbed,Premium,Athleisure,3178,30%,Silver Jhumkas,Deepika Padukone,Winter,2024,No,4.4
+MTR10691,Slim Fit Sandals,Topwear,Sneakers,Adidas,Women,Free Size,Red,Textured,Recycled,Minimalist,932,10%,Silver Jhumkas,None,All Season,2025,No,4.8
+MTR10692,Graphic Scarves,Ethnic,Tracks,Puma,Women,UK 6–11,Pastel Green,Ribbed,Recycled,Retro,4487,20%,Leather Belt,Virat Kohli,Summer,2023,Yes,4.9
+MTR10693,Printed Shirts,Bottomwear,Shirts,Zara,Women,Free Size,Grey,Soft,Standard,Y2K,4146,30%,Watch,Ranveer Singh,Summer,2024,Yes,4.8
+MTR10694,Casual Shirts,Bottomwear,T-Shirt,U.S. Polo Assn.,Unisex,Free Size,White,Textured,Recycled,Athleisure,840,25%,Silver Jhumkas,Kareena Kapoor,All Season,2025,No,4.7
+MTR10695,Floral Shirts,Topwear,Hoodies,Biba,Men,Free Size,Yellow,Matte,Recycled,Minimalist,1734,10%,Leather Belt,None,All Season,2023,Yes,3.7
+MTR10696,Graphic Tracks,Topwear,Shirts,Levi’s,Unisex,"S, M, L, XL",Yellow,Textured,Premium,Retro,3179,25%,Silver Jhumkas,None,Summer,2025,Yes,3.8
+MTR10697,Graphic Hoodies,Footwear,Blazers,Roadster,Unisex,"S, M, L, XL",Grey,Textured,Eco-Friendly,Streetwear,5078,20%,Cap,Virat Kohli,Summer,2024,Yes,4.9
+MTR10698,Sporty Blazers,Bottomwear,Tracks,Levi’s,Unisex,"S, M, L, XL",Pink,Glossy,Standard,Y2K,3889,25%,Sunglasses,None,Winter,2024,No,4.9
+MTR10699,Graphic Shirts,Topwear,Shirts,Roadster,Men,"XS, S, M, L",Pink,Matte,Eco-Friendly,Streetwear,2715,30%,Cap,Kareena Kapoor,Summer,2024,Yes,3.8
+MTR10700,Basic Shirts,Bottomwear,Sneakers,U.S. Polo Assn.,Men,UK 6–11,Yellow,Textured,Premium,Athleisure,5078,20%,Sunglasses,Virat Kohli,Summer,2025,Yes,4.6
+MTR10701,Graphic Jeans,Ethnic,Hoodies,Zara,Men,"M, L, XL",Navy Blue,Ribbed,Standard,Retro,3145,10%,Statement Brooch,Kareena Kapoor,All Season,2023,No,3.8
+MTR10702,Casual Tracks,Ethnic,Sneakers,Allen Solly,Women,"S, M, L, XL",Beige,Rough,Premium,Minimalist,2561,30%,Sunglasses,Virat Kohli,Summer,2025,Yes,3.9
+MTR10703,Basic Blazers,Winterwear,Hoodies,Puma,Men,Free Size,Navy Blue,Rough,Eco-Friendly,Streetwear,2151,15%,Silver Jhumkas,None,Winter,2023,Yes,4.5
+MTR10704,Sporty Sandals,Accessories,Kurtis,U.S. Polo Assn.,Unisex,"XS, S, M, L",Red,Ribbed,Eco-Friendly,Athleisure,1005,30%,Sunglasses,None,Winter,2024,Yes,4.9
+MTR10705,Graphic Sneakers,Ethnic,Blazers,Biba,Women,"S, M, L, XL",Beige,Smooth,Premium,Athleisure,3472,15%,Statement Brooch,None,Winter,2024,No,3.7
+MTR10706,Graphic Shirts,Footwear,Sandals,Zara,Unisex,"XS, S, M, L",Beige,Rough,Standard,Y2K,2992,20%,Sunglasses,Kareena Kapoor,Winter,2025,No,4.6
+MTR10707,Basic Shirts,Winterwear,Kurtis,Roadster,Women,"S, M, L, XL",Red,Soft,Recycled,Retro,4199,10%,Sports Socks,Kiara Advani,Summer,2024,Yes,3.9
+MTR10708,Basic Shirts,Ethnic,Kurtis,Nike,Men,UK 6–11,Yellow,Soft,Recycled,Minimalist,4855,20%,Silver Jhumkas,None,Summer,2023,No,4.8
+MTR10709,Casual Tracks,Footwear,Shirts,Puma,Women,"S, M, L, XL",White,Textured,Recycled,Minimalist,4923,20%,Sports Socks,Deepika Padukone,All Season,2023,No,4.7
+MTR10710,Basic Kurtis,Bottomwear,Scarves,Biba,Unisex,"S, M, L, XL",Navy Blue,Rough,Recycled,Minimalist,2532,20%,Silver Jhumkas,None,Winter,2025,No,4.3
+MTR10711,Slim Fit Tracks,Bottomwear,Blazers,Levi’s,Women,"S, M, L, XL",Black,Smooth,Premium,Boho,3237,20%,Watch,Deepika Padukone,All Season,2023,Yes,4.2
+MTR10712,Floral Shirts,Accessories,Shirts,Zara,Women,Free Size,Navy Blue,Glossy,Standard,Athleisure,3242,25%,Silver Jhumkas,Kareena Kapoor,Summer,2023,No,4.3
+MTR10713,Printed Sneakers,Bottomwear,Tracks,U.S. Polo Assn.,Unisex,"S, M, L, XL",Yellow,Soft,Eco-Friendly,Retro,4025,10%,Cap,Virat Kohli,Winter,2023,Yes,5.0
+MTR10714,Casual Shirts,Topwear,Blazers,Puma,Unisex,"M, L, XL",White,Matte,Standard,Retro,3396,15%,Sports Socks,Virat Kohli,All Season,2023,No,3.9
+MTR10715,Slim Fit Kurtis,Bottomwear,T-Shirt,Biba,Men,"M, L, XL",Yellow,Textured,Standard,Streetwear,5435,10%,Sports Socks,Kiara Advani,Summer,2025,No,4.8
+MTR10716,Basic Blazers,Ethnic,Shirts,Levi’s,Women,Free Size,Red,Textured,Premium,Athleisure,5422,30%,Watch,Deepika Padukone,Winter,2025,No,4.0
+MTR10717,Casual Tracks,Footwear,Scarves,Levi’s,Men,"XS, S, M, L",Red,Matte,Recycled,Retro,1154,15%,Sports Socks,Kiara Advani,All Season,2023,No,3.7
+MTR10718,Graphic Blazers,Bottomwear,Jeans,U.S. Polo Assn.,Men,"M, L, XL",Black,Ribbed,Standard,Boho,5984,30%,Watch,Kiara Advani,Summer,2023,Yes,4.0
+MTR10719,Basic Jeans,Winterwear,Sandals,Allen Solly,Women,"XS, S, M, L",Pastel Green,Textured,Recycled,Y2K,5148,15%,Watch,Kareena Kapoor,Summer,2024,No,4.2
+MTR10720,Graphic Hoodies,Ethnic,Tracks,U.S. Polo Assn.,Women,"S, M, L, XL",Olive,Matte,Eco-Friendly,Retro,2920,15%,Sunglasses,Ranveer Singh,Summer,2023,No,4.3
+MTR10721,Basic T-Shirt,Winterwear,Jeans,Allen Solly,Women,"S, M, L, XL",Olive,Matte,Recycled,Boho,5237,10%,Silver Jhumkas,Kareena Kapoor,All Season,2023,Yes,3.6
+MTR10722,Casual Tracks,Ethnic,Shirts,Biba,Women,UK 6–11,Yellow,Rough,Recycled,Y2K,4860,25%,Cap,Kiara Advani,Summer,2024,Yes,4.6
+MTR10723,Graphic Scarves,Winterwear,Shirts,Zara,Men,"M, L, XL",Pastel Green,Textured,Recycled,Streetwear,3355,15%,Statement Brooch,Deepika Padukone,Winter,2023,No,3.9
+MTR10724,Basic Kurtis,Bottomwear,Blazers,Levi’s,Men,"M, L, XL",White,Textured,Premium,Y2K,2851,10%,Sports Socks,Deepika Padukone,Winter,2025,Yes,4.7
+MTR10725,Casual Sneakers,Ethnic,Tracks,U.S. Polo Assn.,Unisex,Free Size,Yellow,Rough,Recycled,Boho,1190,25%,Cap,Deepika Padukone,Winter,2023,Yes,4.6
+MTR10726,Slim Fit Kurtis,Topwear,Blazers,U.S. Polo Assn.,Women,"S, M, L, XL",Pastel Green,Matte,Recycled,Athleisure,3734,20%,Statement Brooch,None,All Season,2024,Yes,3.7
+MTR10727,Basic Jeans,Topwear,Sneakers,Levi’s,Men,"XS, S, M, L",Pink,Soft,Recycled,Streetwear,2875,25%,Sports Socks,Kareena Kapoor,All Season,2025,Yes,4.0
+MTR10728,Printed T-Shirt,Bottomwear,Jeans,H&M,Men,UK 6–11,Beige,Ribbed,Recycled,Y2K,5976,30%,Sunglasses,Kareena Kapoor,Winter,2025,Yes,5.0
+MTR10729,Basic Scarves,Bottomwear,T-Shirt,Adidas,Women,"XS, S, M, L",Yellow,Textured,Eco-Friendly,Minimalist,5210,10%,Silver Jhumkas,Kiara Advani,Winter,2025,Yes,4.9
+MTR10730,Slim Fit Hoodies,Accessories,Hoodies,Puma,Unisex,"S, M, L, XL",Yellow,Glossy,Standard,Boho,5295,30%,Watch,Kiara Advani,All Season,2024,Yes,4.9
+MTR10731,Casual Hoodies,Ethnic,Kurtis,Adidas,Women,Free Size,Yellow,Glossy,Eco-Friendly,Streetwear,1822,25%,Watch,Virat Kohli,Summer,2024,No,3.8
+MTR10732,Floral Blazers,Winterwear,Kurtis,Allen Solly,Men,UK 6–11,Grey,Smooth,Recycled,Minimalist,5869,15%,Sports Socks,Ranveer Singh,Winter,2025,Yes,4.1
+MTR10733,Formal Blazers,Footwear,Kurtis,Nike,Men,"XS, S, M, L",Yellow,Matte,Standard,Boho,3335,15%,Sports Socks,Kiara Advani,All Season,2025,No,4.8
+MTR10734,Basic Sneakers,Footwear,Kurtis,Zara,Unisex,"S, M, L, XL",Red,Glossy,Standard,Retro,1735,30%,Sunglasses,Kiara Advani,All Season,2024,Yes,3.7
+MTR10735,Sporty Scarves,Ethnic,Kurtis,Levi’s,Women,"M, L, XL",Beige,Soft,Eco-Friendly,Y2K,2042,20%,Watch,None,All Season,2025,Yes,4.8
+MTR10736,Casual Hoodies,Winterwear,Sneakers,Levi’s,Men,"S, M, L, XL",Olive,Matte,Recycled,Minimalist,5211,25%,Watch,Kareena Kapoor,All Season,2024,No,3.9
+MTR10737,Formal Tracks,Ethnic,T-Shirt,Biba,Women,UK 6–11,Black,Ribbed,Premium,Minimalist,3804,30%,Sports Socks,Deepika Padukone,Summer,2025,No,3.7
+MTR10738,Graphic Jeans,Topwear,T-Shirt,U.S. Polo Assn.,Men,"M, L, XL",Pastel Green,Textured,Eco-Friendly,Retro,5161,25%,Sunglasses,Ranveer Singh,Winter,2025,Yes,4.6
+MTR10739,Graphic Hoodies,Accessories,Blazers,Nike,Men,UK 6–11,Red,Soft,Standard,Streetwear,5847,10%,Sports Socks,Virat Kohli,Summer,2025,No,3.9
+MTR10740,Floral Sandals,Topwear,Hoodies,Adidas,Women,"M, L, XL",Pink,Ribbed,Premium,Streetwear,5695,30%,Silver Jhumkas,Virat Kohli,All Season,2025,Yes,3.9
+MTR10741,Floral Shirts,Bottomwear,Scarves,Adidas,Unisex,Free Size,Navy Blue,Smooth,Recycled,Boho,1845,25%,Silver Jhumkas,None,Winter,2024,Yes,4.2
+MTR10742,Sporty Blazers,Bottomwear,Sandals,Adidas,Women,"XS, S, M, L",White,Rough,Recycled,Y2K,5276,15%,Statement Brooch,Kiara Advani,All Season,2025,No,4.9
+MTR10743,Basic Hoodies,Winterwear,Jeans,H&M,Women,Free Size,Navy Blue,Matte,Premium,Y2K,3405,20%,Sunglasses,Deepika Padukone,Winter,2025,Yes,4.2
+MTR10744,Formal Sneakers,Bottomwear,Scarves,Adidas,Unisex,"XS, S, M, L",Pastel Green,Textured,Eco-Friendly,Boho,2241,25%,Sunglasses,None,Winter,2025,No,4.5
+MTR10745,Slim Fit Sneakers,Bottomwear,Sandals,Zara,Unisex,"S, M, L, XL",Pink,Ribbed,Recycled,Minimalist,4138,15%,Silver Jhumkas,Deepika Padukone,All Season,2024,No,4.3
+MTR10746,Basic Sandals,Topwear,Shirts,Allen Solly,Unisex,Free Size,Beige,Rough,Premium,Minimalist,3666,25%,Watch,Virat Kohli,All Season,2023,No,4.2
+MTR10747,Formal Sandals,Ethnic,Kurtis,Puma,Men,UK 6–11,Navy Blue,Ribbed,Eco-Friendly,Streetwear,4203,25%,Sunglasses,Ranveer Singh,Summer,2024,Yes,4.4
+MTR10748,Basic Blazers,Ethnic,Tracks,Puma,Unisex,"XS, S, M, L",Grey,Smooth,Standard,Y2K,3400,20%,Leather Belt,None,All Season,2023,No,4.2
+MTR10749,Basic Sneakers,Ethnic,Scarves,H&M,Women,UK 6–11,Pastel Green,Ribbed,Recycled,Athleisure,4919,30%,Cap,Kiara Advani,All Season,2025,No,4.0
+MTR10750,Basic Shirts,Bottomwear,Blazers,Nike,Unisex,UK 6–11,Black,Glossy,Premium,Y2K,2282,10%,Cap,None,Winter,2024,Yes,3.7
+MTR10751,Printed T-Shirt,Winterwear,Kurtis,Levi’s,Women,"S, M, L, XL",Red,Glossy,Premium,Minimalist,4225,15%,Statement Brooch,Virat Kohli,All Season,2024,No,3.5
+MTR10752,Slim Fit T-Shirt,Accessories,Shirts,Allen Solly,Men,Free Size,Navy Blue,Textured,Eco-Friendly,Boho,2625,10%,Watch,Deepika Padukone,Winter,2023,Yes,4.3
+MTR10753,Basic Shirts,Winterwear,T-Shirt,Allen Solly,Men,"XS, S, M, L",Olive,Smooth,Recycled,Y2K,4205,15%,Statement Brooch,Ranveer Singh,Summer,2025,Yes,4.3
+MTR10754,Basic Scarves,Winterwear,Jeans,Zara,Unisex,Free Size,Black,Matte,Recycled,Retro,4534,10%,Statement Brooch,Kareena Kapoor,All Season,2023,No,4.9
+MTR10755,Sporty Sneakers,Winterwear,Jeans,U.S. Polo Assn.,Men,"S, M, L, XL",Olive,Glossy,Eco-Friendly,Y2K,2974,30%,Silver Jhumkas,Virat Kohli,Summer,2025,No,4.5
+MTR10756,Graphic Sandals,Bottomwear,Shirts,Nike,Women,"S, M, L, XL",Pink,Matte,Standard,Boho,5540,20%,Cap,Kiara Advani,All Season,2023,No,4.6
+MTR10757,Slim Fit Kurtis,Topwear,Sandals,Roadster,Women,"S, M, L, XL",Beige,Ribbed,Recycled,Minimalist,886,30%,Cap,Virat Kohli,All Season,2025,No,3.8
+MTR10758,Formal T-Shirt,Bottomwear,Sandals,Levi’s,Unisex,Free Size,Navy Blue,Soft,Premium,Athleisure,4262,25%,Sports Socks,Kiara Advani,Winter,2023,No,3.8
+MTR10759,Floral T-Shirt,Footwear,T-Shirt,Zara,Women,"S, M, L, XL",Red,Ribbed,Eco-Friendly,Retro,3789,10%,Watch,Virat Kohli,Winter,2024,Yes,4.8
+MTR10760,Printed Hoodies,Accessories,Shirts,Zara,Women,"M, L, XL",Red,Ribbed,Recycled,Streetwear,4708,25%,Leather Belt,Ranveer Singh,All Season,2023,Yes,3.5
+MTR10761,Floral Sneakers,Topwear,Sandals,H&M,Women,"M, L, XL",Red,Textured,Standard,Retro,1590,25%,Cap,Virat Kohli,All Season,2025,No,3.9
+MTR10762,Formal Sneakers,Topwear,Scarves,Nike,Men,Free Size,White,Rough,Standard,Streetwear,1714,20%,Cap,None,Summer,2025,No,4.2
+MTR10763,Graphic Kurtis,Footwear,Kurtis,Puma,Men,UK 6–11,Pastel Green,Ribbed,Standard,Streetwear,1744,10%,Leather Belt,Kareena Kapoor,Summer,2025,Yes,4.8
+MTR10764,Sporty Hoodies,Accessories,Sneakers,Puma,Women,UK 6–11,Beige,Smooth,Recycled,Athleisure,3641,20%,Cap,Ranveer Singh,Summer,2024,No,4.8
+MTR10765,Casual T-Shirt,Bottomwear,Sneakers,Biba,Unisex,"XS, S, M, L",Navy Blue,Smooth,Standard,Y2K,5145,15%,Sunglasses,Deepika Padukone,Winter,2023,No,4.7
+MTR10766,Formal T-Shirt,Ethnic,Sneakers,Nike,Women,"S, M, L, XL",Pink,Soft,Premium,Athleisure,1690,25%,Sunglasses,Deepika Padukone,Summer,2023,Yes,4.4
+MTR10767,Basic Hoodies,Ethnic,Sandals,Nike,Men,Free Size,Red,Smooth,Standard,Athleisure,5288,25%,Sunglasses,Deepika Padukone,Winter,2025,Yes,3.8
+MTR10768,Formal Kurtis,Accessories,Blazers,Zara,Men,"M, L, XL",Red,Glossy,Premium,Y2K,1132,30%,Sports Socks,Kareena Kapoor,Summer,2025,Yes,3.7
+MTR10769,Basic Scarves,Bottomwear,Shirts,U.S. Polo Assn.,Unisex,UK 6–11,Pastel Green,Textured,Eco-Friendly,Streetwear,4251,25%,Statement Brooch,Kareena Kapoor,All Season,2023,No,4.0
+MTR10770,Floral Blazers,Footwear,Blazers,H&M,Men,"XS, S, M, L",Black,Ribbed,Eco-Friendly,Retro,5959,10%,Silver Jhumkas,Ranveer Singh,All Season,2024,No,4.6
+MTR10771,Sporty Blazers,Topwear,Hoodies,Nike,Women,"M, L, XL",White,Matte,Standard,Minimalist,2107,20%,Cap,Virat Kohli,Summer,2023,No,3.8
+MTR10772,Printed Sandals,Accessories,Sneakers,Zara,Unisex,Free Size,Yellow,Rough,Standard,Minimalist,2246,15%,Cap,Kiara Advani,Winter,2023,Yes,4.1
+MTR10773,Printed Shirts,Topwear,Blazers,Adidas,Men,UK 6–11,Olive,Soft,Recycled,Athleisure,3795,10%,Leather Belt,Kareena Kapoor,All Season,2025,Yes,4.1
+MTR10774,Formal Tracks,Footwear,Shirts,Zara,Women,"S, M, L, XL",Pastel Green,Ribbed,Premium,Minimalist,3171,30%,Statement Brooch,None,Winter,2025,Yes,3.8
+MTR10775,Floral Hoodies,Bottomwear,Sneakers,Levi’s,Women,Free Size,Grey,Rough,Standard,Athleisure,1991,30%,Sports Socks,None,All Season,2024,Yes,4.2
+MTR10776,Casual Kurtis,Footwear,Hoodies,Roadster,Men,"S, M, L, XL",Pastel Green,Textured,Standard,Retro,4792,30%,Watch,Deepika Padukone,All Season,2023,No,4.6
+MTR10777,Printed Shirts,Winterwear,Shirts,Biba,Men,"S, M, L, XL",White,Rough,Recycled,Y2K,2369,15%,Cap,Deepika Padukone,All Season,2025,Yes,3.9
+MTR10778,Printed T-Shirt,Topwear,Blazers,Zara,Women,"XS, S, M, L",Navy Blue,Glossy,Eco-Friendly,Minimalist,5181,20%,Sunglasses,Kareena Kapoor,All Season,2025,No,3.6
+MTR10779,Slim Fit Tracks,Winterwear,Sneakers,Roadster,Unisex,"S, M, L, XL",Pink,Soft,Recycled,Minimalist,2139,20%,Silver Jhumkas,None,Winter,2024,No,4.1
+MTR10780,Casual Scarves,Topwear,Sandals,Nike,Unisex,Free Size,Black,Soft,Premium,Minimalist,2950,10%,Sports Socks,Kiara Advani,Summer,2024,Yes,4.0
+MTR10781,Sporty T-Shirt,Accessories,Tracks,Puma,Unisex,"S, M, L, XL",Grey,Textured,Eco-Friendly,Streetwear,670,15%,Statement Brooch,Ranveer Singh,All Season,2024,No,4.9
+MTR10782,Casual Scarves,Accessories,Hoodies,Allen Solly,Women,Free Size,Grey,Ribbed,Recycled,Y2K,1168,15%,Cap,Deepika Padukone,Winter,2024,Yes,4.1
+MTR10783,Casual Kurtis,Accessories,Sandals,Puma,Men,Free Size,White,Soft,Standard,Retro,5682,30%,Cap,Kareena Kapoor,Winter,2025,Yes,3.7
+MTR10784,Printed Shirts,Accessories,Jeans,Roadster,Unisex,"S, M, L, XL",White,Ribbed,Recycled,Streetwear,2444,20%,Watch,None,All Season,2025,No,4.2
+MTR10785,Formal Scarves,Bottomwear,Sandals,Adidas,Men,"M, L, XL",Pastel Green,Rough,Premium,Streetwear,520,25%,Sports Socks,Kareena Kapoor,Summer,2025,No,3.8
+MTR10786,Casual Sneakers,Footwear,Scarves,Allen Solly,Unisex,UK 6–11,Pastel Green,Glossy,Recycled,Boho,5539,20%,Cap,Kareena Kapoor,Winter,2025,No,4.8
+MTR10787,Printed Shirts,Accessories,Hoodies,Biba,Unisex,UK 6–11,Black,Soft,Standard,Y2K,1203,10%,Watch,Kiara Advani,Winter,2023,Yes,4.2
+MTR10788,Sporty Kurtis,Winterwear,Sandals,H&M,Men,UK 6–11,Red,Rough,Eco-Friendly,Minimalist,2134,25%,Watch,None,All Season,2024,Yes,4.9
+MTR10789,Sporty Shirts,Winterwear,Blazers,H&M,Men,"M, L, XL",Olive,Glossy,Premium,Minimalist,3662,10%,Silver Jhumkas,Deepika Padukone,Winter,2025,No,3.9
+MTR10790,Graphic Sandals,Footwear,Sandals,H&M,Men,Free Size,Pastel Green,Matte,Standard,Y2K,1748,20%,Sunglasses,None,Winter,2023,Yes,3.8
+MTR10791,Graphic Sneakers,Footwear,Blazers,Biba,Men,"XS, S, M, L",Black,Glossy,Eco-Friendly,Minimalist,4089,10%,Sunglasses,Virat Kohli,Winter,2024,Yes,4.4
+MTR10792,Graphic Sneakers,Ethnic,Sandals,Nike,Unisex,"XS, S, M, L",White,Soft,Eco-Friendly,Boho,4706,25%,Statement Brooch,Kareena Kapoor,Summer,2024,Yes,4.1
+MTR10793,Floral Tracks,Footwear,Sneakers,H&M,Men,"XS, S, M, L",Olive,Glossy,Recycled,Retro,4865,10%,Silver Jhumkas,Virat Kohli,All Season,2024,Yes,4.5
+MTR10794,Basic Sandals,Bottomwear,Sneakers,Roadster,Women,"XS, S, M, L",Grey,Textured,Standard,Minimalist,3239,10%,Statement Brooch,Virat Kohli,Summer,2023,No,3.7
+MTR10795,Formal Hoodies,Bottomwear,Sneakers,U.S. Polo Assn.,Unisex,Free Size,White,Ribbed,Recycled,Minimalist,4595,15%,Cap,None,Winter,2023,Yes,4.6
+MTR10796,Casual T-Shirt,Ethnic,Shirts,U.S. Polo Assn.,Women,"M, L, XL",Red,Matte,Eco-Friendly,Minimalist,5941,15%,Silver Jhumkas,Kiara Advani,Summer,2024,Yes,3.6
+MTR10797,Casual Sandals,Footwear,Hoodies,Nike,Men,Free Size,White,Smooth,Recycled,Streetwear,4175,10%,Cap,Kiara Advani,Winter,2025,No,4.1
+MTR10798,Printed Blazers,Accessories,Scarves,H&M,Men,Free Size,Red,Ribbed,Recycled,Retro,4346,10%,Watch,Kiara Advani,Winter,2025,No,4.7
+MTR10799,Printed Hoodies,Topwear,Hoodies,Biba,Women,"M, L, XL",Pastel Green,Ribbed,Recycled,Retro,1634,30%,Sports Socks,None,Summer,2024,Yes,4.6
+MTR10800,Basic Shirts,Accessories,T-Shirt,Biba,Women,"S, M, L, XL",Olive,Smooth,Eco-Friendly,Minimalist,895,30%,Silver Jhumkas,Kiara Advani,Winter,2023,No,4.1
+MTR10801,Graphic Scarves,Winterwear,Scarves,Zara,Men,Free Size,Grey,Matte,Eco-Friendly,Streetwear,4906,25%,Sunglasses,Virat Kohli,All Season,2024,Yes,4.8
+MTR10802,Graphic Sandals,Accessories,Shirts,Biba,Men,"S, M, L, XL",White,Ribbed,Standard,Retro,690,30%,Leather Belt,Virat Kohli,Winter,2023,No,4.6
+MTR10803,Slim Fit Hoodies,Winterwear,Sandals,Levi’s,Men,"M, L, XL",Navy Blue,Soft,Standard,Minimalist,4551,15%,Statement Brooch,Deepika Padukone,Winter,2024,Yes,3.9
+MTR10804,Graphic Sneakers,Bottomwear,Jeans,Levi’s,Men,UK 6–11,Beige,Ribbed,Standard,Boho,778,25%,Cap,Virat Kohli,All Season,2025,No,3.5
+MTR10805,Printed Kurtis,Topwear,Hoodies,Nike,Unisex,"M, L, XL",Red,Glossy,Premium,Y2K,1514,25%,Statement Brooch,Ranveer Singh,All Season,2023,No,3.7
+MTR10806,Slim Fit T-Shirt,Footwear,Jeans,Roadster,Women,Free Size,Pink,Smooth,Premium,Streetwear,2361,30%,Silver Jhumkas,None,All Season,2024,No,4.1
+MTR10807,Formal Blazers,Accessories,Tracks,Puma,Unisex,"M, L, XL",Yellow,Textured,Recycled,Athleisure,5511,30%,Silver Jhumkas,Virat Kohli,Winter,2024,No,3.8
+MTR10808,Sporty T-Shirt,Footwear,Scarves,Levi’s,Women,"XS, S, M, L",Pastel Green,Glossy,Premium,Y2K,5470,25%,Watch,Kareena Kapoor,All Season,2024,No,3.7
+MTR10809,Floral Sneakers,Accessories,T-Shirt,U.S. Polo Assn.,Men,UK 6–11,Beige,Rough,Recycled,Minimalist,4546,30%,Cap,Virat Kohli,Winter,2025,Yes,4.2
+MTR10810,Basic T-Shirt,Winterwear,Kurtis,U.S. Polo Assn.,Men,"M, L, XL",Pink,Smooth,Recycled,Athleisure,3019,20%,Cap,Kiara Advani,All Season,2023,Yes,3.6
+MTR10811,Sporty Shirts,Topwear,Blazers,Biba,Women,"XS, S, M, L",White,Ribbed,Premium,Y2K,5177,20%,Sports Socks,Kiara Advani,Summer,2024,Yes,4.2
+MTR10812,Slim Fit Kurtis,Footwear,Shirts,Nike,Unisex,UK 6–11,Pink,Ribbed,Standard,Y2K,3625,25%,Watch,Virat Kohli,Summer,2023,Yes,3.7
+MTR10813,Basic Sneakers,Ethnic,Sneakers,Zara,Women,Free Size,Pink,Matte,Premium,Minimalist,601,10%,Watch,Kiara Advani,All Season,2025,Yes,4.7
+MTR10814,Formal Kurtis,Accessories,Tracks,Puma,Men,"S, M, L, XL",Pink,Glossy,Standard,Minimalist,2230,30%,Silver Jhumkas,Kareena Kapoor,Winter,2023,Yes,4.7
+MTR10815,Slim Fit Scarves,Ethnic,Shirts,Puma,Women,"S, M, L, XL",Yellow,Glossy,Eco-Friendly,Y2K,4259,30%,Silver Jhumkas,Kiara Advani,Winter,2023,No,3.9
+MTR10816,Slim Fit Hoodies,Ethnic,Shirts,Nike,Men,"S, M, L, XL",Navy Blue,Textured,Recycled,Minimalist,1426,20%,Leather Belt,Deepika Padukone,Winter,2025,No,3.6
+MTR10817,Basic Tracks,Accessories,Shirts,Roadster,Unisex,"S, M, L, XL",Beige,Textured,Standard,Y2K,2615,15%,Cap,Kiara Advani,Summer,2025,Yes,4.4
+MTR10818,Slim Fit Sandals,Winterwear,Sneakers,Adidas,Women,"XS, S, M, L",Beige,Textured,Premium,Minimalist,4545,10%,Silver Jhumkas,Ranveer Singh,Winter,2024,No,3.8
+MTR10819,Casual Scarves,Topwear,T-Shirt,Nike,Women,UK 6–11,Black,Ribbed,Recycled,Boho,4402,15%,Silver Jhumkas,Ranveer Singh,All Season,2023,No,4.4
+MTR10820,Slim Fit Sandals,Winterwear,T-Shirt,U.S. Polo Assn.,Unisex,"S, M, L, XL",Navy Blue,Ribbed,Premium,Athleisure,5440,10%,Statement Brooch,Deepika Padukone,All Season,2023,Yes,4.2
+MTR10821,Printed Sneakers,Bottomwear,Blazers,Zara,Unisex,Free Size,Yellow,Glossy,Standard,Streetwear,1735,25%,Silver Jhumkas,None,Summer,2023,No,3.8
+MTR10822,Formal T-Shirt,Footwear,Scarves,H&M,Women,"S, M, L, XL",Pink,Smooth,Premium,Boho,1986,20%,Watch,Kiara Advani,Summer,2024,Yes,4.9
+MTR10823,Formal Tracks,Topwear,Jeans,Adidas,Unisex,"XS, S, M, L",Pastel Green,Glossy,Eco-Friendly,Y2K,3697,25%,Cap,Ranveer Singh,Summer,2023,No,4.6
+MTR10824,Casual Blazers,Ethnic,Tracks,Roadster,Women,"XS, S, M, L",Olive,Textured,Standard,Y2K,4769,20%,Watch,None,All Season,2023,No,4.7
+MTR10825,Basic Tracks,Bottomwear,Sneakers,Adidas,Women,"M, L, XL",Yellow,Matte,Standard,Boho,2746,15%,Statement Brooch,None,Summer,2023,No,4.4
+MTR10826,Basic Sneakers,Accessories,Hoodies,Puma,Women,UK 6–11,Red,Soft,Standard,Minimalist,2743,15%,Silver Jhumkas,Virat Kohli,Winter,2025,Yes,4.8
+MTR10827,Printed Tracks,Accessories,Tracks,Puma,Women,Free Size,White,Matte,Premium,Y2K,3042,10%,Cap,Deepika Padukone,Summer,2024,No,3.8
+MTR10828,Floral Sandals,Winterwear,Hoodies,Levi’s,Unisex,UK 6–11,Grey,Textured,Eco-Friendly,Boho,1175,30%,Silver Jhumkas,Kiara Advani,All Season,2024,No,4.0
+MTR10829,Casual Hoodies,Accessories,Shirts,Puma,Women,Free Size,Red,Smooth,Recycled,Y2K,1452,10%,Cap,Virat Kohli,Winter,2024,No,4.2
+MTR10830,Sporty Hoodies,Bottomwear,Jeans,Allen Solly,Women,UK 6–11,Navy Blue,Matte,Eco-Friendly,Athleisure,3826,15%,Silver Jhumkas,Ranveer Singh,Winter,2024,No,4.9
+MTR10831,Casual Blazers,Bottomwear,T-Shirt,Biba,Women,UK 6–11,Red,Soft,Premium,Y2K,1239,25%,Sunglasses,Ranveer Singh,Summer,2023,No,3.9
+MTR10832,Slim Fit Scarves,Accessories,Blazers,Allen Solly,Women,UK 6–11,White,Matte,Standard,Boho,5259,20%,Sports Socks,Virat Kohli,All Season,2023,Yes,4.9
+MTR10833,Floral Jeans,Winterwear,Hoodies,Levi’s,Unisex,"M, L, XL",Pastel Green,Ribbed,Eco-Friendly,Boho,785,25%,Leather Belt,Kiara Advani,Summer,2023,No,4.0
+MTR10834,Floral Blazers,Bottomwear,Hoodies,Nike,Women,Free Size,Pink,Rough,Recycled,Y2K,1886,20%,Cap,Ranveer Singh,All Season,2023,No,3.7
+MTR10835,Basic Hoodies,Bottomwear,Blazers,H&M,Unisex,"M, L, XL",Pastel Green,Rough,Recycled,Retro,3151,30%,Watch,Deepika Padukone,Winter,2023,No,4.7
+MTR10836,Slim Fit Jeans,Ethnic,Blazers,Puma,Women,"S, M, L, XL",Pink,Matte,Recycled,Athleisure,689,10%,Statement Brooch,None,Winter,2025,Yes,3.9
+MTR10837,Floral Shirts,Ethnic,T-Shirt,Levi’s,Men,"S, M, L, XL",Navy Blue,Rough,Premium,Boho,3845,10%,Sports Socks,Kareena Kapoor,All Season,2023,Yes,4.0
+MTR10838,Sporty Blazers,Ethnic,Sandals,Biba,Men,"M, L, XL",Red,Ribbed,Standard,Retro,4783,10%,Silver Jhumkas,None,Summer,2023,No,4.9
+MTR10839,Printed Kurtis,Accessories,Blazers,Levi’s,Unisex,Free Size,Pastel Green,Matte,Standard,Streetwear,4010,30%,Statement Brooch,Deepika Padukone,Summer,2023,No,4.5
+MTR10840,Casual Blazers,Bottomwear,T-Shirt,Biba,Women,UK 6–11,Black,Glossy,Standard,Athleisure,4557,25%,Cap,None,Summer,2024,Yes,3.5
+MTR10841,Floral Tracks,Ethnic,Sneakers,Levi’s,Men,"XS, S, M, L",White,Smooth,Standard,Y2K,4490,30%,Cap,Kareena Kapoor,Summer,2024,Yes,4.7
+MTR10842,Floral Shirts,Winterwear,Sandals,Levi’s,Men,UK 6–11,Beige,Textured,Standard,Minimalist,1526,25%,Silver Jhumkas,Kiara Advani,Winter,2023,Yes,4.2
+MTR10843,Casual Sandals,Topwear,Shirts,Biba,Women,Free Size,Beige,Ribbed,Eco-Friendly,Boho,2998,25%,Silver Jhumkas,Ranveer Singh,All Season,2024,No,4.6
+MTR10844,Graphic Sandals,Bottomwear,Sandals,U.S. Polo Assn.,Unisex,UK 6–11,Olive,Textured,Standard,Y2K,1251,10%,Sunglasses,Ranveer Singh,All Season,2023,Yes,5.0
+MTR10845,Slim Fit Jeans,Winterwear,Jeans,U.S. Polo Assn.,Women,"M, L, XL",Pastel Green,Rough,Recycled,Y2K,1546,25%,Silver Jhumkas,Kiara Advani,All Season,2025,Yes,4.7
+MTR10846,Casual Kurtis,Winterwear,Scarves,Biba,Unisex,"S, M, L, XL",Olive,Glossy,Standard,Minimalist,1687,10%,Sports Socks,Virat Kohli,Summer,2024,Yes,5.0
+MTR10847,Formal Scarves,Accessories,Kurtis,Nike,Men,"M, L, XL",Pastel Green,Soft,Eco-Friendly,Streetwear,4904,15%,Statement Brooch,Virat Kohli,Winter,2024,No,3.7
+MTR10848,Graphic Tracks,Accessories,Shirts,H&M,Women,UK 6–11,Pastel Green,Smooth,Premium,Retro,2275,25%,Leather Belt,Kareena Kapoor,All Season,2025,No,3.9
+MTR10849,Printed Shirts,Ethnic,Sandals,Levi’s,Unisex,"XS, S, M, L",Beige,Soft,Standard,Streetwear,3538,15%,Sunglasses,None,Summer,2023,No,3.7
+MTR10850,Sporty Hoodies,Winterwear,Tracks,Biba,Unisex,Free Size,Pink,Textured,Eco-Friendly,Boho,1326,10%,Sunglasses,Deepika Padukone,All Season,2023,Yes,4.7
+MTR10851,Graphic Sandals,Footwear,Scarves,Roadster,Unisex,"S, M, L, XL",Pink,Rough,Standard,Streetwear,2094,20%,Statement Brooch,Ranveer Singh,All Season,2024,No,4.8
+MTR10852,Floral Jeans,Accessories,Scarves,Allen Solly,Women,"S, M, L, XL",Pastel Green,Matte,Standard,Y2K,5746,20%,Leather Belt,Kareena Kapoor,All Season,2023,No,4.7
+MTR10853,Formal Hoodies,Ethnic,Sneakers,H&M,Women,UK 6–11,White,Ribbed,Eco-Friendly,Boho,1322,30%,Sunglasses,Virat Kohli,Winter,2025,Yes,4.0
+MTR10854,Floral Blazers,Bottomwear,T-Shirt,Roadster,Women,Free Size,Yellow,Matte,Premium,Streetwear,2083,10%,Cap,Kareena Kapoor,Winter,2025,Yes,3.8
+MTR10855,Basic Kurtis,Winterwear,Sandals,Adidas,Men,"XS, S, M, L",Black,Smooth,Eco-Friendly,Minimalist,1289,15%,Statement Brooch,Kiara Advani,Summer,2024,Yes,4.0
+MTR10856,Formal Sneakers,Accessories,Scarves,Adidas,Women,"M, L, XL",Pink,Glossy,Standard,Streetwear,3442,30%,Leather Belt,Deepika Padukone,Summer,2023,Yes,4.4
+MTR10857,Formal Sneakers,Winterwear,Kurtis,Roadster,Men,UK 6–11,Pastel Green,Ribbed,Eco-Friendly,Minimalist,4861,20%,Statement Brooch,Virat Kohli,All Season,2025,No,3.7
+MTR10858,Printed Shirts,Winterwear,Tracks,Nike,Men,"S, M, L, XL",Olive,Smooth,Premium,Athleisure,3378,20%,Silver Jhumkas,Virat Kohli,Summer,2025,No,3.6
+MTR10859,Floral Blazers,Footwear,Shirts,Zara,Women,"S, M, L, XL",White,Matte,Standard,Boho,4078,10%,Cap,Virat Kohli,All Season,2025,Yes,3.5
+MTR10860,Sporty Shirts,Topwear,Kurtis,H&M,Women,"M, L, XL",Pink,Soft,Premium,Y2K,1848,15%,Statement Brooch,Kiara Advani,Summer,2023,Yes,4.4
+MTR10861,Casual Blazers,Footwear,Sneakers,Nike,Men,"XS, S, M, L",Pink,Rough,Standard,Minimalist,5251,25%,Watch,Kareena Kapoor,All Season,2023,Yes,3.7
+MTR10862,Sporty Blazers,Winterwear,T-Shirt,Adidas,Women,Free Size,Pink,Smooth,Premium,Y2K,3682,30%,Silver Jhumkas,None,Summer,2024,Yes,4.0
+MTR10863,Basic Sandals,Accessories,Tracks,Levi’s,Unisex,UK 6–11,Pastel Green,Rough,Standard,Streetwear,4466,15%,Sunglasses,Virat Kohli,All Season,2023,Yes,4.9
+MTR10864,Basic Shirts,Ethnic,Kurtis,Puma,Men,UK 6–11,White,Rough,Recycled,Minimalist,3164,25%,Watch,Ranveer Singh,All Season,2025,Yes,3.8
+MTR10865,Sporty Hoodies,Bottomwear,Scarves,Adidas,Unisex,"XS, S, M, L",White,Matte,Recycled,Streetwear,5509,10%,Sunglasses,Ranveer Singh,Winter,2024,No,4.1
+MTR10866,Formal Hoodies,Winterwear,Blazers,H&M,Men,"M, L, XL",Red,Soft,Standard,Minimalist,563,15%,Watch,Deepika Padukone,Summer,2023,Yes,4.4
+MTR10867,Floral Tracks,Topwear,Sneakers,Nike,Unisex,"M, L, XL",Yellow,Ribbed,Standard,Streetwear,2067,30%,Cap,None,All Season,2024,No,3.8
+MTR10868,Graphic T-Shirt,Footwear,T-Shirt,Roadster,Women,Free Size,Yellow,Matte,Standard,Athleisure,4927,30%,Sunglasses,Ranveer Singh,Winter,2024,No,4.8
+MTR10869,Casual Sneakers,Bottomwear,Blazers,Nike,Men,Free Size,White,Soft,Standard,Boho,2030,25%,Statement Brooch,None,All Season,2025,No,4.2
+MTR10870,Floral Scarves,Bottomwear,Sneakers,Adidas,Unisex,"S, M, L, XL",Pink,Ribbed,Premium,Minimalist,4755,25%,Sports Socks,Ranveer Singh,Winter,2023,Yes,4.9
+MTR10871,Casual T-Shirt,Bottomwear,Blazers,Allen Solly,Men,"XS, S, M, L",Yellow,Ribbed,Recycled,Athleisure,757,30%,Sunglasses,Deepika Padukone,Winter,2023,No,3.7
+MTR10872,Printed Blazers,Ethnic,Tracks,Adidas,Men,"M, L, XL",Beige,Rough,Premium,Retro,5321,10%,Cap,Ranveer Singh,All Season,2025,No,4.3
+MTR10873,Casual Jeans,Footwear,Scarves,Levi’s,Men,"S, M, L, XL",Olive,Ribbed,Standard,Streetwear,5091,10%,Sunglasses,Ranveer Singh,Summer,2023,No,4.3
+MTR10874,Slim Fit Sandals,Ethnic,Hoodies,Adidas,Women,"XS, S, M, L",Black,Rough,Premium,Y2K,5356,15%,Cap,Ranveer Singh,Winter,2023,No,4.3
+MTR10875,Graphic Shirts,Ethnic,Tracks,Puma,Unisex,UK 6–11,Pastel Green,Textured,Premium,Retro,4628,15%,Silver Jhumkas,Kiara Advani,All Season,2025,Yes,4.2
+MTR10876,Casual T-Shirt,Accessories,T-Shirt,Puma,Men,UK 6–11,Grey,Soft,Eco-Friendly,Boho,3131,20%,Leather Belt,Virat Kohli,Winter,2025,No,4.9
+MTR10877,Formal Hoodies,Accessories,Blazers,Allen Solly,Men,Free Size,Beige,Textured,Premium,Boho,5776,15%,Silver Jhumkas,None,Winter,2025,No,4.0
+MTR10878,Slim Fit Sneakers,Accessories,Hoodies,H&M,Women,UK 6–11,Pink,Matte,Eco-Friendly,Retro,4623,10%,Statement Brooch,Kareena Kapoor,All Season,2024,Yes,4.2
+MTR10879,Floral Sandals,Bottomwear,Kurtis,H&M,Women,"M, L, XL",Red,Ribbed,Recycled,Minimalist,5670,30%,Cap,None,All Season,2023,No,4.9
+MTR10880,Sporty Jeans,Footwear,T-Shirt,Biba,Unisex,"S, M, L, XL",Beige,Soft,Recycled,Streetwear,5974,10%,Leather Belt,Deepika Padukone,Winter,2025,Yes,4.9
+MTR10881,Sporty Shirts,Bottomwear,Sneakers,Adidas,Unisex,"XS, S, M, L",Beige,Smooth,Premium,Minimalist,3656,15%,Sports Socks,Kareena Kapoor,Winter,2025,No,4.9
+MTR10882,Floral Scarves,Ethnic,Sandals,Puma,Unisex,Free Size,Olive,Ribbed,Recycled,Retro,2841,20%,Statement Brooch,Kiara Advani,All Season,2024,No,4.0
+MTR10883,Casual Sneakers,Bottomwear,Sandals,Levi’s,Women,"M, L, XL",Black,Ribbed,Standard,Y2K,4274,25%,Sunglasses,Kareena Kapoor,Winter,2024,Yes,3.7
+MTR10884,Floral Sandals,Winterwear,Scarves,Zara,Unisex,"M, L, XL",Black,Textured,Premium,Retro,4294,30%,Cap,None,Summer,2025,Yes,4.3
+MTR10885,Basic Blazers,Topwear,Shirts,H&M,Unisex,"XS, S, M, L",Grey,Matte,Standard,Athleisure,1023,20%,Sunglasses,None,Winter,2025,Yes,4.5
+MTR10886,Graphic Sandals,Footwear,Shirts,Adidas,Unisex,Free Size,Yellow,Rough,Premium,Minimalist,5777,20%,Watch,Virat Kohli,All Season,2024,Yes,4.5
+MTR10887,Floral Scarves,Ethnic,Scarves,Zara,Women,"XS, S, M, L",Beige,Rough,Recycled,Boho,4044,20%,Watch,Ranveer Singh,All Season,2025,Yes,3.6
+MTR10888,Casual Sandals,Topwear,T-Shirt,Allen Solly,Unisex,"S, M, L, XL",White,Rough,Premium,Minimalist,2756,10%,Cap,Kiara Advani,All Season,2025,No,3.6
+MTR10889,Floral Sandals,Bottomwear,T-Shirt,Nike,Unisex,UK 6–11,White,Rough,Standard,Minimalist,4973,15%,Leather Belt,Ranveer Singh,Summer,2024,Yes,3.9
+MTR10890,Sporty Sandals,Topwear,Hoodies,H&M,Women,"S, M, L, XL",Black,Rough,Recycled,Boho,5673,20%,Silver Jhumkas,Deepika Padukone,All Season,2023,No,4.4
+MTR10891,Floral Blazers,Winterwear,T-Shirt,Allen Solly,Men,Free Size,White,Soft,Standard,Minimalist,4049,25%,Silver Jhumkas,Ranveer Singh,Winter,2024,Yes,3.6
+MTR10892,Graphic T-Shirt,Footwear,Hoodies,Puma,Men,"S, M, L, XL",Olive,Textured,Premium,Boho,3974,10%,Statement Brooch,None,Winter,2025,No,3.5
+MTR10893,Formal Sneakers,Footwear,Shirts,Puma,Unisex,Free Size,Olive,Glossy,Premium,Boho,1074,30%,Leather Belt,Kiara Advani,Summer,2023,Yes,4.4
+MTR10894,Graphic Blazers,Ethnic,Sandals,Biba,Unisex,"M, L, XL",Beige,Rough,Premium,Y2K,5354,20%,Statement Brooch,Deepika Padukone,Winter,2024,Yes,3.9
+MTR10895,Graphic T-Shirt,Accessories,Blazers,Allen Solly,Unisex,UK 6–11,Black,Ribbed,Standard,Y2K,776,30%,Sports Socks,Deepika Padukone,All Season,2025,Yes,4.5
+MTR10896,Sporty Shirts,Winterwear,Blazers,Levi’s,Men,"M, L, XL",Grey,Ribbed,Eco-Friendly,Minimalist,5168,20%,Silver Jhumkas,None,Winter,2024,Yes,4.3
+MTR10897,Floral T-Shirt,Ethnic,Kurtis,Levi’s,Men,"XS, S, M, L",Grey,Glossy,Standard,Streetwear,4900,10%,Statement Brooch,Kiara Advani,Summer,2025,No,3.7
+MTR10898,Printed T-Shirt,Ethnic,Scarves,Biba,Unisex,"S, M, L, XL",Pastel Green,Smooth,Eco-Friendly,Athleisure,5067,25%,Watch,None,Winter,2024,No,4.1
+MTR10899,Basic Tracks,Ethnic,Blazers,Adidas,Women,"S, M, L, XL",Yellow,Textured,Eco-Friendly,Boho,1292,25%,Statement Brooch,Virat Kohli,Winter,2023,Yes,4.4
+MTR10900,Slim Fit Blazers,Topwear,Blazers,Adidas,Men,"XS, S, M, L",Yellow,Textured,Eco-Friendly,Boho,4716,10%,Silver Jhumkas,Virat Kohli,Summer,2024,Yes,4.0
+MTR10901,Basic Blazers,Ethnic,T-Shirt,Allen Solly,Women,Free Size,Yellow,Rough,Recycled,Retro,1235,10%,Sunglasses,Ranveer Singh,Winter,2024,Yes,4.3
+MTR10902,Casual Sneakers,Winterwear,Jeans,Zara,Women,UK 6–11,Pink,Matte,Recycled,Athleisure,3423,30%,Leather Belt,None,Summer,2024,No,3.5
+MTR10903,Formal Kurtis,Accessories,Jeans,Roadster,Men,"M, L, XL",Red,Textured,Eco-Friendly,Boho,2318,20%,Leather Belt,Ranveer Singh,All Season,2025,No,4.3
+MTR10904,Printed Shirts,Ethnic,Sandals,U.S. Polo Assn.,Women,Free Size,Yellow,Glossy,Standard,Streetwear,3789,20%,Cap,Kiara Advani,Winter,2024,No,5.0
+MTR10905,Floral Tracks,Bottomwear,Jeans,Roadster,Unisex,"M, L, XL",Olive,Glossy,Recycled,Minimalist,5076,10%,Cap,Kareena Kapoor,Summer,2025,Yes,4.0
+MTR10906,Graphic Sandals,Footwear,Jeans,Allen Solly,Men,Free Size,Olive,Textured,Eco-Friendly,Retro,1421,20%,Cap,Virat Kohli,All Season,2025,No,3.7
+MTR10907,Casual Scarves,Ethnic,Hoodies,U.S. Polo Assn.,Unisex,UK 6–11,Pink,Textured,Premium,Athleisure,4286,10%,Sports Socks,None,Summer,2025,No,3.6
+MTR10908,Sporty Hoodies,Winterwear,Tracks,H&M,Men,"M, L, XL",Black,Glossy,Premium,Athleisure,5728,25%,Sports Socks,Ranveer Singh,Summer,2023,Yes,3.7
+MTR10909,Basic Hoodies,Footwear,Hoodies,Allen Solly,Men,Free Size,Grey,Matte,Standard,Retro,773,15%,Watch,Ranveer Singh,Winter,2023,Yes,4.5
+MTR10910,Graphic Sneakers,Topwear,Blazers,Zara,Women,UK 6–11,Grey,Soft,Eco-Friendly,Boho,4231,25%,Sports Socks,Kareena Kapoor,All Season,2024,No,3.6
+MTR10911,Sporty T-Shirt,Ethnic,Scarves,H&M,Men,"M, L, XL",Yellow,Soft,Premium,Y2K,945,15%,Leather Belt,Virat Kohli,All Season,2025,Yes,4.3
+MTR10912,Graphic Jeans,Topwear,Sneakers,Adidas,Women,"M, L, XL",Pink,Glossy,Standard,Minimalist,4804,30%,Silver Jhumkas,Virat Kohli,Summer,2023,No,4.9
+MTR10913,Printed Jeans,Accessories,Sneakers,Nike,Unisex,"M, L, XL",Pastel Green,Ribbed,Premium,Minimalist,5867,15%,Sunglasses,Virat Kohli,All Season,2025,No,3.8
+MTR10914,Formal Shirts,Bottomwear,Jeans,Biba,Women,UK 6–11,Olive,Matte,Standard,Boho,3230,25%,Statement Brooch,Virat Kohli,All Season,2023,Yes,4.3
+MTR10915,Casual Blazers,Footwear,T-Shirt,Roadster,Women,UK 6–11,Black,Smooth,Standard,Boho,1910,15%,Statement Brooch,None,Winter,2024,Yes,4.0
+MTR10916,Printed Scarves,Bottomwear,Tracks,Nike,Women,"M, L, XL",Grey,Matte,Standard,Minimalist,651,30%,Leather Belt,Ranveer Singh,Summer,2023,No,4.5
+MTR10917,Sporty Kurtis,Winterwear,Scarves,Zara,Men,Free Size,Beige,Soft,Premium,Streetwear,956,25%,Leather Belt,Deepika Padukone,Summer,2024,No,3.7
+MTR10918,Formal Kurtis,Winterwear,Blazers,Adidas,Men,"M, L, XL",Beige,Ribbed,Eco-Friendly,Minimalist,5646,25%,Sports Socks,Kiara Advani,Summer,2023,No,3.7
+MTR10919,Floral Sneakers,Topwear,Sandals,Nike,Women,"S, M, L, XL",Pink,Glossy,Recycled,Streetwear,3927,15%,Silver Jhumkas,Kiara Advani,All Season,2025,Yes,4.4
+MTR10920,Slim Fit Tracks,Ethnic,Sandals,H&M,Unisex,UK 6–11,Pastel Green,Soft,Standard,Minimalist,1735,30%,Sports Socks,None,Summer,2024,Yes,3.6
+MTR10921,Sporty Jeans,Bottomwear,Blazers,Zara,Unisex,"S, M, L, XL",Pastel Green,Glossy,Premium,Athleisure,950,30%,Leather Belt,Ranveer Singh,Winter,2024,Yes,4.1
+MTR10922,Basic Jeans,Bottomwear,Jeans,Biba,Unisex,"XS, S, M, L",Black,Rough,Premium,Boho,662,30%,Leather Belt,Ranveer Singh,Winter,2024,Yes,4.1
+MTR10923,Formal Hoodies,Ethnic,Jeans,Levi’s,Unisex,"M, L, XL",Grey,Textured,Standard,Streetwear,5202,10%,Sunglasses,Deepika Padukone,Winter,2024,Yes,3.9
+MTR10924,Slim Fit Hoodies,Accessories,Tracks,Biba,Unisex,"M, L, XL",Olive,Smooth,Recycled,Y2K,1502,25%,Sunglasses,Kareena Kapoor,Summer,2025,Yes,4.8
+MTR10925,Floral Blazers,Accessories,Hoodies,U.S. Polo Assn.,Women,"XS, S, M, L",White,Smooth,Recycled,Retro,1516,10%,Sports Socks,Ranveer Singh,All Season,2024,Yes,4.5
+MTR10926,Slim Fit Jeans,Footwear,Shirts,U.S. Polo Assn.,Women,"S, M, L, XL",Beige,Textured,Standard,Streetwear,2902,20%,Cap,Virat Kohli,Winter,2025,No,4.7
+MTR10927,Casual Tracks,Footwear,Scarves,H&M,Men,Free Size,Grey,Textured,Premium,Minimalist,3465,15%,Silver Jhumkas,Kareena Kapoor,Summer,2025,Yes,4.0
+MTR10928,Printed Jeans,Ethnic,Jeans,Zara,Men,"S, M, L, XL",Navy Blue,Smooth,Standard,Retro,1647,15%,Statement Brooch,None,Summer,2024,No,4.6
+MTR10929,Casual Blazers,Topwear,Scarves,Zara,Men,"S, M, L, XL",Navy Blue,Smooth,Eco-Friendly,Boho,1644,20%,Statement Brooch,Virat Kohli,All Season,2025,No,3.9
+MTR10930,Floral Scarves,Ethnic,Kurtis,Puma,Unisex,Free Size,Olive,Textured,Recycled,Athleisure,4763,25%,Sports Socks,Virat Kohli,Summer,2024,Yes,4.5
+MTR10931,Graphic Jeans,Winterwear,Kurtis,Levi’s,Unisex,"S, M, L, XL",Navy Blue,Textured,Premium,Boho,1154,20%,Cap,Kiara Advani,All Season,2023,No,5.0
+MTR10932,Printed Kurtis,Topwear,Jeans,Nike,Men,"XS, S, M, L",Red,Glossy,Premium,Minimalist,5482,30%,Statement Brooch,Kiara Advani,All Season,2024,Yes,5.0
+MTR10933,Printed Shirts,Winterwear,T-Shirt,U.S. Polo Assn.,Women,"S, M, L, XL",Yellow,Rough,Standard,Retro,3495,30%,Sunglasses,None,Winter,2023,No,3.8
+MTR10934,Printed Sandals,Ethnic,T-Shirt,U.S. Polo Assn.,Men,"M, L, XL",Black,Soft,Eco-Friendly,Athleisure,5799,25%,Sunglasses,Virat Kohli,Summer,2024,Yes,4.8
+MTR10935,Floral Sneakers,Winterwear,Sneakers,Levi’s,Unisex,Free Size,Black,Smooth,Standard,Y2K,5569,15%,Silver Jhumkas,Ranveer Singh,Winter,2023,No,3.7
+MTR10936,Sporty T-Shirt,Ethnic,Sneakers,Puma,Unisex,Free Size,Olive,Smooth,Standard,Athleisure,3631,15%,Silver Jhumkas,Virat Kohli,Winter,2023,No,4.8
+MTR10937,Basic Hoodies,Winterwear,Sneakers,Adidas,Women,Free Size,Olive,Textured,Standard,Retro,4281,10%,Cap,None,All Season,2025,Yes,4.4
+MTR10938,Slim Fit Kurtis,Footwear,Sneakers,Puma,Unisex,Free Size,Black,Ribbed,Recycled,Y2K,543,10%,Silver Jhumkas,None,All Season,2023,Yes,4.0
+MTR10939,Basic T-Shirt,Ethnic,Sandals,U.S. Polo Assn.,Unisex,"XS, S, M, L",White,Rough,Recycled,Streetwear,5425,30%,Statement Brooch,Kiara Advani,Summer,2023,Yes,4.3
+MTR10940,Casual Scarves,Footwear,Shirts,Levi’s,Unisex,"M, L, XL",Beige,Smooth,Eco-Friendly,Minimalist,3030,25%,Watch,Ranveer Singh,Winter,2025,Yes,3.7
+MTR10941,Graphic Blazers,Ethnic,Tracks,Adidas,Unisex,Free Size,Pastel Green,Soft,Premium,Retro,4099,15%,Sunglasses,Deepika Padukone,Summer,2025,No,4.6
+MTR10942,Slim Fit Blazers,Winterwear,Jeans,Nike,Unisex,"S, M, L, XL",Pastel Green,Ribbed,Eco-Friendly,Minimalist,1384,20%,Cap,Kareena Kapoor,Winter,2024,Yes,3.7
+MTR10943,Graphic Sandals,Winterwear,Hoodies,U.S. Polo Assn.,Women,"XS, S, M, L",Olive,Textured,Premium,Retro,3413,30%,Statement Brooch,Kareena Kapoor,All Season,2025,No,4.9
+MTR10944,Basic Jeans,Footwear,Tracks,Zara,Women,"S, M, L, XL",White,Soft,Standard,Streetwear,3517,30%,Statement Brooch,Kareena Kapoor,Winter,2023,Yes,4.9
+MTR10945,Floral Sneakers,Winterwear,Blazers,Levi’s,Men,"M, L, XL",Beige,Smooth,Premium,Retro,5090,20%,Watch,Deepika Padukone,Winter,2025,No,4.8
+MTR10946,Casual Sandals,Winterwear,Jeans,U.S. Polo Assn.,Unisex,"S, M, L, XL",White,Glossy,Standard,Y2K,1725,10%,Watch,Virat Kohli,Summer,2024,Yes,4.8
+MTR10947,Graphic Blazers,Topwear,Shirts,Adidas,Unisex,"S, M, L, XL",Black,Glossy,Recycled,Boho,3284,25%,Watch,Virat Kohli,Summer,2023,No,3.6
+MTR10948,Casual Sandals,Winterwear,Sneakers,Biba,Men,"M, L, XL",Olive,Glossy,Premium,Boho,4838,30%,Leather Belt,Deepika Padukone,Winter,2023,No,3.5
+MTR10949,Casual T-Shirt,Footwear,Blazers,Adidas,Women,"XS, S, M, L",Black,Glossy,Standard,Boho,5766,30%,Silver Jhumkas,Virat Kohli,Winter,2024,Yes,3.6
+MTR10950,Formal Kurtis,Winterwear,Jeans,Allen Solly,Unisex,UK 6–11,Olive,Ribbed,Recycled,Minimalist,3794,20%,Silver Jhumkas,Kareena Kapoor,Winter,2024,No,3.5
+MTR10951,Slim Fit Tracks,Accessories,Sandals,Adidas,Women,"M, L, XL",White,Soft,Recycled,Retro,2678,30%,Leather Belt,Kiara Advani,All Season,2025,Yes,3.9
+MTR10952,Basic Blazers,Footwear,Kurtis,Adidas,Women,"XS, S, M, L",Grey,Textured,Standard,Retro,1974,15%,Sports Socks,Ranveer Singh,Winter,2024,Yes,4.3
+MTR10953,Floral Sneakers,Accessories,Blazers,Biba,Women,Free Size,Black,Textured,Premium,Athleisure,1687,15%,Leather Belt,Virat Kohli,All Season,2023,No,4.3
+MTR10954,Sporty Kurtis,Bottomwear,Hoodies,Adidas,Women,Free Size,Pastel Green,Ribbed,Standard,Athleisure,2540,20%,Watch,Deepika Padukone,All Season,2025,Yes,4.4
+MTR10955,Basic Tracks,Ethnic,T-Shirt,H&M,Women,"XS, S, M, L",Black,Rough,Recycled,Streetwear,3945,10%,Statement Brooch,Virat Kohli,Winter,2025,No,4.4
+MTR10956,Casual Scarves,Topwear,Kurtis,Roadster,Women,"M, L, XL",Black,Soft,Standard,Minimalist,2011,30%,Sunglasses,Virat Kohli,All Season,2023,Yes,3.9
+MTR10957,Slim Fit Jeans,Footwear,Sandals,U.S. Polo Assn.,Women,"M, L, XL",Beige,Soft,Standard,Minimalist,4437,30%,Cap,Ranveer Singh,Summer,2024,Yes,4.0
+MTR10958,Casual Hoodies,Ethnic,T-Shirt,Puma,Women,UK 6–11,Olive,Matte,Recycled,Boho,3156,20%,Statement Brooch,Kareena Kapoor,Winter,2023,Yes,3.6
+MTR10959,Basic Blazers,Ethnic,Jeans,Nike,Women,UK 6–11,Pink,Rough,Eco-Friendly,Minimalist,990,30%,Cap,Deepika Padukone,All Season,2025,Yes,3.6
+MTR10960,Graphic Kurtis,Winterwear,Scarves,Roadster,Women,"M, L, XL",Yellow,Textured,Eco-Friendly,Streetwear,1157,15%,Silver Jhumkas,None,Summer,2025,Yes,3.5
+MTR10961,Basic T-Shirt,Accessories,Jeans,Zara,Women,"S, M, L, XL",Pastel Green,Ribbed,Eco-Friendly,Retro,3878,20%,Sports Socks,Deepika Padukone,All Season,2024,No,3.8
+MTR10962,Sporty Sneakers,Footwear,Shirts,H&M,Men,UK 6–11,Pastel Green,Ribbed,Standard,Streetwear,1761,10%,Watch,Ranveer Singh,All Season,2025,No,4.0
+MTR10963,Basic Jeans,Topwear,T-Shirt,Zara,Men,"S, M, L, XL",Navy Blue,Textured,Eco-Friendly,Y2K,1402,25%,Cap,Kareena Kapoor,Winter,2025,Yes,4.1
+MTR10964,Graphic Jeans,Bottomwear,Tracks,U.S. Polo Assn.,Women,"XS, S, M, L",White,Soft,Recycled,Streetwear,3710,15%,Cap,Ranveer Singh,Summer,2025,Yes,4.5
+MTR10965,Graphic Kurtis,Bottomwear,Shirts,Roadster,Men,"M, L, XL",Beige,Smooth,Eco-Friendly,Y2K,901,15%,Cap,Deepika Padukone,Winter,2023,No,4.3
+MTR10966,Printed Kurtis,Winterwear,Sandals,U.S. Polo Assn.,Unisex,Free Size,Beige,Matte,Standard,Athleisure,3138,20%,Sports Socks,Virat Kohli,All Season,2024,No,4.9
+MTR10967,Printed Hoodies,Accessories,Hoodies,Nike,Women,UK 6–11,Beige,Textured,Eco-Friendly,Minimalist,3262,25%,Watch,Kareena Kapoor,All Season,2025,No,3.7
+MTR10968,Slim Fit Hoodies,Topwear,Tracks,Nike,Women,Free Size,Grey,Matte,Premium,Streetwear,3153,30%,Sports Socks,None,Winter,2024,No,4.8
+MTR10969,Casual Hoodies,Topwear,Jeans,Biba,Men,"M, L, XL",Yellow,Glossy,Premium,Y2K,4842,15%,Watch,Deepika Padukone,Summer,2024,Yes,3.7
+MTR10970,Graphic T-Shirt,Footwear,Kurtis,Nike,Women,UK 6–11,White,Rough,Standard,Athleisure,2085,20%,Cap,Deepika Padukone,Winter,2025,Yes,4.2
+MTR10971,Casual Kurtis,Bottomwear,Tracks,U.S. Polo Assn.,Unisex,UK 6–11,Beige,Matte,Recycled,Retro,4335,10%,Silver Jhumkas,Ranveer Singh,Summer,2024,Yes,4.6
+MTR10972,Slim Fit Sandals,Bottomwear,Shirts,Roadster,Men,"M, L, XL",Pastel Green,Textured,Standard,Boho,4044,30%,Cap,None,Summer,2023,No,3.8
+MTR10973,Sporty Hoodies,Footwear,Sandals,Allen Solly,Men,"M, L, XL",Red,Ribbed,Standard,Athleisure,5388,10%,Cap,Virat Kohli,All Season,2024,No,4.3
+MTR10974,Sporty Hoodies,Topwear,Kurtis,Zara,Unisex,UK 6–11,Pastel Green,Soft,Recycled,Streetwear,1149,10%,Silver Jhumkas,None,All Season,2025,No,5.0
+MTR10975,Printed Blazers,Bottomwear,Sneakers,Zara,Women,Free Size,Grey,Glossy,Premium,Streetwear,3890,20%,Silver Jhumkas,Kiara Advani,All Season,2023,No,4.9
+MTR10976,Sporty T-Shirt,Accessories,Tracks,Levi’s,Women,UK 6–11,Pink,Smooth,Eco-Friendly,Y2K,4240,10%,Watch,None,All Season,2025,Yes,5.0
+MTR10977,Printed Tracks,Winterwear,Jeans,Levi’s,Unisex,UK 6–11,Navy Blue,Textured,Standard,Streetwear,3693,25%,Sunglasses,Ranveer Singh,All Season,2024,No,3.5
+MTR10978,Basic Hoodies,Footwear,Sandals,Adidas,Unisex,"XS, S, M, L",Yellow,Matte,Eco-Friendly,Boho,5717,15%,Sunglasses,None,All Season,2023,No,4.9
+MTR10979,Slim Fit T-Shirt,Accessories,Tracks,Puma,Women,"M, L, XL",Black,Ribbed,Recycled,Boho,4125,20%,Watch,Virat Kohli,All Season,2023,No,4.6
+MTR10980,Casual Kurtis,Topwear,Jeans,Levi’s,Men,Free Size,Olive,Ribbed,Standard,Retro,516,10%,Sports Socks,Virat Kohli,Summer,2023,Yes,4.5
+MTR10981,Sporty Kurtis,Ethnic,Blazers,Roadster,Unisex,"XS, S, M, L",Beige,Matte,Standard,Athleisure,4185,20%,Sports Socks,Kiara Advani,Winter,2023,Yes,3.8
+MTR10982,Casual T-Shirt,Topwear,Jeans,Roadster,Women,Free Size,Pink,Matte,Eco-Friendly,Streetwear,3176,25%,Silver Jhumkas,Deepika Padukone,All Season,2024,Yes,4.8
+MTR10983,Basic Sandals,Bottomwear,Hoodies,Puma,Women,"M, L, XL",Red,Rough,Eco-Friendly,Y2K,5740,30%,Leather Belt,None,Winter,2025,Yes,4.3
+MTR10984,Printed Sneakers,Bottomwear,Kurtis,Allen Solly,Women,Free Size,Navy Blue,Textured,Standard,Athleisure,3015,20%,Statement Brooch,Deepika Padukone,All Season,2025,No,4.0
+MTR10985,Sporty Jeans,Ethnic,Hoodies,Levi’s,Women,"XS, S, M, L",Navy Blue,Glossy,Premium,Streetwear,5143,10%,Cap,Kareena Kapoor,Summer,2023,Yes,3.9
+MTR10986,Slim Fit Blazers,Bottomwear,T-Shirt,Zara,Unisex,Free Size,Black,Glossy,Eco-Friendly,Athleisure,4202,25%,Statement Brooch,Virat Kohli,All Season,2023,No,4.6
+MTR10987,Casual Jeans,Accessories,Sandals,Levi’s,Men,Free Size,Pastel Green,Soft,Eco-Friendly,Retro,909,25%,Statement Brooch,Kareena Kapoor,Winter,2024,Yes,3.7
+MTR10988,Basic Hoodies,Footwear,Hoodies,Roadster,Women,"M, L, XL",Beige,Ribbed,Premium,Y2K,812,15%,Sunglasses,Deepika Padukone,Winter,2023,No,3.7
+MTR10989,Casual Sandals,Bottomwear,Scarves,U.S. Polo Assn.,Men,Free Size,Grey,Textured,Premium,Boho,1357,20%,Sunglasses,Virat Kohli,Winter,2024,Yes,4.7
+MTR10990,Slim Fit Hoodies,Bottomwear,Hoodies,Roadster,Women,"XS, S, M, L",Black,Matte,Recycled,Retro,4886,10%,Sunglasses,Deepika Padukone,Summer,2024,Yes,4.6
+MTR10991,Basic T-Shirt,Bottomwear,Shirts,Levi’s,Unisex,UK 6–11,Black,Textured,Eco-Friendly,Y2K,4477,10%,Watch,Deepika Padukone,Winter,2023,No,3.9
+MTR10992,Slim Fit Hoodies,Ethnic,Jeans,Biba,Women,Free Size,Black,Glossy,Premium,Streetwear,1687,20%,Silver Jhumkas,Ranveer Singh,All Season,2023,No,4.2
+MTR10993,Graphic Scarves,Topwear,Tracks,Puma,Unisex,"XS, S, M, L",Olive,Ribbed,Recycled,Athleisure,3148,30%,Sunglasses,Deepika Padukone,Winter,2024,Yes,4.2
+MTR10994,Printed Sandals,Ethnic,Shirts,Allen Solly,Men,UK 6–11,Olive,Rough,Eco-Friendly,Streetwear,2389,25%,Cap,Ranveer Singh,Winter,2023,No,4.2
+MTR10995,Printed Sandals,Topwear,Sandals,Nike,Unisex,UK 6–11,Grey,Soft,Recycled,Minimalist,2431,20%,Sunglasses,Kiara Advani,All Season,2025,No,5.0
+MTR10996,Graphic Sandals,Bottomwear,Scarves,Zara,Men,"S, M, L, XL",Yellow,Soft,Premium,Retro,5568,10%,Sunglasses,Ranveer Singh,All Season,2023,Yes,3.8
+MTR10997,Casual Jeans,Winterwear,Kurtis,Allen Solly,Women,Free Size,Grey,Matte,Recycled,Boho,2212,25%,Statement Brooch,Deepika Padukone,Summer,2024,Yes,3.7
+MTR10998,Printed Sneakers,Winterwear,Tracks,Puma,Men,"XS, S, M, L",White,Rough,Premium,Boho,4087,10%,Sports Socks,None,Winter,2024,No,4.8
+MTR10999,Sporty Sneakers,Accessories,Blazers,Adidas,Men,UK 6–11,White,Matte,Standard,Streetwear,1394,30%,Silver Jhumkas,Kiara Advani,Summer,2024,Yes,4.2
